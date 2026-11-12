@@ -1,0 +1,76 @@
+<div style="background: #ecfdf5; border-left: 5px solid #047857; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0 0 8px 0; font-size: 15px; font-weight: bold; color: #047857;" data-ke-size="size16">📌 JW신약 핵심 3줄</p>
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① JW신약(067290)은 9월 탈모 테마로 <b>2,300원대에서 4,335원(9월 8일 고가)</b>까지 올랐다가, 11월 11일 종가 <b>2,465원</b>으로 내려왔습니다.<br />② 3분기(잠정, 별도) 매출 <b>212억 원(+3.3%)</b>, 영업이익 <b>26억 원(-3.1%)</b>으로 큰 변화는 없었고, 1~3분기 누적 영업이익은 <b>+50.4%</b>입니다.<br />③ 탈모 치료 건강보험 적용은 11월 12일 현재 <b>최종 결정이 발표되지 않았습니다.</b></p>
+</div>
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 12일 (주가는 11월 11일 종가, 실적은 11월 5일 잠정실적 공시 기준)</p>
+<p data-ke-size="size16"><b>JW신약 주가</b>는 9월 1일 상한가를 시작으로 탈모 관련주 대표 종목으로 묶여 크게 움직였습니다. 이 글은 처음 상한가 때 정리한 JW신약 분석을 11월 기준으로 업데이트한 것입니다. 이후 주가 흐름, 11월 5일 발표된 3분기 실적, 탈모 건강보험 급여화 진행 상황, AD-303 파이프라인을 차례로 점검합니다.</p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">JW신약 주가 흐름, 상한가 이후 어떻게 됐나</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">날짜</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">종가</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">8월 31일</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">2,300원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">테마 시작 직전</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">9월 1일</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">2,990원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">상한가</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">9월 8일</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">3,890원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">장중 4,335원 (52주 최고)</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">10월 15일</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">2,400원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">상승분 대부분 반납</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">11월 9일</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">2,090원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">테마 이후 저점권</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">11월 10일</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">2,510원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">하루 약 20% 반등</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;"><b>11월 11일</b></td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;"><b>2,465원</b></td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">시가총액 약 1,300억 원대</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">9월 초 미국 탈모 신약 기대감과 국내 건강보험 급여화 논의가 겹치며 일주일 새 60% 넘게 올랐지만, 10월 들어 거래량이 줄면서 상승분 대부분을 반납했습니다. 9월 3일에는 투자경고종목 지정예고 공시가 나오기도 했습니다. 11월 10일 하루 약 20% 반등은 회사의 별도 공시 없이 나온 움직임이라, 테마성 수급으로 보는 편이 자연스럽습니다.</p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">JW신약 3분기 실적 (2026년 11월 5일 잠정)</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">구분 (별도)</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">3분기</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">전년 대비</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">1~3분기 누적</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">매출액</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">212.6억 원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">+3.3%</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">641.9억 원 (+7.1%)</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">영업이익</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">26.1억 원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">-3.1%</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #f7fdfa;">90.8억 원 (+50.4%)</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">당기순이익</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">24.8억 원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">+23.5%</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">87.2억 원 (+69.3%)</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">3분기만 보면 매출은 소폭 늘고 영업이익은 제자리였습니다. 2분기(영업이익 35.8억 원)보다는 27% 줄었습니다. 다만 상반기 개선 덕분에 올해 누적 영업이익은 지난해보다 50% 늘었습니다. 탈모 테마로 주가가 크게 움직였던 것과 달리, 실적에는 아직 탈모 사업의 뚜렷한 변화가 숫자로 나타나지 않았습니다. 잠정치라 감사인 검토 뒤 바뀔 수 있습니다.</p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">JW신약 탈모 치료제와 AD-303</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>모나드정</b>: 피나스테리드 성분의 먹는 남성형 탈모 치료제로, JW신약이 오래 판매해 온 제네릭 전문의약품입니다. 처방전이 필요합니다.</li>
+<li><b>AD-303</b>: LNP(지질나노입자)·마이크로버블 기술을 쓴 바르는(도포형) 탈모 치료제 후보로 알려져 있습니다. 아직 상용화 전 단계라 임상 진척이 확인돼야 가치를 따질 수 있습니다.</li>
+<li><b>회사 개요</b>: JW홀딩스 계열 코스닥 상장사로, 항진균제·비뇨기과용제 같은 전문의약품과 탈모·코스메슈티컬 제품을 판매합니다. JW중외제약과는 별개 상장사입니다.</li>
+</ul>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">탈모 건강보험 급여화, 어디까지 왔나</h2>
+<p data-ke-size="size16">정부는 2026년 6월 20~30대 청년층부터 탈모 치료에 건강보험을 적용하는 방안을 검토하겠다고 밝혔고, 7월 국민 토론회를 거쳐 하반기 중 방향을 정하겠다고 했습니다. 업계에서는 연간 재정 소요를 1,500억 원 안팎으로 추산합니다. 그러나 <b>11월 12일 현재 적용 대상·시행 시기에 대한 최종 결정은 발표되지 않았습니다.</b> 의료계 일부는 급여 우선순위에 맞지 않는다며 반대하고 있습니다.</p>
+<p data-ke-size="size16">급여화가 확정되면 처방 문턱이 낮아지는 점은 긍정적이지만, 피나스테리드는 여러 제약사가 같은 성분 제네릭을 팔고 있어 JW신약만의 수혜로 보기 어렵습니다. 급여 과정에서 약가 인하 압력이 함께 논의될 수 있다는 점도 함께 봐야 합니다.</p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">JW신약 투자 전 체크 포인트</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #d1fae5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">PER</span><br /><b>약 13배</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #d1fae5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">PBR</span><br /><b>약 3.3배</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #d1fae5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">52주 범위</span><br /><b>1,246~4,335원</b></td>
+</tr>
+</tbody>
+</table>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>정책 리스크</b>: 급여화가 늦어지거나 대상이 줄면 테마가 다시 식을 수 있습니다.</li>
+<li><b>파이프라인 리스크</b>: AD-303은 임상 결과에 따라 기대감이 크게 달라질 수 있습니다.</li>
+<li><b>변동성</b>: 52주 최저와 최고가 3배 이상 차이 날 만큼 테마 수급에 따라 움직였습니다. 하루 20~30% 급등도 몇 차례 나왔습니다.</li>
+<li><b>희석 가능성</b>: 2026년 5월 제10회차 전환사채 발행을 결정한 이력이 있어, 전환 조건과 물량을 공시로 확인하는 것이 좋습니다.</li>
+</ul>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">JW신약 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. JW신약은 왜 9월에 상한가를 갔나요?</b><br />A. 미국 탈모 신약 개발사에 대한 월가 관심, 국내 탈모 치료 건강보험 적용 논의, 자체 파이프라인 AD-303 기대감이 한꺼번에 겹쳤기 때문입니다.</p>
+<p data-ke-size="size16"><b>Q. JW신약 3분기 실적은 어땠나요?</b><br />A. 11월 5일 잠정 공시 기준 매출 212.6억 원(+3.3%), 영업이익 26.1억 원(-3.1%)입니다. 1~3분기 누적 영업이익은 90.8억 원으로 50.4% 늘었습니다.</p>
+<p data-ke-size="size16"><b>Q. JW신약과 JW중외제약은 같은 회사인가요?</b><br />A. 아닙니다. 둘 다 JW홀딩스 계열이지만 따로 상장된 회사입니다. 종목코드(JW신약 067290)를 꼭 확인하세요.</p>
+<p data-ke-size="size16"><b>Q. 탈모 건강보험 적용은 확정됐나요?</b><br />A. 11월 12일 현재 최종 결정은 발표되지 않았습니다. 정부는 청년층부터 적용하는 방안을 검토 중입니다.</p>
+<p data-ke-size="size16"><b>Q. 모나드정은 처방 없이 살 수 있나요?</b><br />A. 아닙니다. 피나스테리드 성분 전문의약품이라 병원 처방이 필요합니다.</p>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">자료: JW신약 영업(잠정)실적 공시(2026.11.05), 네이버 증권 시세(2026.11.11 종가), 투자경고 관련 공시(2026.09.03), 탈모 건보 적용 관련 보도(2026.06). 이 글은 공개 자료를 정리한 것으로 특정 종목의 매수·매도를 권유하지 않으며, 투자 판단과 책임은 투자자 본인에게 있습니다.</p>
