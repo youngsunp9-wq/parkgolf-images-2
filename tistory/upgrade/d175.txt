@@ -1,0 +1,63 @@
+<div style="background: #f0fdfa; border-left: 5px solid #0f766e; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0 0 8px 0; font-size: 16px; font-weight: bold; color: #0f766e;" data-ke-size="size16">📌 지역주도형 청년일자리사업 핵심 3줄</p>
+<p style="margin: 0; line-height: 1.9; font-size: 16px;" data-ke-size="size16">① 만 39세 이하 미취업 청년이 지역 기업에 취업하면 <b>지자체가 인건비를 최대 2년</b>까지 지원하는 사업입니다.<br />② 2026년은 <b>지역혁신형(최대 2년)</b>과 <b>상생기반대응형(최대 1년)</b> 두 유형으로 운영됩니다.<br />③ 금액·모집 시기는 <b>시·군·구마다 달라서</b> 내가 사는 지역 공고를 직접 찾아야 합니다.</p>
+</div>
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 12일</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>지역주도형 청년일자리사업</b>은 이름은 하나지만, 실제로는 지자체마다 내용이 다릅니다. 2026년 기준 사업 유형, 지역별 지원 금액 예시, 우리 지역 공고 찾는 법, 다른 청년 지원금과 같이 받을 수 있는지까지 정리했습니다.</p>
+<p style="text-align: center; margin: 20px 0;"><a style="display: inline-block; background: #0f766e; color: #ffffff; font-weight: bold; font-size: 17px; padding: 14px 26px; border-radius: 10px; text-decoration: none;" href="https://dustm.tndlrs.com/53">청년도전 지원사업 함께 확인하기</a></p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">지역주도형 청년일자리사업이란</h2>
+<p style="font-size: 16px;" data-ke-size="size16">행정안전부가 예산을 대고, <b>시·도와 시·군·구가 직접 사업을 설계해 운영</b>하는 청년 일자리 사업입니다. 지역 기업이 청년을 새로 채용하면 인건비를 지원하고, 청년에게는 정착지원금이나 교육을 더해 주는 방식입니다. 그래서 같은 이름이라도 지역마다 금액·기간·모집 시기가 다릅니다.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">2026 사업 유형 2가지</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">유형</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">내용</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">인건비 지원 기간</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;"><b>지역혁신형</b> (1유형)</td><td style="padding: 10px; border: 1px solid #99f6e4;">미래신산업 등 지역 혁신 분야 기업이 만 39세 이하 청년을 새로 채용</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;"><b>최대 2년</b></td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f7fdfc;"><b>상생기반대응형</b> (2유형)</td><td style="padding: 10px; border: 1px solid #99f6e4; background: #f7fdfc;">지역 기업·단체가 청년 직원을 새로 채용</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f7fdfc;"><b>최대 1년</b></td></tr>
+</tbody>
+</table>
+<p style="font-size: 16px;" data-ke-size="size16">예전에는 지역정착지원형·창업투자생태계조성형·민간취업연계형 세 가지로 나뉘었지만, 지금은 위 두 유형이 중심입니다. 대구시가 2026년 9월 공개한 사업 현황 자료도 이 두 유형으로 나눠 안내하고 있습니다.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">지원대상과 조건</h2>
+<ul style="line-height: 1.9; font-size: 16px;" data-ke-list-type="disc">
+<li><b>나이</b>: 만 39세 이하 미취업 청년 (실업자·취업준비생 포함)</li>
+<li><b>거주</b>: 사업 기간 동안 해당 지자체에 주민등록을 두어야 하는 경우가 많습니다</li>
+<li><b>채용 방식</b>: 참여 기업에 새로 채용되는 형태입니다. 이미 다니던 회사는 보통 해당되지 않습니다</li>
+<li><b>교육</b>: 지자체에 따라 연 16시간 이상 역량강화 교육 이수가 조건인 곳도 있습니다</li>
+</ul>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">지역별 지원 금액 예시</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">지역 (공고 기준)</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">지원 내용</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">충북 옥천군 (2025년 사업)</td><td style="padding: 10px; border: 1px solid #99f6e4;">인건비 <b>월 200만 원</b>(기업 부담 10% 포함), 최대 2년 + 고용 유지 시 1년 추가, 정착지원금 월 20만 원, 역량강화 연 20만 원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f7fdfc;">경북 청년창업 지역정착 (2026)</td><td style="padding: 10px; border: 1px solid #99f6e4; background: #f7fdfc;">500만 원 한도(월 60만 원 한도), 연 16시간 이상 교육 이수</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">전북 청년 지역정착 (2026)</td><td style="padding: 10px; border: 1px solid #99f6e4;">월 30만 원씩 최대 12개월(총 360만 원), 3월 20일 마감</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f7fdfc;">경기 남양주시 (2026)</td><td style="padding: 10px; border: 1px solid #99f6e4; background: #f7fdfc;">신규 모집 없이 기존 참여자만 지원</td></tr>
+</tbody>
+</table>
+<p style="font-size: 16px;" data-ke-size="size16">이처럼 <b>지역마다 금액도, 올해 모집 여부도 다릅니다.</b> 위 금액은 해당 지자체 공고 기준 예시이며, 내 지역 조건은 반드시 그 지역 공고문으로 확인하세요.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">우리 지역 공고 찾는 법</h2>
+<ol style="line-height: 1.9; font-size: 16px;" data-ke-list-type="decimal">
+<li><b>시·군·구청 홈페이지</b>: '청년정책' 또는 '일자리지원' 메뉴에서 '지역주도형 청년일자리' 게시판을 찾습니다</li>
+<li><b>시·도청 고시공고</b>: 도 단위로 참여 기업·참여자 통합 모집 공고가 올라오는 경우가 많습니다</li>
+<li><b>온통청년</b>: 정부 청년정책 포털에서 지역과 '일자리'로 검색하면 지자체 청년 사업을 한 번에 볼 수 있습니다</li>
+<li><b>전화 문의</b>: 지역 청년센터나 일자리 담당 부서에 올해 모집 계획을 물어보는 것이 가장 정확합니다</li>
+</ol>
+<p style="font-size: 16px;" data-ke-size="size16">공고는 보통 연초부터 상반기에 몰리고, 하반기에 추가 모집이 나오기도 합니다. 2027년 사업을 노린다면 12월~2월 공고를 미리 챙기세요.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">자주 묻는 질문</h2>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 청년일자리도약장려금과 같이 받을 수 있나요?</b><br />A. 어렵습니다. 고용노동부 2026년 청년일자리도약장려금 지침은 중앙부처나 지자체 예산으로 인건비를 지원받는 청년을 대상에서 제외합니다.</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 다른 지역 사업에도 참여할 수 있나요?</b><br />A. 대부분 사업 기간 동안 그 지역에 주민등록을 두어야 해서, 전입이 필요할 수 있습니다. 공고문의 거주 조건을 확인하세요.</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 인건비는 청년에게 직접 들어오나요?</b><br />A. 인건비는 채용한 기업에 지원되고, 청년은 회사에서 월급을 받는 구조입니다. 정착지원금이 있는 지역은 청년에게 따로 지급하기도 합니다.</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 창업 준비생도 해당되나요?</b><br />A. 경북 청년창업 지역정착 사업처럼 창업 청년을 따로 지원하는 지역도 있습니다. 지역별 공고를 확인하세요.</p>
+<p style="text-align: center; margin: 24px 0;"><a style="display: inline-block; background: #0f766e; color: #ffffff; font-weight: bold; font-size: 17px; padding: 14px 26px; border-radius: 10px; text-decoration: none;" href="https://www.youthcenter.go.kr">온통청년에서 우리 지역 공고 조회하기</a></p>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">참고: 행정안전부 지역주도형 청년일자리사업 안내, 대구광역시 지역주도형 청년일자리사업 현황(2026.9.15, 공공데이터포털), 옥천군·남양주시·경상북도·전북 공고, 고용노동부 2026년 청년일자리도약장려금 사업운영지침. 금액·일정은 지자체 공고에 따라 다릅니다.</p>
