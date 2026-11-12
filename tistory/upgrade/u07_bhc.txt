@@ -1,0 +1,74 @@
+<div style="background: #fff7ed; border-left: 5px solid #c2410c; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0 0 8px 0; font-size: 15px; font-weight: bold; color: #c2410c;" data-ke-size="size16">📌 콰삭모짜킹 핵심 3줄</p>
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① BHC 콰삭모짜킹 가격은 <b>24,000원</b>이고, 메뉴는 <b>순살 한 가지</b>입니다.<br />② 칼로리는 <b>100g당 319kcal</b>, 중량은 <b>600g 이상</b>이라 한 마리 기준 약 1,900kcal 이상입니다.<br />③ 공식 안내상 <b>BHC 앱과 쿠팡이츠 한정 판매</b>라서 배민에서는 주문할 수 없습니다.</p>
+</div>
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 12일 (BHC 공식 메뉴 정보 기준)</p>
+<p data-ke-size="size16"><b>콰삭모짜킹</b>은 BHC가 이탈리안 셰프 샘킴과 함께 만든 메뉴로, 바삭한 콰삭킹 튀김옷 안에 통모짜렐라를 채운 '반전 식감' 치킨입니다. 가장 많이 찾는 <b>콰삭모짜킹 배민 주문 여부, 칼로리, 가격, 소스 구성</b>을 BHC 공식 메뉴 정보로 다시 정리하고, 직접 먹어본 후기를 덧붙였습니다.</p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">콰삭모짜킹 배민 주문, 되나요?</h2>
+<p data-ke-size="size16">결론부터 말하면 <b>배달의민족(배민)에서는 콰삭모짜킹을 주문할 수 없습니다.</b> BHC 공식 홈페이지 메뉴 안내에 '<b>BHC APP, 쿠팡이츠 한정 판매</b>'라고 적혀 있습니다(2026년 11월 12일 확인). 배민이나 요기요에서 검색해도 나오지 않는다면 이 때문입니다.</p>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #ffedd5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">BHC 앱</span><br /><b>주문 가능</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #ffedd5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">쿠팡이츠</span><br /><b>주문 가능</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #f3f4f6; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">배민·요기요</span><br /><b>판매 안 함</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">할인을 받고 싶다면 BHC 앱 자체 쿠폰이나 쿠팡이츠 할인 행사를 확인하는 편이 현실적입니다. 판매 채널과 행사는 바뀔 수 있으니 주문 직전 앱에서 한 번 더 확인하세요.</p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">콰삭모짜킹 가격과 메뉴 구성</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">항목</th>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">가격</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;"><b>24,000원</b></td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fffaf5;">구성</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fffaf5;">순살 (한마리·콤보 없음)</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">중량</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">치킨 600g 이상</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fffaf5;">기본 소스</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fffaf5;">아라비아따딥 + 그린올리브딥</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">원산지</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">닭고기 국내산</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">콰삭모짜킹은 현재 BHC 메뉴판에서 신메뉴 칸이 아니라 '킹' 시리즈 쪽에 정식 메뉴로 올라 있습니다. 매장이나 배달비에 따라 실제 결제 금액은 달라질 수 있습니다.</p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">콰삭모짜킹 칼로리와 영양성분</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">100g당</th>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">함량</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">열량</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;"><b>319kcal</b></td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fffaf5;">단백질</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fffaf5;">15g</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">포화지방</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">4.2g</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fffaf5;">당류</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fffaf5;">0.6g</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">나트륨</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">354.2mg</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">BHC가 공개한 수치는 100g 기준입니다. 한 마리 중량이 600g 이상이므로 <b>한 마리를 다 먹으면 약 1,914kcal 이상</b>(319kcal × 6)으로 계산됩니다. 여기에 딥 소스 열량은 따로 더해집니다. 두세 명이 나눠 먹으면 1인당 600~950kcal 정도로 보면 됩니다.</p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">콰삭모짜킹 소스와 치필링 조합</h2>
+<p data-ke-size="size16">기본으로 <b>아라비아따딥</b>과 <b>그린올리브딥</b> 두 가지가 함께 옵니다. 아라비아따딥은 토마토 베이스의 살짝 매콤한 맛이라 치즈의 느끼함을 잡아 주고, 그린올리브딥은 고소하고 부드러운 쪽입니다. 공식 중량 정보에는 '치킨필링 600g 이상'으로 표기돼 있습니다.</p>
+<p>__IMG1__</p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">콰삭모짜킹 내돈내산 솔직 후기</h2>
+<p data-ke-size="size16">박스를 열자마자 고소하고 바삭한 향이 확 풍겨왔습니다. 겉면은 감자·쌀·옥수수 크럼블 배터믹스로 만들어져 아주 바삭하고, 한 입 베어 물면 속에 고소하고 쫄깃한 <b>통모짜렐라 치즈</b>가 가득 차 있어 반전 식감을 줍니다. 치킨이라기보다 고급스러운 대형 치즈스틱과 치킨을 합친 느낌도 살짝 납니다.</p>
+<p>__IMG2__</p>
+<p data-ke-size="size16">함께 온 아라비아따딥과 그린올리브딥이 신의 한 수였습니다. 살짝 매콤한 이탈리안 풍미가 치즈의 느끼함을 잡아 주어 마지막 조각까지 물리지 않았고, 맵찔이 기준에서도 맛있게 매콤한 정도였습니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>좋았던 점</b>: 치즈가 아낌없이 들어 있어 치즈 좋아하는 분이라면 만족할 맛, 바삭한 크럼블과 매콤한 소스의 조합</li>
+<li><b>추천 대상</b>: 맥주 안주로 바삭하고 고소한 치킨을 찾는 분, 모짜렐라나 이탈리안 스타일을 좋아하는 분</li>
+<li><b>아쉬운 점</b>: 순살만 있어 뼈 치킨파에겐 선택지가 없고, 배민에서 주문할 수 없다는 점</li>
+</ul>
+<p>__IMG3__</p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">콰삭모짜킹 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 콰삭모짜킹 배민에서 주문할 수 있나요?</b><br />A. 아니요. BHC 공식 안내 기준 BHC 앱과 쿠팡이츠에서만 판매합니다.</p>
+<p data-ke-size="size16"><b>Q. 콰삭모짜킹 칼로리는 얼마인가요?</b><br />A. 100g당 319kcal입니다. 한 마리(600g 이상) 기준 약 1,914kcal 이상입니다.</p>
+<p data-ke-size="size16"><b>Q. 뼈 있는 한마리나 콤보도 있나요?</b><br />A. 없습니다. 콰삭모짜킹은 순살 메뉴 하나만 있습니다.</p>
+<p data-ke-size="size16"><b>Q. 소스는 무엇이 나오나요?</b><br />A. 아라비아따딥과 그린올리브딥이 기본 제공됩니다.</p>
+<p data-ke-size="size16"><b>Q. 알레르기 성분이 있나요?</b><br />A. 치킨에는 알류(가금류), 우유, 땅콩, 대두, 밀, 새우, 닭고기, 쇠고기, 조개류(굴, 가리비)가 표시돼 있습니다. 아라비아따딥에는 토마토 등, 그린올리브딥에는 우유 등이 들어갑니다.</p>
+<p data-ke-size="size16"><b>Q. 남은 콰삭모짜킹은 어떻게 데우나요?</b><br />A. 에어프라이어에 살짝 돌리면 바삭함이 다시 살아납니다. 치즈가 흘러나오지 않게 너무 오래 돌리지 않는 것이 좋습니다.</p>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">가격·판매 채널·영양 정보는 2026년 11월 12일 BHC 공식 홈페이지 메뉴 정보 기준이며, 이후 바뀔 수 있습니다.</p>
