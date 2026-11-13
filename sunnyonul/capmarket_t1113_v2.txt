@@ -1,0 +1,84 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 13일 (간담회 당일 보도 기준)</p>
+<p data-ke-size="size16"><b>자본시장 간담회</b>가 11월 13일 오전 9시 30분 서울 여의도 한국거래소에서 열렸습니다. 주제는 "신뢰받는 자본시장, 현장에서 묻고 답을 찾다"였습니다. 이 글은 간담회에서 나온 대통령 발언과 전문가 발제를 주제별로 나눠, 개인 투자자가 알아 두면 좋은 용어와 쟁점 위주로 정리한 것입니다.</p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">자본시장 간담회 한눈에 보기</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">항목</th>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">일시·장소</td><td style="padding: 10px; border: 1px solid #bfdbfe;">2026년 11월 13일 오전 9시 30분, 서울 여의도 (생중계)</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #f8fbff;">참석</td><td style="padding: 10px; border: 1px solid #bfdbfe; background: #f8fbff;">경제부총리, 금융위원장, 중기부 장관, 금감원장, 거래소 이사장, 국회 정무위원장, 업계·학계·코스닥 기업 등 50여 명</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">정부 4대 축</td><td style="padding: 10px; border: 1px solid #bfdbfe;">신뢰, 주주보호, 혁신, 시장 접근성</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #f8fbff;">발제</td><td style="padding: 10px; border: 1px solid #bfdbfe; background: #f8fbff;">자본시장연구원(주주보호), 한국금융연구원(코스닥), 신영증권(가계 자금·장기투자)</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">시장 변수</td><td style="padding: 10px; border: 1px solid #bfdbfe;">AI·반도체 불확실성, 주요국 기준금리 인상 기조, 중동 리스크</td></tr>
+</tbody>
+</table>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">대통령 발언 5가지 정리</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>정책 방향</b>: 자본시장 정상화는 흔들림 없는 정부 방향이며, 최근 증시 조정으로 개혁 의지가 다시 시험받고 있다는 취지로 말했습니다.</li>
+<li><b>불공정거래 단속</b>: 주가조작 같은 자본시장 불공정행위에 대해 중대범죄수사청에도 엄정 단속을 따로 지시했다고 밝혔습니다.</li>
+<li><b>코스닥 퇴출</b>: 부실기업과 저성과 기업에는 상장폐지 요건을 제대로 적용해 빨리 정리해야 한다고 했습니다. 다만 성장 가능성 있는 혁신기업이 함께 피해를 보면 안 된다고 덧붙이며, 진입·퇴출·평가 체계 전반을 점검하라고 주문했습니다.</li>
+<li><b>주가 누르기</b>: 상속세 부담을 줄이려고 주가를 일부러 낮게 두는 행태를 문제로 지적했습니다.</li>
+<li><b>근본 해법</b>: 기업, 시장, 투자 문화가 모두 바뀌어야 신뢰가 돌아온다고 강조했습니다.</li>
+</ul>
+<p data-ke-size="size16">참고로 코스닥은 지난 20년 동안 1,353개 기업이 새로 상장했고, 퇴출된 기업은 415개였다는 통계가 함께 보도됐습니다.</p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">한국 증시 저평가, 숫자로 보면</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">시장</th>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">PBR</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">미국</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">5.67배</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #f8fbff;">대만</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #f8fbff;">5.55배</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">일본</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">2.03배</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #f8fbff;"><b>한국 코스피</b></td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #f8fbff;"><b>1.74배</b> (지난달 기준)</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">PBR은 주가를 회사의 순자산과 비교한 값입니다. 1배보다 낮으면 회사가 가진 순자산보다 시장에서 싸게 평가받는다는 뜻입니다. 자본시장연구원 발제에 따르면 PBR 1배 미만 기업은 <b>코스피 560개, 코스닥 877개</b>입니다.</p>
+<p data-ke-size="size16">발제자는 그 이유로 세 가지를 들었습니다. 상속·증여 등을 의식해 주가를 일부러 누르는 관행, 경영권이 바뀔 때 붙는 웃돈(경영권 프리미엄)을 지배주주만 가져가는 구조, 그리고 이를 견제할 외부 장치가 약하다는 점입니다.</p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">의무공개매수 뜻과 쟁점</h2>
+<p data-ke-size="size16"><b>의무공개매수</b>는 누군가 회사의 경영권을 살 때, 대주주 지분만 비싸게 사지 말고 일반 주주의 주식도 같은 조건으로 사들이도록 의무를 지우는 제도입니다. 경영권 프리미엄을 소액주주도 나눠 갖게 하자는 취지입니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>50%+1주 방식</b>: 경영권 확보에 필요한 만큼(과반)까지만 공개매수 의무를 지우는 방식</li>
+<li><b>100% 방식</b>: 남은 주주가 원하면 전부 사 주도록 하는 방식</li>
+<li><b>발제 제안</b>: 두 방식 사이에서 단계적으로 접근하자는 의견</li>
+</ul>
+<p data-ke-size="size16">같은 발제에서 나온 다른 주주보호 방안도 함께 정리합니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>저PBR 명단공표</b>: 11월 2일부터 시행된 제도로, 실효성을 높이는 보완이 제안됐습니다.</li>
+<li><b>합병가액 외부평가</b>: 합병비율을 정할 때 공정한 가치와 외부평가를 반영하는 내용으로, 12월 9일 시행 예정이라고 소개됐습니다.</li>
+<li><b>5%룰 공동보유자 요건 완화</b>: 소액주주들이 의견을 모아 함께 행동하기 쉽게 하자는 방안입니다.</li>
+<li><b>한국형 베어허그</b>: 저평가 기업에 공개적으로 인수 의사를 밝혀 경영 개선을 압박하는 방식입니다.</li>
+<li><b>스튜어드십 코드 강화</b>, <b>고의 주가 누르기 기업 세제 보완</b>도 함께 거론됐습니다.</li>
+</ul>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">코스닥 개편, 다산다사란</h2>
+<p data-ke-size="size16">한국금융연구원 발제는 코스닥에 초점을 맞췄습니다. 벤처투자금을 회수할 길이 사실상 상장(IPO) 하나뿐이라 기업들이 서둘러 상장하고, 반대로 부실기업은 오래 남아 시장 신뢰를 떨어뜨렸다는 진단입니다.</p>
+<p data-ke-size="size16">해법으로 제시된 목표는 <b>다산다사(多産多死)</b>, 즉 많이 들어오고 많이 나가는 시장입니다. 이를 위해 M&amp;A와 세컨더리(구주 거래) 시장을 키워 상장 말고도 회수할 길을 만들고, 상장을 주관한 증권사와 기관투자자의 책임을 높이자는 내용이 담겼습니다. 코스닥을 등급별로 나누는 <b>세그먼트 분리</b>는 하위 등급 기업에 낙인이 찍힐 수 있어 운영 방식이 관건이라는 의견도 나왔습니다.</p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">개인 투자자 자금, 얼마나 들어왔나</h2>
+<p data-ke-size="size16">신영증권 발제에 따르면 올해 국내 증시는 개인과 자사주 매입이 사고, 외국인과 기관이 파는 흐름이었습니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>가계금융자산 중 주식 비중: 지난해 3월 말 <b>20.2%</b>에서 올해 6월 말 <b>34.4%</b>로 상승</li>
+<li>올해 가계 자금의 증시 순유입: 누적 <b>147조 4,000억 원</b>으로 사상 최대</li>
+</ul>
+<p data-ke-size="size16">발제자는 이 돈이 단기 매매에 그치지 않도록 배당성향 개선, 상장종목 관리 강화, ISA를 평생 자산관리 계좌로 키우는 방안, 공모펀드와 적립식 투자 교육 확대를 제안했습니다. 자유토론에서도 의무공개매수, 저성과 기업 M&amp;A, 상장폐지 강화, 코스닥 세그먼트 분리가 주로 다뤄졌고, 못 다 한 의견은 서면으로 받기로 했습니다.</p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">자본시장 간담회 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 의무공개매수 제도는 언제부터 시행되나요?</b><br />A. 정해지지 않았습니다. 13일 간담회에서는 방식(50%+1주, 100%)과 단계적 도입이 논의된 단계이며, 시행하려면 법 개정 등 후속 절차가 필요합니다.</p>
+<p data-ke-size="size16"><b>Q. PBR 1배 미만이면 싸게 살 기회인가요?</b><br />A. 그렇게 단정할 수 없습니다. PBR이 낮은 데는 수익성 부진, 업황, 지배구조 등 여러 이유가 있을 수 있어 개별 기업의 실적과 공시를 따로 확인해야 합니다.</p>
+<p data-ke-size="size16"><b>Q. 코스닥 상장폐지 기준이 바로 바뀌나요?</b><br />A. 대통령이 신속한 퇴출을 주문했지만, 구체적인 요건 변경은 아직 발표되지 않았습니다. 한국거래소와 금융위원회의 후속 발표를 확인해야 합니다.</p>
+<p data-ke-size="size16"><b>Q. 합병가액 외부평가는 무엇이 달라지나요?</b><br />A. 합병비율을 정할 때 주가만 보지 않고 공정한 가치와 외부 평가를 반영하도록 하는 내용입니다. 발제에서는 12월 9일 시행 예정으로 소개됐습니다.</p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">자본시장 간담회 핵심 요약</h2>
+<div style="background: #eff6ff; border-left: 5px solid #1d4ed8; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 11월 13일 대통령이 여의도에서 <b>자본시장 정책 간담회</b>를 직접 주재했고, 정부·업계·학계 등 <b>50여 명</b>이 참석했습니다.<br />② 대통령은 코스닥 <b>부실·저성과 기업의 신속한 퇴출</b>, 진입·퇴출·평가 체계 점검과 불공정거래 엄정 단속을 주문했습니다.<br />③ 주주보호 의제로 <b>의무공개매수</b>, 합병가액 외부평가, 저PBR 명단공표 보완 같은 주주보호 방안이 나왔지만 <b>아직 확정된 정책은 아닙니다.</b><br />④ 올해 가계 자금의 증시 순유입은 <b>147조 4,000억 원</b>으로 사상 최대였고, ISA·장기투자 활성화가 과제로 제시됐습니다.</p>
+</div>
+<div style="background: #fff7ed; border-left: 5px solid #ea580c; border-radius: 8px; padding: 16px 18px; margin: 28px 0 16px 0;">
+<p style="margin: 0 0 6px 0; font-weight: bold; color: #c2410c;" data-ke-size="size16">⚠️ 투자 유의 및 규제 안내</p>
+<p style="margin: 0; line-height: 1.8; font-size: 14px;" data-ke-size="size16">이 글은 언론 보도와 공개 발표를 정리한 일반 정보이며, 특정 종목·상품의 매수나 매도를 권유하지 않습니다. 이 블로그는 금융투자업 인가나 유사투자자문업 신고를 한 곳이 아니며, 개별 투자 상담을 하지 않습니다. 간담회에서 나온 제도 개선안은 발제·토론 단계의 의견으로 확정된 정책이 아니고, 실제 시행 여부와 내용은 금융위원회 등 정부 발표에 따라 달라질 수 있습니다. 투자 판단과 그 결과에 대한 책임은 투자자 본인에게 있습니다.</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">자료: CBS노컷뉴스(2026.11.13, 홍영선 기자), 파이낸셜뉴스·아시아경제·아주경제·세계일보·아시아투데이(2026.11.13) 보도를 바탕으로 요약했습니다. 수치는 간담회 발제 자료 인용 보도 기준입니다.</p>
