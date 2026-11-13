@@ -1,0 +1,67 @@
+<div style="background: #eef2ff; border-left: 5px solid #4338ca; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0 0 8px 0; font-size: 16px; font-weight: bold; color: #4338ca;" data-ke-size="size16">📌 청년창업사관학교 2026 핵심 3줄</p>
+<p style="margin: 0; line-height: 1.9; font-size: 16px;" data-ke-size="size16">① 만 39세 이하, 창업 3년 이내 대표자에게 <b>사업화 자금 최대 1억 원</b>(평균 0.7억 원)과 공간·교육·코칭을 묶어 지원합니다.<br />② 2026년 16기는 <b>1월 30일~2월 13일</b> K스타트업에서 접수했고 지금은 마감됐습니다.<br />③ 올해부터 <b>경험창업자(창업 7년 이내)</b> 선발과 딥테크·글로벌 심화과정이 새로 생겼습니다.</p>
+</div>
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 13일</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>청년창업사관학교</b>는 중소벤처기업부가 예산을 대고 중소벤처기업진흥공단(중진공)이 운영하는 대표 청년 창업 지원사업입니다. 정식 이름은 '창업성공패키지'입니다. 2026년 공고 기준 지원 조건, 받을 수 있는 지원, 달라진 점, 다음 모집을 위해 지금 준비할 것을 정리했습니다.</p>
+<p style="text-align: center; margin: 20px 0;"><a style="display: inline-block; background: #4338ca; color: #ffffff; font-weight: bold; font-size: 17px; padding: 14px 26px; border-radius: 10px; text-decoration: none;" href="https://dustm.tndlrs.com/290">부모님용 쉬운 정리 함께 보기</a></p>
+<h2 style="border-left: 6px solid #4338ca; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">2026 모집 일정과 현재 상황</h2>
+<p style="font-size: 16px;" data-ke-size="size16">중소벤처기업부는 2026년 1월 29일 '2026년 창업성공패키지(청년창업사관학교) 입교생 모집 공고'를 냈습니다. 접수는 <b>1월 30일(금) 16시부터 2월 13일(금) 16시까지</b> K스타트업 누리집에서 온라인으로 받았고, 지금은 마감됐습니다.</p>
+<p style="font-size: 16px;" data-ke-size="size16">선정된 청년 창업가들은 5월 8일 경기도 안산 청년창업사관학교 본교에서 열린 '2026년 창업출정식'으로 본격 활동을 시작했습니다. 2027년 모집 공고는 아직 나오지 않았습니다. 2026년에는 1월 말에 공고가 나왔으니, 연말부터 K스타트업 공고를 자주 확인하는 것이 좋습니다.</p>
+<h2 style="border-left: 6px solid #4338ca; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">지원 조건 (누가 신청할 수 있나)</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #4338ca; color: #ffffff; padding: 10px; border: 1px solid #4338ca;">항목</th>
+<th style="background: #4338ca; color: #ffffff; padding: 10px; border: 1px solid #4338ca;">2026 공고 기준</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #c7d2fe; text-align: center;"><b>나이</b></td><td style="padding: 10px; border: 1px solid #c7d2fe;">대표자 만 39세 이하</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #c7d2fe; text-align: center; background: #f8f9ff;"><b>창업 기간</b></td><td style="padding: 10px; border: 1px solid #c7d2fe; background: #f8f9ff;">창업 후 3년 이내 기업의 대표자</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #c7d2fe; text-align: center;"><b>경험창업자</b></td><td style="padding: 10px; border: 1px solid #c7d2fe;">창업 후 7년 이내까지 신청 가능 (2026년 신설)</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #c7d2fe; text-align: center; background: #f8f9ff;"><b>예비창업자</b></td><td style="padding: 10px; border: 1px solid #c7d2fe; background: #f8f9ff;">공고 제출서류에 예비창업자용 서류(총사업자등록내역 사실증명, 주민등록등본)가 따로 있음</td></tr>
+</tbody>
+</table>
+<p style="font-size: 16px;" data-ke-size="size16">신청이 안 되는 경우(제외 대상)는 공고문 원문에 따로 정리돼 있습니다. 다음 모집 때 반드시 공고문의 제외 대상을 먼저 읽어 보세요.</p>
+<h2 style="border-left: 6px solid #4338ca; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">지원 내용: 자금·공간·교육</h2>
+<ul style="line-height: 1.9; font-size: 16px;" data-ke-list-type="disc">
+<li><b>사업화 자금</b>: 공고 기준 평균 0.7억 원, <b>최대 1억 원</b>. 총사업비의 70% 이내에서 지원하므로 나머지는 본인이 부담합니다</li>
+<li><b>창업 공간</b>: 사무공간과 시제품 제작 관련 시설</li>
+<li><b>교육·코칭</b>: 창업 교육과 코칭, 판로 개척 지원</li>
+<li><b>졸업 뒤</b>: 졸업 기업은 5년 동안 성장 이력을 관리하며 정책자금·수출·인력·투자 연계를 지원받을 수 있습니다</li>
+</ul>
+<p style="font-size: 16px;" data-ke-size="size16">사업화 자금은 마음대로 쓰는 돈이 아니라, 협약에서 정한 용도 안에서만 쓸 수 있습니다. 2026년 중기부 청년창업 예산 2,575억 원 가운데 1,025억 원이 청년창업사관학교에 배정됐습니다.</p>
+<h2 style="border-left: 6px solid #4338ca; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">2026년 달라진 점: 기본·심화과정</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #4338ca; color: #ffffff; padding: 10px; border: 1px solid #4338ca;">과정</th>
+<th style="background: #4338ca; color: #ffffff; padding: 10px; border: 1px solid #4338ca;">선발 규모</th>
+<th style="background: #4338ca; color: #ffffff; padding: 10px; border: 1px solid #4338ca;">평가에서 보는 것</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #c7d2fe; text-align: center;"><b>기본과정</b><br />(전국 16곳)</td><td style="padding: 10px; border: 1px solid #c7d2fe; text-align: center;">650명</td><td style="padding: 10px; border: 1px solid #c7d2fe;">사업모델 완성도, 사업 수행 역량, 성장 가능성</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #c7d2fe; text-align: center; background: #f8f9ff;"><b>딥테크 심화</b></td><td style="padding: 10px; border: 1px solid #c7d2fe; text-align: center; background: #f8f9ff;">200명</td><td style="padding: 10px; border: 1px solid #c7d2fe; background: #f8f9ff;">독자 기술 완성도, 특허 등 지식재산 확보, 상업화 가능성</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #c7d2fe; text-align: center;"><b>글로벌 심화</b></td><td style="padding: 10px; border: 1px solid #c7d2fe; text-align: center;">100명</td><td style="padding: 10px; border: 1px solid #c7d2fe;">해외 진출 준비 수준, 팀 역량 (영어 발표 평가)</td></tr>
+</tbody>
+</table>
+<p style="font-size: 16px;" data-ke-size="size16">심화과정은 서울·광주·경산 3곳에서 운영하며, 언론 보도 기준 사업화 자금이 최대 2억 원입니다. 전체 선발 규모는 <b>950명</b>입니다. 또 하나의 변화는 <b>경험창업자 선발</b>입니다. 실패·성공 경험을 유형별로 평가하는데, 실패 이력 자체보다 실패에서 무엇을 배워 사업에 반영했는지를 봅니다.</p>
+<h2 style="border-left: 6px solid #4338ca; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">신청 방법과 다음 모집 준비</h2>
+<ol style="line-height: 1.9; font-size: 16px;" data-ke-list-type="decimal">
+<li><b>K스타트업 회원가입</b>: 신청은 K스타트업 누리집에서만 받습니다</li>
+<li><b>서류 미리 챙기기</b>: 창업자는 창업기업확인서·사업자등록증명원(법인은 등기사항전부증명서), 공통으로 대표자 건강보험 자격득실 확인서와 신용정보 동의서가 필요합니다</li>
+<li><b>가점·서류심사 면제 증빙</b>: 공고에 가점이나 면제 항목이 있으면 증빙서류를 함께 냅니다</li>
+<li><b>심사 순서</b>: 서류심사 → 발표심사 → 협약 체결 → 입교</li>
+</ol>
+<p style="font-size: 16px;" data-ke-size="size16">발표심사가 있으니 사업계획서와 발표 자료를 공고 전에 다듬어 두면 유리합니다. 실제로 판매 중인 제품이나 매출·이용자 수 같은 숫자가 있으면 사업모델 완성도를 보여 주기 쉽습니다.</p>
+<h2 style="border-left: 6px solid #4338ca; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">자주 묻는 질문</h2>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 지금 신청할 수 있나요?</b><br />A. 아닙니다. 2026년 모집은 2월 13일에 마감됐습니다. 2027년 공고가 나오면 K스타트업에 올라옵니다.</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 1억 원을 다 정부가 주나요?</b><br />A. 아닙니다. 총사업비의 70% 이내에서 지원하고 나머지는 본인 부담입니다. 2026년 공고의 평균 지원액은 0.7억 원입니다.</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 한 번 창업했다가 접었는데 신청할 수 있나요?</b><br />A. 2026년부터 경험창업자 선발이 생겨 창업 후 7년 이내까지 신청할 수 있습니다. 세부 조건은 공고문으로 확인하세요.</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 사업자등록이 아직 없어도 되나요?</b><br />A. 2026년 공고에 예비창업자용 제출서류가 따로 있었습니다. 다만 자격 범위는 해마다 바뀔 수 있으니 다음 공고문의 신청 자격을 꼭 확인하세요.</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 문의는 어디로 하나요?</b><br />A. 운영기관인 중소벤처기업진흥공단(중진공) 또는 가까운 지역 청년창업사관학교에 문의하면 됩니다.</p>
+<p style="text-align: center; margin: 24px 0;"><a style="display: inline-block; background: #4338ca; color: #ffffff; font-weight: bold; font-size: 17px; padding: 14px 26px; border-radius: 10px; text-decoration: none;" href="https://www.k-startup.go.kr">K스타트업에서 모집 공고 확인하기</a></p>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">참고: 중소벤처기업부 2026년 창업성공패키지(청년창업사관학교) 입교생 모집 공고(2026.1.29), 중소벤처기업진흥공단 보도(2026.2.1, 2026.5.8 창업출정식). 심화과정 최대 2억 원은 언론 보도 기준이며, 세부 조건은 공고문에 따릅니다.</p>
