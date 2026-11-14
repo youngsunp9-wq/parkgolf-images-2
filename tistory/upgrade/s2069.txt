@@ -1,0 +1,98 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 14일 (2026년 11월 14일 운행 시간표 기준)</p>
+<p data-ke-size="size16"><b>순천역 KTX 시간표</b>와 요금, 주차 정보를 2026년 11월 기준으로 다시 정리했습니다. 순천역은 전라선과 경전선이 만나는 전남 동부의 중심 역으로, 순천만국가정원과 여수·광양으로 가는 관문입니다. 1930년 문을 열었고 2009년 지금의 새 역사로 옮겼습니다.</p>
+<h2 style="border-left: 6px solid #15803d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">순천역 KTX 시간표 (용산 → 순천)</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #dcfce7; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">하루 운행</span><br /><b>KTX 17편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #dcfce7; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">첫차</span><br /><b>05:08</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #dcfce7; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">막차</span><br /><b>21:48</b></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #15803d; color: #ffffff; padding: 10px; border: 1px solid #15803d;">시간대</th>
+<th style="background: #15803d; color: #ffffff; padding: 10px; border: 1px solid #15803d;">용산 출발 시각 (KTX)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">05:08, 07:10, 07:43, 07:47, 08:40, 09:53, 10:53</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">낮</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">12:18, 12:45, 14:10, 14:38, 16:43</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">17:44, 18:48, 20:09, 20:33, 21:48</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">대부분 2시간 40분 안팎이 걸리고, 07:43·14:38 출발 열차처럼 정차역이 많은 편은 3시간 20~30분이 걸립니다. 가장 빠른 편은 21:48 출발 열차로 2시간 26분 뒤 00:14쯤 도착합니다. 요일과 시기에 따라 임시열차가 더해지거나 빠질 수 있습니다.</p>
+<h2 style="border-left: 6px solid #15803d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">순천역 출발 시간표 (순천 → 용산)</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #15803d; color: #ffffff; padding: 10px; border: 1px solid #15803d;">열차</th>
+<th style="background: #15803d; color: #ffffff; padding: 10px; border: 1px solid #15803d;">순천 출발 시각</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">KTX</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">05:26, 06:25, 08:08, 09:02, 10:42, 12:18, 12:28, 13:22, 14:22, 15:18, 15:48, 16:48, 16:56, 18:25, 19:15, 19:46, 20:44, 22:15</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">ITX-새마을</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">09:11, 11:32, 14:34, 16:12</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">무궁화호</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">06:54, 13:43, 18:38, 19:39</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">순천에서 용산으로 올라가는 열차는 KTX 18편, ITX-새마을 4편, 무궁화호 4편으로 하루 약 26편입니다. 가장 빠른 편은 22:15 출발 KTX로 2시간 31분, 09:02 출발 KTX가 2시간 34분입니다. 상행 KTX는 구례구·남원·전주·익산 등을 거쳐 용산으로 갑니다.</p>
+<h2 style="border-left: 6px solid #15803d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">순천역 KTX 요금과 소요시간</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #15803d; color: #ffffff; padding: 10px; border: 1px solid #15803d;">열차 (용산 ↔ 순천)</th>
+<th style="background: #15803d; color: #ffffff; padding: 10px; border: 1px solid #15803d;">일반실 기본 운임</th>
+<th style="background: #15803d; color: #ffffff; padding: 10px; border: 1px solid #15803d;">소요시간</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;"><b>KTX</b></td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;"><b>43,000원</b></td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">약 2시간 26분~3시간 30분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">ITX-새마을</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">37,800원</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">약 4시간 10분~4시간 30분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">무궁화호</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">25,400원</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">약 4시간 50분~5시간 10분</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">성인 1명 편도, 일반실 기본 운임 기준입니다. 예전 글에 적었던 25,400원은 KTX가 아니라 무궁화호 요금입니다. KTX와 무궁화호의 차이는 약 2시간 20분과 17,600원입니다.</p>
+<h2 style="border-left: 6px solid #15803d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">순천역 주차장과 역 정보</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #15803d; color: #ffffff; padding: 10px; border: 1px solid #15803d;">항목</th>
+<th style="background: #15803d; color: #ffffff; padding: 10px; border: 1px solid #15803d;">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">주차 면수</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">195면 (장애인 6면), 무인 운영</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">주차 요금</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">기본 30분 700원, 10분마다 300원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">1일·월 정기</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">1일 8,000원, 월 정기 없음</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">주차 문의</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">코레일네트웍스 주차관제 02-3271-0720</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">역 주소</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center;">순천시 팔마로 135</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">역 문의</td><td style="padding: 10px; border: 1px solid #bbf7d0; text-align: center; background: #f0fdf4;">철도고객센터 1544-7788</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">1박 2일로 세워 두면 1일 요금 기준 약 16,000원입니다. 역 2층에는 유료 물품보관함 90개(2,000~6,000원)가 있어 짐을 맡기고 순천만국가정원을 둘러보기 좋습니다. 요금은 운영사 사정에 따라 바뀔 수 있습니다.</p>
+<h2 style="border-left: 6px solid #15803d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">KTX 요금 아끼는 코레일 할인</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>어린이(6~13세 미만)</b>: 운임 50% 할인. 6세 미만 유아는 어른 1명당 1명 무료(좌석 지정 시 할인 요금)</li>
+<li><b>경로(65세 이상)</b>: KTX 30% 할인(토·일·공휴일 제외)</li>
+<li><b>다자녀 행복</b>: 2자녀 가정 30%, 3자녀 이상 50% 할인(어른 운임)</li>
+<li><b>맘편한 코레일</b>: 임산부와 동반 1명, 일반실 40% 할인</li>
+<li><b>청년 할인</b>: 청소년 드림·힘내라 청춘 상품, 승차율에 따라 10~40% 할인</li>
+<li><b>4인 동반석</b>: 마주 보는 4좌석을 한 번에 사면 할인</li>
+</ul>
+<p data-ke-size="size16">할인은 대부분 서로 겹쳐 쓸 수 없고, 운임에만 적용됩니다. 조건과 할인율은 코레일 앱이나 홈페이지의 할인 안내에서 출발 전에 확인하세요.</p>
+<h2 style="border-left: 6px solid #15803d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">순천역 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 서울에서 순천역까지 KTX는 몇 시간 걸리나요?</b><br />A. 용산역 기준 대부분 2시간 40분 안팎입니다. 빠른 편은 2시간 26분, 정차역이 많은 편은 3시간 30분 정도입니다.</p>
+<p data-ke-size="size16"><b>Q. 순천역 KTX 요금은 얼마인가요?</b><br />A. 용산 출발 일반실 성인 기본 운임이 43,000원입니다. ITX-새마을은 37,800원, 무궁화호는 25,400원입니다.</p>
+<p data-ke-size="size16"><b>Q. 순천역 KTX 첫차와 막차는 몇 시인가요?</b><br />A. 용산 출발 첫차 05:08, 막차 21:48입니다. 순천 출발 상행은 첫차 05:26, 막차 22:15입니다.</p>
+<p data-ke-size="size16"><b>Q. 순천역 주차장은 얼마인가요?</b><br />A. 195면이 있고 30분 700원, 1일 8,000원입니다. 월 정기 주차는 없습니다.</p>
+<p data-ke-size="size16"><b>Q. 순천역에서 여수엑스포역까지 기차로 갈 수 있나요?</b><br />A. 네, 하행 KTX는 순천을 지나 여천·여수엑스포역까지 갑니다. 정확한 시각은 예매 화면에서 순천에서 여수EXPO로 조회하세요.</p>
+<p data-ke-size="size16"><b>Q. SRT도 순천역에 서나요?</b><br />A. 이 시간표 기준 용산 방면은 KTX·ITX-새마을·무궁화호입니다. 수서역 출발 편이 생기는지는 예매 화면에서 확인하세요.</p>
+<h2 style="border-left: 6px solid #15803d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 순천역 KTX 핵심 요약</h2>
+<div style="background: #f0fdf4; border-left: 5px solid #15803d; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 용산에서 순천역까지 KTX는 <b>하루 17편</b>, 첫차 05:08·막차 21:48입니다.<br />② 소요시간은 <b>약 2시간 40분</b>, 일반실 기본 운임은 <b>43,000원</b>입니다.<br />③ 역 주차장은 <b>195면</b>, 1일 주차 8,000원입니다(무인 운영).</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">시간표·운임은 2026년 11월 14일(토) 운행 기준이며, 요일·임시열차·시간표 개정에 따라 바뀔 수 있습니다. 주차 정보는 코레일 역 안내(2026년 11월 14일 확인) 기준입니다. 승차권은 코레일 공식 앱이나 홈페이지에서 출발일 기준으로 다시 확인하세요.</p>
