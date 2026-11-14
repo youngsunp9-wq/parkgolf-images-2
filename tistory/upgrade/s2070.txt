@@ -1,0 +1,98 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 14일 (2026년 11월 14일 운행 시간표 기준)</p>
+<p data-ke-size="size16"><b>여천역 KTX 시간표</b>와 요금, 주차 정보를 2026년 11월 기준으로 다시 정리했습니다. 여천역은 전라선 종착역인 여수엑스포역 바로 앞 역으로, 여수시청과 여수국가산단 쪽으로 가는 분들이 많이 이용합니다. 1930년 쌍봉역으로 문을 열었고 1985년부터 여천역이라는 이름을 쓰고 있습니다.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">여천역 KTX 시간표 (용산 → 여천)</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #ccfbf1; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">하루 운행</span><br /><b>KTX 16편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #ccfbf1; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">첫차</span><br /><b>05:08</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #ccfbf1; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">막차</span><br /><b>21:48</b></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">시간대</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">용산 출발 시각 (KTX)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">05:08, 07:10, 07:43, 07:47, 08:40, 09:53, 10:53</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">낮</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">12:45, 14:10, 14:38, 16:43</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">17:44, 18:48, 20:09, 20:33, 21:48</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">대부분 2시간 50분~3시간이 걸리고, 07:43·14:38 출발 열차처럼 정차역이 많은 편은 3시간 30~40분이 걸립니다. 막차 21:48 열차는 자정을 넘겨 00:28쯤 여천역에 도착합니다. 요일과 시기에 따라 임시열차가 더해지거나 빠질 수 있습니다.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">여천역 출발 시간표 (여천 → 용산)</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">열차</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">여천 출발 시각</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">KTX</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">05:13, 06:11, 07:55, 08:49, 10:28, 12:04, 14:08, 15:04, 15:34, 16:33, 16:42, 18:11, 19:01, 19:32, 20:30, 22:01</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">ITX-새마을</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">08:56, 11:16, 14:19, 15:57</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">무궁화호</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">06:38, 13:27, 18:21, 19:23</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">여천에서 용산으로 올라가는 열차는 KTX 16편, ITX-새마을 4편, 무궁화호 4편으로 하루 약 24편입니다. 가장 빠른 편은 22:01 출발 KTX로 2시간 45분, 08:49 출발 KTX가 2시간 47분입니다. 상행 KTX는 순천·구례구·남원·전주·익산 등을 거쳐 용산으로 갑니다.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">여천역 KTX 요금과 소요시간</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">열차 (용산 ↔ 여천)</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">일반실 기본 운임</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">소요시간</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;"><b>KTX</b></td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;"><b>45,200원</b></td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">약 2시간 40분~3시간 45분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">ITX-새마을</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">40,200원</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">약 4시간 25분~4시간 50분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">무궁화호</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">27,000원</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">약 5시간 10분~5시간 25분</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">성인 1명 편도, 일반실 기본 운임 기준입니다. 바로 다음 역인 여수엑스포역(46,000원)보다 KTX가 800원 쌉니다. 특실은 더 비싸고, 아래 할인 제도를 쓰면 더 싸집니다.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">여천역 주차장과 역 정보</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">항목</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">주차 면수</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">142면 (장애인 8면, 전기차 3면), 무인 운영</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">주차 요금</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">기본 30분 600원, 10분마다 200원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">1일·월 정기</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">1일 6,000원, 월 정기 없음</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">주차 문의</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">코레일네트웍스 주차관제 02-3271-0719</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">역 주소</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">여수시 시청로 200 (여천동)</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">역 문의</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">철도고객센터 1544-7788</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">1일 주차가 6,000원이라 여수엑스포역(1일 10,000원)보다 부담이 적습니다. 1박 2일로 세워 두면 약 12,000원입니다. 주차 요금은 운영사 사정에 따라 바뀔 수 있습니다.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">KTX 요금 아끼는 코레일 할인</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>어린이(6~13세 미만)</b>: 운임 50% 할인. 6세 미만 유아는 어른 1명당 1명 무료(좌석 지정 시 할인 요금)</li>
+<li><b>경로(65세 이상)</b>: KTX 30% 할인(토·일·공휴일 제외)</li>
+<li><b>다자녀 행복</b>: 2자녀 가정 30%, 3자녀 이상 50% 할인(어른 운임)</li>
+<li><b>맘편한 코레일</b>: 임산부와 동반 1명, 일반실 40% 할인</li>
+<li><b>청년 할인</b>: 청소년 드림·힘내라 청춘 상품, 승차율에 따라 10~40% 할인</li>
+<li><b>4인 동반석</b>: 마주 보는 4좌석을 한 번에 사면 할인</li>
+</ul>
+<p data-ke-size="size16">할인은 대부분 서로 겹쳐 쓸 수 없고, 운임에만 적용됩니다. 조건과 할인율은 코레일 앱이나 홈페이지의 할인 안내에서 출발 전에 확인하세요.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">여천역 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 여천역과 여수엑스포역은 같은 역인가요?</b><br />A. 아닙니다. 다른 역입니다. 여천역은 여수엑스포역 바로 앞 역이고, 여수시청·여수국가산단 쪽에 가깝습니다.</p>
+<p data-ke-size="size16"><b>Q. 서울에서 여천역까지 KTX는 몇 시간 걸리나요?</b><br />A. 용산역 기준 대부분 약 3시간입니다. 빠른 편은 2시간 40분, 정차역이 많은 편은 3시간 40분 정도입니다.</p>
+<p data-ke-size="size16"><b>Q. 여천역 KTX 요금은 얼마인가요?</b><br />A. 용산 출발 일반실 성인 기본 운임이 45,200원입니다. ITX-새마을은 40,200원, 무궁화호는 27,000원입니다.</p>
+<p data-ke-size="size16"><b>Q. 여천역 KTX 첫차와 막차는 몇 시인가요?</b><br />A. 용산 출발 첫차 05:08, 막차 21:48입니다. 여천 출발 상행은 첫차 05:13, 막차 22:01입니다.</p>
+<p data-ke-size="size16"><b>Q. 여천역 주차장은 얼마인가요?</b><br />A. 142면이 있고 30분 600원, 1일 6,000원입니다. 월 정기 주차는 없습니다.</p>
+<p data-ke-size="size16"><b>Q. SRT도 여천역에 서나요?</b><br />A. 이 시간표 기준 여천역 직통은 KTX·ITX-새마을·무궁화호입니다. 수서역 출발 편이 생기는지는 예매 화면에서 확인하세요.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 여천역 KTX 핵심 요약</h2>
+<div style="background: #f0fdfa; border-left: 5px solid #0f766e; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 용산에서 여천역까지 KTX는 <b>하루 16편</b>, 첫차 05:08·막차 21:48입니다.<br />② 소요시간은 <b>약 3시간</b>, 일반실 기본 운임은 <b>45,200원</b>입니다.<br />③ 역 주차장은 <b>142면</b>, 1일 주차 6,000원입니다(무인 운영).</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">시간표·운임은 2026년 11월 14일(토) 운행 기준이며, 요일·임시열차·시간표 개정에 따라 바뀔 수 있습니다. 주차 정보는 코레일 역 안내(2026년 11월 14일 확인) 기준입니다. 승차권은 코레일 공식 앱이나 홈페이지에서 출발일 기준으로 다시 확인하세요.</p>
