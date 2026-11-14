@@ -1,0 +1,61 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 14일</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>산모신생아 건강관리 지원사업</b>은 출산 가정에 건강관리사(산후도우미)를 보내 주고, 비용의 상당 부분을 정부 바우처로 내 주는 제도입니다. 신청은 <b>출산 예정일 40일 전부터 출산 후 60일까지</b>만 받으니, 이 기간을 놓치지 않는 것이 가장 중요합니다. 2026년 보건소 안내 기준으로 대상, 기간, 비용, 신청 방법을 정리했습니다.</p>
+<p style="text-align: center; margin: 20px 0;"><a style="display: inline-block; background: #be185d; color: #ffffff; font-weight: bold; font-size: 17px; padding: 14px 26px; border-radius: 10px; text-decoration: none;" href="https://dustm.tndlrs.com/314">신청 기한 쉬운 정리 함께 보기</a></p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">산모신생아 건강관리 지원사업이란</h2>
+<p style="font-size: 16px;" data-ke-size="size16">보건복지부 사업으로 전국 시·군·구 보건소가 맡습니다. 건강관리사가 집으로 와서 <b>산모 건강관리</b>(산후 회복, 수유 도움), <b>신생아 돌봄</b>(목욕 등), 산모 식사 준비·청소·세탁 같은 가사, 정서 지원을 해 줍니다.</p>
+<p style="font-size: 16px;" data-ke-size="size16">돈이 통장으로 들어오는 제도가 아니라 <b>전자바우처(이용권)</b>입니다. 정부 지원금을 뺀 본인부담금만 내고 서비스를 받습니다. 보건소 안내 예시로 하루 9시간(09:00~18:00, 휴게 1시간 포함) 방문합니다.</p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">지원 대상과 소득 유형</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #be185d; color: #ffffff; padding: 10px; border: 1px solid #be185d;">유형</th>
+<th style="background: #be185d; color: #ffffff; padding: 10px; border: 1px solid #be185d;">대상</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;"><b>가형</b></td><td style="padding: 10px; border: 1px solid #fbcfe8;">생계·의료·주거·교육급여 수급자 또는 차상위계층</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center; background: #fdf2f8;"><b>통합형</b></td><td style="padding: 10px; border: 1px solid #fbcfe8; background: #fdf2f8;">기준중위소득 150% 이하 (건강보험료 기준)</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;"><b>라형</b></td><td style="padding: 10px; border: 1px solid #fbcfe8;">기준중위소득 150% 초과, 지자체 예외지원</td></tr>
+</tbody>
+</table>
+<p style="font-size: 16px;" data-ke-size="size16">소득이 낮을수록 정부 지원 비율이 높고 본인부담이 적습니다. 150% 초과 가정(라형) 지원은 지자체마다 다르고, 2026년 하반기에 예외지원을 끝낸 곳도 있으니 <b>주소지 보건소</b>에 먼저 확인하세요.</p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">서비스 기간 (단축·표준·연장형)</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #be185d; color: #ffffff; padding: 10px; border: 1px solid #be185d;">구분</th>
+<th style="background: #be185d; color: #ffffff; padding: 10px; border: 1px solid #be185d;">단축형</th>
+<th style="background: #be185d; color: #ffffff; padding: 10px; border: 1px solid #be185d;">표준형</th>
+<th style="background: #be185d; color: #ffffff; padding: 10px; border: 1px solid #be185d;">연장형</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;"><b>단태아 첫째</b></td><td style="padding: 10px; border: 1px solid #fbcfe8;">5일</td><td style="padding: 10px; border: 1px solid #fbcfe8;">10일</td><td style="padding: 10px; border: 1px solid #fbcfe8;">15일</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center; background: #fdf2f8;"><b>둘째 이상·다태아</b></td><td style="padding: 10px; border: 1px solid #fbcfe8; background: #fdf2f8;">더 길게 적용</td><td style="padding: 10px; border: 1px solid #fbcfe8; background: #fdf2f8;">더 길게 적용</td><td style="padding: 10px; border: 1px solid #fbcfe8; background: #fdf2f8;">더 길게 적용</td></tr>
+</tbody>
+</table>
+<p style="font-size: 16px;" data-ke-size="size16">서비스 기간은 태아 유형과 출산 순위에 따라 5일부터 최대 40일까지입니다. 유형은 제공기관과 계약하기 전에 정해야 합니다. 둘째 이상, 쌍태아·삼태아의 정확한 일수는 보건소 기간표로 확인하세요.</p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">비용 예시와 바우처 유효기간</h2>
+<p style="font-size: 16px;" data-ke-size="size16">2026년 보건소 안내 예시로 <b>단태아 첫째 표준형(10일) 서비스 가격은 146만 4천 원</b>입니다. 이 가운데 정부 지원금과 본인부담금은 소득 유형과 기간마다 달라서, 정확한 금액은 보건소 가격표로 확인해야 합니다.</p>
+<p style="font-size: 16px;" data-ke-size="size16">바우처는 <b>출산일로부터 90일 이내</b>에 써야 합니다(삼태아 이상 연장형은 100일). 일부 지자체는 본인부담금을 따로 더 지원하기도 하니 주소지 보건소에 함께 물어보세요.</p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">산모신생아 건강관리 신청 방법과 기한</h2>
+<ol style="line-height: 1.9; font-size: 16px;" data-ke-list-type="decimal">
+<li><b>신청 기한 확인</b>: 출산 예정일 40일 전부터 출산일로부터 60일까지</li>
+<li><b>신청</b>: 복지로 온라인 또는 주소지 보건소 방문 (외국인은 방문 신청)</li>
+<li><b>서류</b>: 신청서, 산모 신분증, 출산 전에는 임신확인서 등, 출산 후에는 출생증명서</li>
+<li><b>자격 결정 후</b>: 등록된 제공기관을 골라 계약하고 서비스 시작</li>
+</ol>
+<p style="font-size: 16px;" data-ke-size="size16">임신 16주 이후 유산·사산은 확인일로부터 30일 이내, 미숙아·선천성 이상아로 입원했다면 신생아 퇴원일로부터 30일 이내에 신청합니다. 가족이 대신 신청할 때는 대리인 신분증과 가족관계증명서가 더 필요합니다.</p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">자주 묻는 질문</h2>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 출산하고 두 달이 지났는데 신청할 수 있나요?</b><br />A. 일반적인 경우 출산일로부터 60일이 지나면 신청할 수 없습니다. 미숙아 입원 등 예외는 보건소에 확인하세요.</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 지원금이 통장으로 들어오나요?</b><br />A. 아닙니다. 전자바우처로 서비스 비용을 결제하는 방식이고, 본인부담금만 냅니다.</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 소득이 기준중위소득 150%를 넘으면 못 받나요?</b><br />A. 지자체 예외지원(라형)으로 받을 수 있는 곳도 있지만 지역마다 다르고 끝낸 곳도 있습니다. 주소지 보건소에 확인하세요.</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 친정 부모님이 대신 신청할 수 있나요?</b><br />A. 보건소 방문 신청 때 대리인 신분증과 가족관계증명서를 챙기면 대리 신청이 가능합니다.</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 바우처는 언제까지 써야 하나요?</b><br />A. 출산일로부터 90일 이내입니다. 삼태아 이상 연장형은 100일입니다.</p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 산모신생아 건강관리 핵심 요약</h2>
+<div style="background: #fdf2f8; border-left: 5px solid #be185d; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9; font-size: 16px;" data-ke-size="size16">① 신청은 <b>출산 예정일 40일 전부터 출산 후 60일까지</b>, 복지로나 보건소에서 합니다.<br />② 단태아 첫째 표준형(10일) 가격은 <b>146만 4천 원</b>, 정부 지원 후 본인부담금만 냅니다.<br />③ 바우처는 <b>출산일로부터 90일 안에</b> 써야 합니다.</p>
+</div>
+<p style="text-align: center; margin: 24px 0;"><a style="display: inline-block; background: #be185d; color: #ffffff; font-weight: bold; font-size: 17px; padding: 14px 26px; border-radius: 10px; text-decoration: none;" href="https://www.bokjiro.go.kr">복지로에서 산모신생아 신청하기</a></p>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">참고: 보건복지부 산모·신생아 건강관리 지원사업, 구로구보건소 산모·신생아 건강관리 지원 안내(2026년 기준, 2026년 11월 14일 확인). 지원금·기간·예외지원은 지자체와 소득 유형에 따라 다르니 주소지 보건소에서 확인하세요.</p>
