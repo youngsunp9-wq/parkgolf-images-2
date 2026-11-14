@@ -1,0 +1,146 @@
+<div style="font-size: 18px; line-height: 1.85; color: #222;">
+
+<p>__THUMB__</p>
+
+<p>CES가 다가오면 증권가에서 꼭 나오는 말이 있습니다. "올해 CES 관련주는 뭐야?" 그런데 막상 찾아보면 종목 이름만 줄줄이 나열돼 있고, <b>그 회사가 CES에서 정확히 뭘 하는지</b>는 잘 안 나옵니다.</p>
+
+<p>그래서 이번 글은 순서를 바꿨습니다. <b>삼성·LG·현대차·SK 4대 그룹이 CES 2027에 무엇을 들고 가는지</b> 먼저 보고, 그다음에 계열사·협력사를 짚어 봅니다. 11월 중순까지 나온 보도를 기준으로 정리했습니다.</p>
+
+<div style="background: #f1f5ff; border-left: 6px solid #2f5bea; padding: 16px 18px; margin: 20px 0; border-radius: 8px;">
+<b>📌 4대 그룹 CES 2027 한 줄 요약</b><br>
+· <b>삼성</b>: 폴더블폰 최고혁신상, 자체 휴머노이드 공개는 '검토' 단계<br>
+· <b>LG</b>: 대형 전시관 운영, 올레드 T6 최고혁신상, 휴머노이드 클로이드 주목<br>
+· <b>현대차</b>: 본사 부스 없음, 대신 <b>기아</b>가 단독 부스<br>
+· <b>SK</b>: 그룹 공동관보다 <b>SK하이닉스</b> 중심의 실속형 참가 흐름
+</div>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">CES 2027 관련주, 왜 해마다 움직일까</h2>
+
+<p>CES는 1월 초에 열립니다. 한 해 증시가 막 시작되는 때라, 투자자들이 "올해는 어떤 기술이 돈이 될까"를 고민하는 시기와 딱 겹칩니다. 그래서 CES에서 화제가 된 기술은 곧바로 테마가 되고, 관련 기업 주가가 먼저 반응하곤 합니다.</p>
+
+<p>흐름은 대개 세 단계입니다.</p>
+<ul>
+<li><b>11월</b>: 혁신상 발표로 첫 기대감</li>
+<li><b>12월</b>: 기업별 전시 계획 보도로 기대감 확대</li>
+<li><b>1월 개막 주간</b>: 실제 공개 내용에 따라 희비 엇갈림</li>
+</ul>
+
+<p style="color: #2f5bea;"><b>올해 이 흐름의 출발점은 주최 측이 직접 부른 '한국 기업 명단'이었습니다. 누가 이름을 올렸을까요?</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">주최 측 CTA가 직접 이름을 부른 한국 기업</h2>
+
+<p>CES를 여는 미국 소비자기술협회(CTA)는 10월 14일 서울 기자간담회에서 CES 2027에 참가할 한국 대표 기업으로 <b>삼성, LG, SK하이닉스, 현대모비스, 기아</b>를 꼽았습니다.</p>
+
+<p>지난 CES 2026에는 한국 기업이 약 800곳 참가했고, 그중 절반 정도가 스타트업이었습니다. 올해는 라스베이거스 컨벤션 센터 사우스홀에 <b>휴머노이드 전용관</b>이 새로 생기면서, 로봇을 내세우는 기업들의 경쟁이 특히 뜨거울 전망입니다.</p>
+
+<p>눈여겨볼 점은 이 명단에 '현대차'와 'SK그룹'이 아니라 <b>현대모비스·기아</b>, <b>SK하이닉스</b>가 들어갔다는 겁니다. 그룹마다 나가는 방식이 다르다는 뜻이죠.</p>
+
+<p style="color: #2f5bea;"><b>가장 큰 관심을 받는 곳은 역시 삼성입니다. 그런데 삼성이 정말 로봇을 들고 나올까요?</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">삼성, CES 2027에서 무엇을 보여줄까</h2>
+
+<p>이미 확인된 성과부터 보면, 삼성전자는 <b>갤럭시 Z 폴드8과 폴드8 울트라</b>로 모바일 부문 <b>최고혁신상</b>을 받았습니다. 메모리 반도체에서도 소캠2(SOCAMM2), 서버용 DDR5, UFS 5.0 등 3개 제품이 혁신상을 받았습니다.</p>
+
+<p>계열사 삼성SDI는 AI 데이터센터용 무정전전원장치(UPS) 배터리로 엔터프라이즈 테크 부문 혁신상을 3년 연속 받았습니다. 올해 CES 핵심 주제인 'AI 전력'과 바로 이어지는 제품입니다.</p>
+
+<p>전시 내용은 아직 공식 발표 전입니다. TV·가전·모바일을 AI로 묶는 '연결 경험'이 중심이 될 것이라는 전망이 많습니다.</p>
+
+<p style="color: #2f5bea;"><b>하지만 투자자들이 진짜 궁금해하는 건 따로 있습니다. 삼성의 첫 휴머노이드입니다.</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">삼성 휴머노이드, 이번에 처음 공개될까</h2>
+
+<p>지난 9월 한 언론은 삼성전자가 CES 2027에서 <b>자체 휴머노이드를 처음 공개하는 것을 목표</b>로 한다고 보도했습니다. 개발은 올해 7월 새로 만든 RX(로보틱스경험)사업추진실이 맡고 있습니다.</p>
+
+<ul>
+<li>10월 말에는 이재용 회장이 이 조직을 찾아 휴머노이드 개발을 점검했다는 소식이 전해졌습니다</li>
+<li>그날 삼성 자회사 <b>레인보우로보틱스</b> 주가는 하루에 15% 넘게 올랐습니다</li>
+<li>다만 11월 중순 보도는 여전히 '<b>공개 검토</b>' 수준이고, 삼성전자는 "확인할 수 없다"는 입장입니다</li>
+</ul>
+
+<p>지난 CES 2026에서 삼성은 로봇을 전시하지 않았습니다. 그래서 공개된다면 사실상 첫 공식 무대가 되고, 공개되지 않으면 실망 매물이 나올 수도 있는 '양날의 칼'입니다.</p>
+
+<p style="color: #2f5bea;"><b>삼성이 고민하는 사이, 이미 로봇을 무대에 올렸던 회사가 있습니다. LG는 어디까지 왔을까요?</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">LG, 두 발로 걷는 클로이드가 나올까</h2>
+
+<p>LG전자는 CES 2027에 <b>대형 전시관</b>을 마련하고 AI 가전, 로봇, 차세대 TV를 선보일 예정입니다. 이미 <b>시그니처 올레드 T6</b>가 최고혁신상을 받았습니다.</p>
+
+<ul>
+<li>CES 2026에서 바퀴 달린 가정용 로봇 <b>클로이드(CLOiD)</b>를 처음 공개했습니다</li>
+<li>두 발로 걷는 클로이드는 키 130·170·190cm 세 가지로 개발 중이라는 보도가 있고, 공개 목표는 <b>내년 1분기</b>입니다. CES 출품 여부는 아직 확정되지 않았습니다</li>
+<li>계열사 <b>LG디스플레이</b>는 휴머노이드 얼굴용 '리얼 페이스 디스플레이'로 로봇 부문 혁신상을 받았습니다</li>
+<li>LG이노텍, LG에너지솔루션까지 LG 4개 계열사가 혁신상을 받았습니다</li>
+</ul>
+
+<p style="color: #2f5bea;"><b>로봇 이야기에서 빠질 수 없는 그룹이 하나 더 있습니다. 그런데 올해는 조금 의외의 소식이 나왔습니다.</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">현대차그룹, 부스 없이 기아가 나서는 이유</h2>
+
+<p>현대차는 CES 2026 미디어 데이에서 보스턴다이내믹스의 휴머노이드 <b>아틀라스</b>를 처음 실물로 시연해 큰 화제를 모았습니다. 그런데 11월 보도에 따르면 이번 CES 2027에서는 <b>현대차 본사 부스를 마련하지 않고</b>, 대신 <b>기아가 단독 부스</b>를 엽니다. 보스턴다이내믹스도 별도 전시관은 두지 않을 전망입니다.</p>
+
+<ul>
+<li><b>기아</b>: 자율주행 기술력을 시장에 보여줄 시험대라는 평가</li>
+<li><b>현대모비스</b>: 차량 엔터테인먼트 디스플레이 'M-Moving Display'로 <b>최고혁신상</b> 수상. 아틀라스의 관절을 움직이는 액추에이터 공급사이기도 합니다</li>
+<li><b>현대차</b>: 부스는 없지만 아틀라스 양산 계획이 그룹 로봇 이야기의 중심</li>
+</ul>
+
+<p>부스가 없다고 존재감이 사라지는 건 아닙니다. 다만 "현대차가 CES에서 로봇을 또 보여줄 것"이라는 기대는 조금 낮춰 볼 필요가 있습니다.</p>
+
+<p style="color: #2f5bea;"><b>마지막 남은 SK는 어떨까요? 몇 년째 이어지는 흐름이 있습니다.</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">SK, 몸집은 줄이고 하이닉스로 승부</h2>
+
+<p>SK그룹은 한때 CES에서 여러 계열사가 함께하는 대형 공동관을 운영했습니다. 하지만 CES 2025부터 그룹 공동관을 접고, <b>SK하이닉스</b>가 고객사와 만나는 전시·미팅 공간을 중심으로 참가하는 방식으로 바뀌었습니다.</p>
+
+<p>CES 2026에서 SK하이닉스는 HBM4 16단 48GB 같은 차세대 AI 메모리를 선보였습니다. CES 2027의 4대 트렌드 중 하나가 'AI 칩'인 만큼, 일반 관람객보다 <b>빅테크 고객사</b>를 겨냥한 실속형 참가가 이어질 가능성이 큽니다. CES 2027의 구체적인 전시 규모는 아직 발표되지 않았습니다.</p>
+
+<p style="color: #2f5bea;"><b>4대 그룹을 다 봤으니, 이제 투자자 입장에서 한 번에 정리해 볼까요?</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">4대 그룹 CES 2027 관련주 한눈에 보기</h2>
+
+<table style="width: 100%; border-collapse: collapse; font-size: 16px; margin: 12px 0 20px;">
+<thead><tr style="background: #2f5bea; color: #fff;"><th style="padding: 10px; border: 1px solid #2f5bea;">그룹</th><th style="padding: 10px; border: 1px solid #2f5bea;">관련 종목</th><th style="padding: 10px; border: 1px solid #2f5bea;">CES 연결고리</th></tr></thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #dbe3f5; text-align: center;"><b>삼성</b></td><td style="padding: 10px; border: 1px solid #dbe3f5;">삼성전자, 레인보우로보틱스, 삼성SDI</td><td style="padding: 10px; border: 1px solid #dbe3f5;">폴더블 최고혁신상, 휴머노이드 공개 검토, AI 전력 배터리</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #dbe3f5; text-align: center;"><b>LG</b></td><td style="padding: 10px; border: 1px solid #dbe3f5;">LG전자, LG디스플레이, LG이노텍</td><td style="padding: 10px; border: 1px solid #dbe3f5;">올레드 T6 최고혁신상, 클로이드, 로봇 얼굴 디스플레이</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #dbe3f5; text-align: center;"><b>현대차</b></td><td style="padding: 10px; border: 1px solid #dbe3f5;">기아, 현대모비스, 현대차</td><td style="padding: 10px; border: 1px solid #dbe3f5;">기아 단독 부스, 모비스 최고혁신상·아틀라스 부품</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #dbe3f5; text-align: center;"><b>SK</b></td><td style="padding: 10px; border: 1px solid #dbe3f5;">SK하이닉스</td><td style="padding: 10px; border: 1px solid #dbe3f5;">AI 메모리, 고객사 중심 전시</td></tr>
+</tbody>
+</table>
+
+<p>종목별 주가 흐름과 실적은 아래 글에 따로 정리해 두었습니다.<br>
+👉 <a href="https://assetparking.tndlrs.com/2026/10/ces-2027-samsung-lg-hyundai-sk-stocks.html" target="_blank" rel="noopener">삼성·LG·현대차·SK 참가 계획과 CES 2027 관련주 주가 점검</a></p>
+
+<p style="color: #2f5bea;"><b>그런데 표만 보고 바로 사도 될까요? 지난 몇 년의 CES가 알려주는 교훈이 있습니다.</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">CES 관련주 투자 전에 꼭 볼 3가지</h2>
+
+<ol>
+<li><b>'보도'와 '확정'을 구분하기</b>: 삼성 휴머노이드처럼 아직 검토 단계인 소식이 많습니다. 회사 공식 발표가 나왔는지 먼저 보세요</li>
+<li><b>시장 전체 흐름 보기</b>: 올가을 코스피는 하루에 5~6%씩 오르내렸습니다. 관련주가 오른 날도 CES보다 시장 전체 반등 덕인 경우가 많았습니다</li>
+<li><b>행사 뒤를 생각하기</b>: CES 관련주는 개막 전에 기대감으로 오르고, 행사가 끝나면 빠르게 식는 일이 반복됐습니다</li>
+</ol>
+
+<div style="background: #fff7ed; border-left: 6px solid #f97316; padding: 16px 18px; margin: 20px 0; border-radius: 8px;">
+⚠️ 이 글은 공개된 보도와 주최 측 발표를 정리한 정보입니다. 특정 종목의 매수·매도를 권하지 않으며, 투자 판단과 책임은 본인에게 있습니다.
+</div>
+
+<p style="color: #2f5bea;"><b>마지막으로, 많이 묻는 질문을 모았습니다.</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">CES 2027 관련주 자주 묻는 질문</h2>
+
+<p><b>Q. 현대차는 CES 2027에 안 나가나요?</b><br>
+A. 11월 보도 기준으로 현대차 본사 부스는 마련하지 않고, 기아가 단독 부스를 엽니다. 현대모비스도 참가 기업으로 이름을 올렸습니다.</p>
+
+<p><b>Q. 삼성 휴머노이드는 확정인가요?</b><br>
+A. 아닙니다. 공개를 목표로 한다는 보도와 검토 중이라는 보도가 있지만, 회사는 공식 확인을 하지 않았습니다.</p>
+
+<p><b>Q. 혁신상을 받으면 주가가 오르나요?</b><br>
+A. 꼭 그렇지는 않습니다. 수상 소식이 나온 주에도 시장 전체가 빠지면 관련주도 함께 내렸습니다.</p>
+
+<p><b>Q. 4대 그룹 전시 내용은 언제 알 수 있나요?</b><br>
+A. 보통 12월에 기업별 계획이 나오고, 개막 이틀 전 미디어 데이(한국 시간 1월 5~6일)에 핵심 발표가 나옵니다.</p>
+
+<p style="font-size: 14px; color: #777; margin-top: 30px;">※ 2026년 11월 15일까지 나온 CTA 발표와 국내외 언론 보도 기준입니다. 기업별 전시 계획은 바뀔 수 있습니다.</p>
+
+</div>
