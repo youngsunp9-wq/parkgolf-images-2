@@ -1,0 +1,82 @@
+<div data-polished="1" style="font-size: 17px; line-height: 1.85; color: #222;">
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 15일</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">두 회사가 합병할 때 "몇 대 몇으로 합치느냐"는 주주에게 가장 중요한 숫자입니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">그런데 그동안은 이 비율을 <b>주가만으로</b> 정하다 보니, 대주주에게 유리한 시점을 골라 합병한다는 비판이 끊이지 않았습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16"><b>12월 9일</b>부터 이 규칙이 바뀝니다. 합병가액이 시가에서 <b>공정가액</b>으로 바뀌면 무엇이 달라지는지 쉽게 정리했습니다.</p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 40px 0 16px 0;" data-ke-size="size26">합병가액이란</h2>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@102f28ca7595be1ecfad5c15de6fb8edf11be8f2/sunnyonul/cap/krx_busan.jpg" alt="부산 문현동 한국거래소 본사 건물" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #777;">부산에 있는 한국거래소 본사 · 사진: hyolee2 / Wikimedia Commons (CC BY-SA 3.0)</span></p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">합병가액은 두 회사가 합칠 때 <b>각 회사 주식 1주의 값을 얼마로 칠지</b> 정한 금액입니다. 이 값을 비교해 <b>합병비율</b>이 나옵니다.</p>
+<div style="background: #eff6ff; border-left: 6px solid #1d4ed8; border-radius: 8px; padding: 16px 20px; margin: 20px 0;"><p style="font-size: 19px; margin: 0 0 8px 0; font-weight: bold; color: #1d4ed8;" data-ke-size="size18">💡 쉬운 예시 (가정)</p><p style="margin: 0; font-size: 16px; line-height: 1.9;" data-ke-size="size16">A사 합병가액이 1만 원, B사가 5천 원이면 합병비율은 1 대 0.5입니다.<br />B사 주식 2주를 가진 사람은 합병 뒤 A사 주식 1주를 받습니다. 그래서 B사 값이 낮게 매겨질수록 B사 주주는 손해를 봅니다.</p></div>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #1d4ed8; margin: 0;" data-ke-size="size18"><b>그렇다면 지금까지는 이 값을 어떻게 정했고, 무엇이 문제였을까요?</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 40px 0 16px 0;" data-ke-size="size26">지금까지는 주가만 봤다</h2>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">기존 시행령은 합병가액을 정하는 <b>정해진 산식</b>을 두고, 사실상 최근 주가(시가)를 기준으로 계산하게 했습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">문제는 주가가 낮을 때 합병하면 그 회사 주주가 불리해진다는 점입니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">지배주주가 자신에게 유리한 합병비율을 얻으려고 <b>특정 계열사 주가가 낮은 시점을 고른다</b>는 지적, 이른바 "<b>주가 누르기</b>" 논란이 계속 나왔습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">특히 같은 그룹 계열사끼리 합병할 때는 양쪽 회사의 대주주가 같은 경우가 많아, 어느 쪽 주주가 이득을 보느냐를 두고 소액주주 반발과 소송이 반복됐습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">그때마다 "주가대로 계산했으니 문제없다"는 논리가 쓰였다는 점이 제도 개편의 출발점이 됐습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #1d4ed8; margin: 0;" data-ke-size="size18"><b>12월 9일부터는 이 계산 방식이 어떻게 바뀔까요?</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 40px 0 16px 0;" data-ke-size="size26">12월 9일부터 바뀌는 계산법</h2>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@d3cd29b75cc3586e069e9fee52aaa908dd2c91e9/sunnyonul/img2/s4_compare.png" alt="합병가액 시가 기준과 공정가액 기준 비교" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #777;">합병가액 산정 방식 변화 · 자료: 금융위원회 입법예고 보도, 파인더스 경제인사이트 작성</span></p>
+<table style="width: 100%; border-collapse: collapse; font-size: 16px; margin: 12px 0 20px;"><thead><tr><th style="background: #1d4ed8; color: #fff; padding: 10px; border: 1px solid #1d4ed8;">구분</th><th style="background: #1d4ed8; color: #fff; padding: 10px; border: 1px solid #1d4ed8;">지금까지</th><th style="background: #1d4ed8; color: #fff; padding: 10px; border: 1px solid #1d4ed8;">12월 9일부터</th></tr></thead><tbody><tr><td style="padding: 10px; border: 1px solid #dbe3f5; background: #f8fafc;">기준</td><td style="padding: 10px; border: 1px solid #dbe3f5;">시가 중심, 정해진 산식</td><td style="padding: 10px; border: 1px solid #dbe3f5;"><b>공정가액</b>: 시가·자산가치·수익가치 종합</td></tr><tr><td style="padding: 10px; border: 1px solid #dbe3f5; background: #f8fafc;">산식</td><td style="padding: 10px; border: 1px solid #dbe3f5;">시행령에 획일적 산식</td><td style="padding: 10px; border: 1px solid #dbe3f5;">산식 삭제, 거래 특성에 맞게 평가</td></tr><tr><td style="padding: 10px; border: 1px solid #dbe3f5; background: #f8fafc;">적용</td><td style="padding: 10px; border: 1px solid #dbe3f5;">합병 위주</td><td style="padding: 10px; border: 1px solid #dbe3f5;">합병, 분할, 중요 영업·자산 양수도, 포괄적 주식교환·이전</td></tr></tbody></table>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">주가 하나만 보지 않고 회사가 가진 재산(자산가치)과 앞으로 벌 돈(수익가치)까지 함께 보겠다는 것입니다.</p>
+<ul style="font-size: 17px; line-height: 1.9;"><li><b>시가</b>: 증권시장에서 거래되는 최근 주가</li><li><b>자산가치</b>: 회사가 가진 재산에서 빚을 뺀 순자산을 주식 수로 나눈 값</li><li><b>수익가치</b>: 회사가 앞으로 벌어들일 이익을 현재 가치로 따져 본 값</li></ul>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">예를 들어 공장과 땅은 많은데 주가가 낮은 회사라면, 앞으로는 자산가치가 반영돼 합병가액이 지금보다 높게 매겨질 수 있습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">반대로 주가만 높고 실적이 약한 회사는 거품이 걷힐 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #1d4ed8; margin: 0;" data-ke-size="size18"><b>하지만 "공정가액"도 결국 누군가 계산합니다. 그 계산을 누가 검증할까요?</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 40px 0 16px 0;" data-ke-size="size26">외부평가가 더 꼼꼼해진다</h2>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">지금도 외부평가기관이 합병가액을 검토하지만, 앞으로는 검토 범위가 넓어지고 그 내용이 공시됩니다.</p>
+<ul style="font-size: 17px; line-height: 1.9;"><li>기존: 가액과 거래조건이 적정한지</li><li>추가: <b>평가 방법</b>이 적정한지</li><li>추가: <b>주요 가정</b>이 합리적인지</li><li>추가: 평가 과정에서 <b>어려웠던 점</b>은 무엇인지</li></ul>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #1d4ed8; margin: 0;" data-ke-size="size18"><b>합병에 반대하는 주주라면 회사에 주식을 팔고 나갈 수도 있습니다. 이때도 달라지는 점이 있습니다.</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 40px 0 16px 0;" data-ke-size="size26">주식매수청구권과 이사회 의견서</h2>
+<ul style="font-size: 17px; line-height: 1.9;"><li><b>주식매수청구권</b>: 합병에 반대하는 주주가 회사에 주식을 사 달라고 요구하는 권리입니다. 회사와 주주가 가격에 합의하지 못하면, 앞으로는 <b>외부평가기관의 평가</b>를 받아 증권신고서에 공개해야 합니다</li><li><b>이사회 의견서</b>: 이사회는 합병 목적, 기대효과, 거래가액이 적정한지에 대한 의견서를 공시해야 합니다</li><li><b>계열사 합병</b>: 두 회사 사이의 출자, 채무보증, 임원 겸직, 지분 변동 같은 이해관계를 증권신고서 본문에 써야 합니다</li></ul>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #1d4ed8; margin: 0;" data-ke-size="size18"><b>이런 변화가 개인 투자자에게는 어떤 의미일까요?</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 40px 0 16px 0;" data-ke-size="size26">개인 투자자에게 달라지는 점</h2>
+<ul style="font-size: 17px; line-height: 1.9;"><li>합병 공시가 나오면 <b>증권신고서의 외부평가 의견</b>과 이사회 의견서를 먼저 확인할 수 있습니다</li><li>주가가 일시적으로 눌린 시점에 불리한 비율로 합병되는 일이 줄어들 것으로 기대됩니다</li><li>반대로 공정가액 계산에 들어가는 가정(미래 수익 전망 등)이 새로운 논란거리가 될 수도 있습니다</li><li>합병 반대 주주의 매수청구 가격도 외부 검증을 거치게 됩니다</li></ul>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@b3421e90d7ffa3703af84644727ed6f81b509907/sunnyonul/img2/s4_check.png" alt="합병 공시 확인 순서 5단계 그림" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #777;">합병 공시 확인 순서 · 파인더스 경제인사이트 작성</span></p>
+<div style="background: #f5f3ff; border-left: 6px solid #7c3aed; border-radius: 8px; padding: 16px 20px; margin: 20px 0;"><p style="font-size: 19px; margin: 0 0 8px 0; font-weight: bold; color: #7c3aed;" data-ke-size="size18">🔎 합병 공시가 나오면 이 순서로 확인하세요</p><p style="margin: 0; font-size: 16px; line-height: 1.9;" data-ke-size="size16">① 합병비율과 합병가액 산정 근거<br />② 외부평가기관 의견 (평가 방법·주요 가정)<br />③ 이사회 의견서 (합병 목적·기대효과)<br />④ 계열사 간 이해관계 기재 내용<br />⑤ 주식매수청구 가격과 청구 기간</p></div>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">11월 13일 자본시장 간담회에서도 이 제도가 주주보호 방안으로 소개됐고, 함께 논의된 <a href="https://sunnyonul.tistory.com/entry/의무공개매수-뜻-50-1주-방식-정리">의무공개매수</a>와 <a href="https://sunnyonul.tistory.com/entry/저PBR-기업-명단-151곳-PBR-뜻">저PBR 명단공표</a>도 같은 방향의 제도입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #1d4ed8; margin: 0;" data-ke-size="size18"><b>시행까지 남은 절차도 짚어 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 40px 0 16px 0;" data-ke-size="size26">시행 일정과 남은 절차</h2>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">금융위원회는 9월 15일 자본시장법 시행령 등 하위법규 개정안을 입법예고했고, 규제심사와 증권선물위원회·금융위원회 의결, 법제처 심사, 국무회의 의결을 거쳐 <b>12월 9일 시행</b>할 계획입니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16">최종 시행일과 문구는 금융위원회 발표로 확인하는 것이 정확합니다.</p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 40px 0 16px 0;" data-ke-size="size26">합병가액 공정가액 자주 묻는 질문</h2>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16"><b>Q. 합병가액 공정가액은 언제부터 적용되나요?</b><br />A. 금융위원회 계획상 12월 9일 시행 예정입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16"><b>Q. 공정가액은 어떻게 계산하나요?</b><br />A. 시가, 자산가치, 수익가치를 거래 특성에 맞게 종합해 정합니다. 정해진 하나의 산식은 없어집니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16"><b>Q. 합병 말고도 적용되나요?</b><br />A. 네. 분할, 중요한 영업·자산 양수도, 포괄적 주식교환·이전에도 같은 원칙이 적용됩니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 17px; line-height: 1.85;" data-ke-size="size16"><b>Q. 합병에 반대하면 어떻게 하나요?</b><br />A. 주식매수청구권을 행사할 수 있고, 가격 합의가 안 되면 외부평가를 거친 가격이 공시됩니다.</p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 40px 0 16px 0;" data-ke-size="size26">합병가액 공정가액 핵심 요약</h2>
+<div style="background: #eff6ff; border-left: 6px solid #1d4ed8; border-radius: 8px; padding: 16px 20px; margin: 20px 0;"><p style="font-size: 19px; margin: 0 0 8px 0; font-weight: bold; color: #1d4ed8;" data-ke-size="size18">📌 합병가액 공정가액 핵심 3줄</p><p style="margin: 0; font-size: 16px; line-height: 1.9;" data-ke-size="size16">① 상장사 합병가액을 <b>시가 대신 공정가액</b>(시가·자산가치·수익가치 종합)으로 정합니다.<br />② 외부평가기관이 평가 방법과 가정까지 검토해 <b>공시</b>해야 합니다.<br />③ 금융위 입법예고 기준 <b>12월 9일 시행 예정</b>입니다.</p></div>
+<div style="background: #f8fafc; border: 2px solid #1d4ed8; border-radius: 10px; padding: 16px 20px; margin: 28px 0;"><p style="font-size: 19px; margin: 0 0 8px 0; font-weight: bold; color: #1d4ed8;" data-ke-size="size18">📚 자본시장 개혁 시리즈 (11월 13일 간담회)</p><ol style="margin: 0; padding-left: 20px; line-height: 2.0; font-size: 16px;"><li><a style="color: #1e3a8a;" href="https://sunnyonul.tistory.com/entry/자본시장-간담회-정리-코스닥-퇴출·의무공개매수">자본시장 간담회 정리, 코스닥 퇴출·의무공개매수</a></li><li><a style="color: #1e3a8a;" href="https://sunnyonul.tistory.com/entry/의무공개매수-뜻-50-1주-방식-정리">의무공개매수 뜻, 50%+1주 방식 쉽게 정리</a></li><li><a style="color: #1e3a8a;" href="https://sunnyonul.tistory.com/entry/코스닥-상장폐지-요건-2026-시총-동전주">코스닥 상장폐지 요건 2026, 시총·동전주 기준</a></li><li><a style="color: #1e3a8a;" href="https://sunnyonul.tistory.com/entry/저PBR-기업-명단-151곳-PBR-뜻">저PBR 기업 명단 151곳, PBR 뜻과 확인법</a></li><li><b><a style="color: #1e3a8a;" href="https://sunnyonul.tistory.com/entry/합병가액-공정가액-12월-9일-시행">합병가액 공정가액 전환, 12월 9일 달라지는 점</a> (지금 보는 글)</b></li></ol></div>
+<div style="background: #fff7ed; border-left: 6px solid #ea580c; border-radius: 8px; padding: 16px 20px; margin: 20px 0;"><p style="font-size: 19px; margin: 0 0 8px 0; font-weight: bold; color: #ea580c;" data-ke-size="size18">⚠️ 투자 유의</p><p style="margin: 0; font-size: 16px; line-height: 1.9;" data-ke-size="size16">이 글은 언론 보도와 정부·거래소 발표를 정리한 일반 정보이며 특정 종목의 매수·매도를 권하지 않습니다. 제도는 국회·정부 절차에 따라 바뀔 수 있고, 투자 판단과 책임은 본인에게 있습니다.</p></div>
+<p style="font-size: 13px; color: #888; margin-top: 28px;" data-ke-size="size16">자료: 금융위원회 자본시장법 하위법규 개정안 입법예고(2026.9.15) 관련 한국경제·뉴스프라임·인포스탁데일리 보도, 11월 13일 자본시장 간담회 보도. 시행일은 최종 의결에 따라 바뀔 수 있습니다.</p>
+</div>
