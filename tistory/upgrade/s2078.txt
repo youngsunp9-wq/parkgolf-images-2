@@ -1,0 +1,158 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 17일 (2026년 11월 18일 운행 시간표 기준)</p>
+<p data-ke-size="size16"><b>창원역 KTX는 서울역에서 하루 10편</b>이 출발하고, 일반실 운임은 52,600원, 소요시간은 약 3시간입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">창원역은 창원 의창구에 있는 경전선 역으로, 바로 앞 역인 창원중앙역과 이름이 비슷해 헷갈리기 쉽습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">2026년 11월 운행 자료로 시간표와 요금, 창원중앙역과의 차이, 주차 팁까지 다시 정리했습니다.</p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">창원역 KTX 시간표 한눈에 보기</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #ffedd5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">서울역 출발</span><br /><b>하루 10편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #ffedd5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">첫차</span><br /><b>05:03</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #ffedd5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">막차</span><br /><b>22:08</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">서울역에서 창원역까지 가는 KTX는 하루 10편입니다. 15:23 출발은 열차 2편이 같은 시각에 함께 출발하는 것으로 조회되어, 출발 시각으로 치면 9번입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">창원역에서 서울역으로 올라가는 KTX는 하루 9편이고, 첫차 05:04, 막차 21:49입니다. 낮 시간대는 2~3시간 간격이라 미리 시각을 정해 두는 것이 좋습니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@eaef3506ae00967f8e230550acb6e0cee92c915a/tistory/upgrade/img/c_daily.png" alt="서울역 출발 창원역과 창원중앙역 하루 KTX 운행 횟수 비교" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">서울역 출발 창원역·창원중앙역 하루 KTX</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>먼저 서울역에서 내려가는 열차 시각부터 자세히 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">서울역 → 창원역 KTX 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">시간대</th>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">서울역 출발 시각 (KTX)</th>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">창원역 도착</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">05:03, 06:03, 09:04</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">08:02, 09:14, 12:09</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">낮</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">12:48, 15:09, 15:23(2편)</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">15:48, 18:10, 18:14·18:17</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">17:33, 20:38, 22:08</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">20:33, 23:45, 01:03</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">대부분 2시간 55분~3시간 10분이 걸립니다. 가장 빠른 편은 15:23 출발 열차 중 하나로 2시간 51분이면 도착합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">막차 22:08 열차는 다음 날 01:03쯤 창원역에 닿습니다. 늦은 시각이라 역에서 집까지 가는 교통편을 미리 생각해 두세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>올라오는 길은 출발 시각이 조금 다릅니다. 상행 시간표도 함께 확인하세요.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">창원역 → 서울역 상행 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">시간대</th>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">창원역 출발 시각 (KTX)</th>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">서울역 도착</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">05:04, 06:41, 10:31</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">08:01, 09:57, 13:36</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">낮·오후</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">13:23, 16:14, 16:46</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">16:30, 19:18, 20:00</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">20:03(2편), 21:49</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">23:12, 00:38</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">상행은 약 2시간 49분~3시간 16분이 걸립니다. 막차 21:49 열차가 2시간 49분으로 가장 빠르고, 서울역에 00:38쯤 도착합니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@ce015f3c91fd8bbe05c26f6eb92cf4eab821206a/tistory/upgrade/img/c_up.png" alt="창원역 출발 서울행 KTX 출발 시각 타임라인" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">창원역 출발 서울행 KTX 시각</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>시간을 정했다면 이제 요금입니다. 창원중앙역과 900원 차이가 납니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">창원역 KTX 요금과 소요시간</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">구간</th>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">일반실 기본 운임</th>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">소요시간</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;"><b>서울역 ↔ 창원역</b></td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;"><b>52,600원</b></td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">약 2시간 49분~3시간 16분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">서울역 → 창원중앙역</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">51,700원</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">약 2시간 43분~3시간 2분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">창원역 → 창원중앙역</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">8,400원</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">약 8~9분</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">성인 1명 편도, 일반실 기본 운임 기준입니다. 왕복이면 서울역 기준 105,200원이고, 아래 할인 제도를 쓰면 더 줄일 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">창원역과 창원중앙역 사이는 KTX로 8~9분 거리입니다. 운임 차이는 900원이라 집이나 목적지와 가까운 역을 고르면 됩니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>그런데 창원중앙역은 열차가 훨씬 많습니다. 두 역을 나란히 놓고 비교해 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">창원역 vs 창원중앙역, 어디서 탈까</h2>
+<p data-ke-size="size16"><b>열차 편수는 창원중앙역이 거의 두 배입니다.</b> 서울역 출발 기준 창원중앙역은 하루 17편, 창원역은 10편입니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@78484cede8327887a058c9942177d4c276ab433f/tistory/upgrade/img/c_cmp.png" alt="창원역과 창원중앙역 KTX 편수 운임 소요시간 비교" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">창원역과 창원중앙역 비교 (서울역 출발 KTX)</span></p>
+<p data-ke-size="size16">창원역은 의창구 북쪽, 창원중앙역은 성산구·상남동 쪽에서 가깝습니다. 원하는 시각에 창원역 열차가 없다면 창원중앙역 열차를 함께 조회해 보세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 19px;" data-ke-size="size18">💡 창원역에 서지 않는 열차도 창원중앙역에는 서는 경우가 많습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>차를 가지고 역에 간다면 주차장 이용법도 알아 두면 좋습니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">창원역 주차장 이용 팁</h2>
+<p data-ke-size="size16">창원역에는 역 이용객이 쓸 수 있는 주차장이 있습니다. 다만 2026년 11월 현재 <b>주차 요금표는 공식 자료로 확인하지 못해</b> 이 글에서는 숫자를 적지 않았습니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>명절·연휴에는 주차장이 빨리 차므로 대중교통이나 배웅을 함께 고려하세요</li>
+<li>승차권 할인이 되는지 출차 전 정산기 안내를 확인하세요</li>
+<li>1박 이상 세워 둘 계획이면 1일 최대 요금을 미리 물어보세요</li>
+<li>문의: 철도고객센터 1544-7788</li>
+</ul>
+<p data-ke-size="size16">예전 글에 적었던 요금은 지금과 다를 수 있어 지웠습니다. 출발 전 현장 안내판이나 고객센터로 확인하는 것이 정확합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>표를 살 때 조금만 신경 쓰면 운임도 꽤 줄일 수 있습니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">KTX 요금 아끼는 코레일 할인</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>어린이(6~13세 미만)</b>: 운임 50% 할인. 6세 미만 유아는 어른 1명당 1명 무료(좌석 지정 시 할인 요금)</li>
+<li><b>경로(65세 이상)</b>: KTX 30% 할인(토·일·공휴일 제외)</li>
+<li><b>다자녀 행복</b>: 2자녀 가정 30%, 3자녀 이상 50% 할인(어른 운임)</li>
+<li><b>맘편한 코레일</b>: 임산부와 동반 1명, 일반실 40% 할인</li>
+<li><b>청년 할인</b>: 청소년 드림·힘내라 청춘 상품, 승차율에 따라 10~40% 할인</li>
+<li><b>4인 동반석</b>: 마주 보는 4좌석을 한 번에 사면 할인</li>
+</ul>
+<p data-ke-size="size16">할인은 대부분 서로 겹쳐 쓸 수 없고, 운임에만 적용됩니다. 조건과 할인율은 코레일 앱이나 홈페이지의 할인 안내에서 출발 전에 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>예매할 때 놓치기 쉬운 점도 정리했습니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">창원역 KTX 예매 팁</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>금요일 저녁 하행, 일요일 오후 상행은 빨리 매진되니 1~2주 전에 예매하세요</li>
+<li>원하는 시각이 매진이면 창원중앙역이나 마산역 도착 열차도 함께 조회해 보세요</li>
+<li>15:23·20:03처럼 같은 시각 2편으로 보이는 열차는 예매 화면에서 열차 번호와 정차역을 꼭 확인하세요</li>
+<li>승차권은 코레일 공식 앱이나 홈페이지에서 사는 것이 가장 안전합니다</li>
+</ul>
+<p data-ke-size="size16">시간표는 요일과 임시열차에 따라 조금씩 바뀝니다. 이 글은 수요일 운행 기준이니 주말 여행이라면 출발일로 다시 조회하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>자주 받는 질문은 아래에 따로 모았습니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">창원역 KTX 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 서울에서 창원역까지 KTX는 몇 시간 걸리나요?</b><br />A. 서울역 기준 약 2시간 51분~3시간 11분입니다. 대부분 3시간 안팎입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 창원역 KTX 요금은 얼마인가요?</b><br />A. 서울역 출발 일반실 성인 기본 운임이 52,600원입니다. 창원중앙역은 51,700원입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 창원역 KTX 첫차와 막차는 몇 시인가요?</b><br />A. 서울역 출발 첫차 05:03, 막차 22:08입니다. 창원역 출발 상행은 첫차 05:04, 막차 21:49입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 창원역과 창원중앙역은 다른 역인가요?</b><br />A. 네, 다른 역입니다. KTX로 8~9분 거리이고, 서울역 출발 열차는 창원중앙역이 하루 17편으로 더 많습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 창원역 주차 요금은 얼마인가요?</b><br />A. 공식 요금표로 확인하지 못했습니다. 현장 안내판이나 철도고객센터(1544-7788)에서 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. SRT도 창원역에 서나요?</b><br />A. 이 시간표 자료에서는 수서역 출발 창원역 직통이 조회되지 않았습니다. SR 공식 앱에서 출발일로 다시 확인하세요.</p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 창원역 KTX 핵심 요약</h2>
+<div data-polished="1" style="background: #fff7ed; border-left: 5px solid #c2410c; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 서울역에서 창원역까지 KTX는 <b>하루 10편</b>, 첫차 05:03·막차 22:08입니다.<br />② 소요시간은 <b>약 3시간</b>, 일반실 기본 운임은 <b>52,600원</b>입니다.<br />③ 열차가 더 많은 곳은 <b>창원중앙역(하루 17편)</b>, KTX로 8~9분 거리입니다.</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">시간표·운임은 한국철도공사 공공데이터(2026년 11월 18일 수요일 운행 기준, 11월 17일 조회)이며, 요일·임시열차·시간표 개정에 따라 바뀔 수 있습니다. 주차 요금은 공식 요금표로 확인하지 못해 숫자를 적지 않았습니다. 승차권과 요금은 코레일 공식 앱이나 홈페이지에서 출발일 기준으로 다시 확인하세요.</p>
