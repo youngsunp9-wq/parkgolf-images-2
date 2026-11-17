@@ -1,0 +1,177 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 17일 (2026년 11월 18일 운행 시간표 기준)</p>
+<p data-ke-size="size16"><b>강릉역 KTX는 서울역에서 하루 14편, 청량리역에서 하루 25편</b>이 출발합니다. 서울역 기준 일반실 운임은 27,600원, 소요시간은 약 2시간입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">강릉역은 2017년 12월 KTX 강릉선 개통과 함께 새로 문을 연 역으로, 경포·안목해변·주문진으로 가는 출발점입니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">2026년 11월 운행 자료로 시간표와 요금, 주차와 렌트카 이용 팁까지 다시 정리했습니다.</p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">강릉역 KTX 시간표 한눈에 보기</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #e0f2fe; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">서울역 출발</span><br /><b>하루 14편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #e0f2fe; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">청량리역 출발</span><br /><b>하루 25편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #e0f2fe; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">상봉역 출발</span><br /><b>하루 9편</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">강릉선 KTX는 모두 KTX-이음 차량으로 다닙니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">서울역에서 출발하는 열차는 청량리역을 거쳐 강릉으로 가고, 청량리역에서만 출발하는 열차가 따로 더 있어 청량리역 출발 편수가 가장 많습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">첫차는 서울역 05:06, 막차는 청량리역 22:34 출발입니다. 강릉에서 올라오는 상행도 첫차 05:20, 막차 22:27로 하루 종일 1시간 안팎 간격으로 열차가 있습니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@d941378d0e02baf59e0f886f100ade4fccc69b06/tistory/upgrade/img/g_daily.png" alt="출발역별 강릉행 KTX 하루 운행 횟수 막대그래프" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">출발역별 강릉행 KTX 운행 횟수 (2026년 11월 18일 기준)</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>그렇다면 서울역에서는 정확히 몇 시에 출발할까요? 시간대별로 나눠 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">서울역 → 강릉역 KTX 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">시간대</th>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">서울역 출발 시각 (KTX-이음)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">05:06, 05:40, 07:59, 08:57, 09:55</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">낮</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">12:11, 12:55, 13:55, 16:11</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">17:04, 18:58, 20:01, 21:31, 22:14</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">서울역에서 강릉역까지는 하루 14편이며, 대부분 2시간 안팎이 걸립니다. 가장 빠른 편은 막차인 22:14 출발 열차로 1시간 51분 뒤 00:05쯤 강릉에 도착합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">오전 10시부터 12시 사이에는 서울역 출발 열차가 없습니다. 이 시간대에 가야 한다면 청량리역 출발 열차를 고르는 편이 낫습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>청량리역과 상봉역 출발 열차는 편수와 시간이 더 촘촘합니다. 바로 이어서 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">청량리역·상봉역 → 강릉역 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">출발역</th>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">출발 시각 (KTX-이음)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">청량리역 (25편)</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">05:27, 06:00, 06:27, 07:52, 08:19, 08:52, 09:18, 10:15, 12:01, 12:31, 13:16, 13:42, 14:15, 14:40, 15:02, 15:52, 16:32, 17:25, 18:05, 19:21, 19:55, 20:22, 21:38, 21:52, 22:34</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">상봉역 (9편)</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">05:33, 08:58, 10:21, 12:38, 14:21, 17:31, 18:11, 19:28, 20:28</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">청량리역에서는 약 1시간 27분~1시간 50분이 걸립니다. 서울역보다 출발역이 동쪽이라 20~30분 정도 빠르고, 운임도 1,600원 쌉니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">상봉역은 중랑구·구리 쪽에 사는 분들이 이용하기 좋습니다. 하루 9편으로 편수는 적지만 소요시간은 1시간 28분~1시간 41분으로 짧습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>돌아오는 길도 미리 정해 두면 마음이 편합니다. 강릉역 출발 상행 시간표입니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">강릉역 → 서울역·청량리역 상행 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">도착역</th>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">강릉역 출발 시각</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">서울역까지 (14편)</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">05:20, 06:16, 07:28, 08:10, 10:35, 11:28, 12:23, 15:37, 16:45, 17:01, 18:48, 20:30, 21:33, 22:27</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">청량리역까지 (25편)</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">05:20, 06:16, 07:28, 08:10, 09:48, 10:07, 10:17, 10:35, 10:59, 11:28, 12:23, 13:58, 15:37, 16:00, 16:45, 17:01, 17:27, 17:52, 18:23, 18:48, 20:04, 20:30, 21:33, 22:00, 22:27</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">서울역까지 가는 14편은 모두 청량리역에도 섭니다. 그래서 청량리역 칸에는 서울역행 14편과 청량리역까지만 가는 11편이 함께 들어 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">강릉에서 서울역까지는 약 1시간 54분~2시간 15분, 청량리역까지는 약 1시간 31분~1시간 55분이 걸립니다. 막차 22:27 열차는 서울역에 00:25쯤 도착합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>편수를 알았으니 이제 요금을 볼 차례입니다. 출발역마다 운임이 조금씩 다릅니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">강릉역 KTX 요금과 소요시간</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">구간</th>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">일반실 기본 운임</th>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">소요시간</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;"><b>서울역 ↔ 강릉역</b></td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;"><b>27,600원</b></td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">약 1시간 51분~2시간 15분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">청량리역 ↔ 강릉역</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">26,000원</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">약 1시간 27분~1시간 55분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">상봉역 → 강릉역</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">25,600원</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">약 1시간 28분~1시간 41분</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">성인 1명 편도, 일반실 기본 운임 기준입니다. 서울역과 청량리역의 차이는 1,600원이고, 왕복이면 3,200원입니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@4f57b9354f25e8223139ed0b90074a22c4f0f488/tistory/upgrade/img/g_fare.png" alt="강릉역 KTX 출발역별 일반실 운임 정리 카드" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">강릉역 KTX 출발역별 운임과 소요시간</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>운임과 시간을 함께 보면 어느 역에서 타는 게 나은지 답이 나옵니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">서울역 vs 청량리역, 어디서 탈까</h2>
+<p data-ke-size="size16"><b>시간과 돈만 보면 청량리역이 유리합니다.</b> 청량리역 출발이 편수는 11편 더 많고, 20~30분 빠르며, 1,600원 쌉니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">다만 집에서 역까지 가는 시간도 따져야 합니다. 서울역은 공항철도·1·4호선·경의중앙선이, 청량리역은 1호선·경의중앙선·수인분당선·경춘선이 지나갑니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@30a6948f7f2259ee01e221f438398ba8eb887b11/tistory/upgrade/img/g_time.png" alt="출발역별 강릉까지 가장 빠른 KTX 소요시간 비교" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">출발역별 강릉까지 최단 소요시간</span></p>
+<p style="font-size: 19px;" data-ke-size="size18">💡 강남·송파 쪽이라면 청량리역, 마포·용산·인천공항 쪽이라면 서울역이 대체로 편합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>차를 가지고 역까지 간다면 주차도 미리 알아 두어야 합니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">강릉역 주차장 이용 팁</h2>
+<p data-ke-size="size16">강릉역에는 역 이용객이 쓸 수 있는 주차장이 있습니다. 다만 2026년 11월 현재 <b>주차 요금표는 공식 자료로 확인하지 못해</b> 이 글에서는 숫자를 적지 않았습니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>주말·연휴에는 오전부터 주차장이 붐비므로 일찍 도착하는 것이 좋습니다</li>
+<li>열차 승차권이 있으면 할인이 되는지 출차 전에 정산기 안내를 확인하세요</li>
+<li>1박 이상 세워 둘 계획이면 1일 최대 요금을 미리 물어보세요</li>
+<li>문의: 철도고객센터 1544-7788</li>
+</ul>
+<p data-ke-size="size16">여행 안내 사이트마다 적힌 금액이 다르니, 출발 전에 현장 안내판이나 고객센터로 한 번 더 확인하는 것이 가장 정확합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>반대로 기차로 강릉에 도착했다면 역에서 어떻게 움직일지가 다음 고민입니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">강릉역 도착 후 이동과 렌트카</h2>
+<p data-ke-size="size16">강릉역에서 경포해변·안목해변·주문진까지는 시내버스와 택시로 갈 수 있습니다. 여러 곳을 하루에 돌거나 짐이 많다면 렌트카가 편합니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>렌트카는 예약 앱에서 인수 장소를 '강릉역'으로 검색해 역 주변 영업소를 고르면 됩니다</li>
+<li>주말·여름 성수기는 차가 빨리 동나므로 기차표와 함께 미리 예약하세요</li>
+<li>반납 시각은 상행 열차 출발 30분 전쯤으로 잡아야 여유가 있습니다</li>
+</ul>
+<p data-ke-size="size16">렌트카 요금은 업체와 날짜에 따라 크게 달라서 이 글에서는 따로 적지 않았습니다. 같은 날짜로 두세 곳을 비교해 보는 것이 좋습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>마지막으로 같은 기차표를 더 싸게 사는 방법을 정리했습니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">KTX 요금 아끼는 코레일 할인</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>어린이(6~13세 미만)</b>: 운임 50% 할인. 6세 미만 유아는 어른 1명당 1명 무료(좌석 지정 시 할인 요금)</li>
+<li><b>경로(65세 이상)</b>: KTX 30% 할인(토·일·공휴일 제외)</li>
+<li><b>다자녀 행복</b>: 2자녀 가정 30%, 3자녀 이상 50% 할인(어른 운임)</li>
+<li><b>맘편한 코레일</b>: 임산부와 동반 1명, 일반실 40% 할인</li>
+<li><b>청년 할인</b>: 청소년 드림·힘내라 청춘 상품, 승차율에 따라 10~40% 할인</li>
+<li><b>4인 동반석</b>: 마주 보는 4좌석을 한 번에 사면 할인</li>
+</ul>
+<p data-ke-size="size16">할인은 대부분 서로 겹쳐 쓸 수 없고, 운임에만 적용됩니다. 조건과 할인율은 코레일 앱이나 홈페이지의 할인 안내에서 출발 전에 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>자주 받는 질문은 아래에 따로 모았습니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">강릉역 KTX 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 서울에서 강릉역까지 KTX는 몇 시간 걸리나요?</b><br />A. 서울역 출발은 약 1시간 51분~2시간 11분, 청량리역 출발은 약 1시간 27분~1시간 50분입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 강릉역 KTX 요금은 얼마인가요?</b><br />A. 일반실 성인 기본 운임이 서울역 27,600원, 청량리역 26,000원, 상봉역 25,600원입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 강릉행 KTX 첫차와 막차는 몇 시인가요?</b><br />A. 서울역 출발 첫차 05:06, 막차 22:14입니다. 청량리역은 첫차 05:27, 막차 22:34입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 강릉역에서 서울로 가는 막차는 몇 시인가요?</b><br />A. 강릉역 22:27 출발 열차가 막차이며, 청량리역을 거쳐 서울역에 00:25쯤 도착합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 강릉역 주차 요금은 얼마인가요?</b><br />A. 공식 요금표로 확인하지 못했습니다. 현장 안내판이나 철도고객센터(1544-7788)에서 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. SRT로도 강릉에 갈 수 있나요?</b><br />A. 이 시간표 기준 강릉역 직통은 KTX-이음입니다. 수서역 출발 편이 있는지는 예매 화면에서 확인하세요.</p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 강릉역 KTX 핵심 요약</h2>
+<div data-polished="1" style="background: #f0f9ff; border-left: 5px solid #0369a1; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 강릉행 KTX는 <b>서울역 하루 14편, 청량리역 하루 25편</b>입니다.<br />② 일반실 운임은 <b>서울역 27,600원, 청량리역 26,000원</b>입니다.<br />③ 시간과 요금은 <b>청량리역 출발</b>이 20~30분 빠르고 1,600원 쌉니다.</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">시간표·운임은 한국철도공사 공공데이터(2026년 11월 18일 수요일 운행 기준, 11월 17일 조회)이며, 요일·임시열차·시간표 개정에 따라 바뀔 수 있습니다. 주차 요금은 공식 요금표로 확인하지 못해 숫자를 적지 않았습니다. 승차권과 요금은 코레일 공식 앱이나 홈페이지에서 출발일 기준으로 다시 확인하세요.</p>
