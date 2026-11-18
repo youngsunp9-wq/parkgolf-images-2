@@ -1,0 +1,214 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 18일 (2026년 11월 19일 운행 시간표 기준)</p>
+<p data-ke-size="size16"><b>오송역에서 서울역으로 가는 KTX는 하루 45편</b>, 서울역에서 오송역으로 오는 KTX는 하루 42편입니다. 일반실 운임은 18,500원, 빠른 열차는 42분이면 닿습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">오송역은 경부고속선과 호남고속선이 갈라지는 분기역이라 부산·대구 방면과 광주·목포 방면 KTX가 모두 섭니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">2026년 11월 운행 자료로 방향별 시간표와 요금, 주차와 환승 팁까지 다시 정리했습니다.</p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">오송역 KTX 시간표 한눈에 보기</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #d1fae5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">서울역 → 오송</span><br /><b>하루 42편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #d1fae5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">오송 → 서울역</span><br /><b>하루 45편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #d1fae5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">용산역 → 오송</span><br /><b>하루 24편</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">같은 시각에 두 열차가 붙어서 출발하는 편(복합 열차)은 한 번으로 셌습니다. 그래서 예매 화면에서는 열차 번호가 이보다 더 많이 보일 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">서울역 출발 첫차는 05:38, 막차는 23:28입니다. 오송역에서 서울로 올라가는 열차도 06:12부터 23:31까지 하루 종일 있습니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@1781d65116a65823753a9d80f150e2ce8fae0987/tistory/upgrade/img/o_daily.png" alt="오송역 출발 KTX 목적지별 하루 편수 막대그래프" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">오송역 출발 KTX 목적지별 하루 편수 (2026년 11월 19일 기준)</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>그렇다면 서울역에서는 몇 시에 출발할까요? 시간대별로 나눠 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">서울역 → 오송역 KTX 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">시간대</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">서울역 출발 시각 (KTX)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">05:38, 06:03, 06:22, 06:33, 06:44, 06:57, 07:03, 07:27, 08:08, 08:23, 09:23, 09:28, 09:33, 09:45, 10:18, 10:28, 10:32, 10:43</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">낮</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">12:39, 12:48, 12:58, 13:18, 13:58, 14:42, 14:58, 15:09, 16:18, 16:58</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">17:33, 17:37, 18:13, 18:24, 18:41, 18:58, 19:29, 19:35, 19:58, 20:38, 21:28, 22:18, 22:58, 23:28</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">대부분 47분~55분이 걸립니다. 가장 빠른 편은 19:35 출발 열차로 42분, 12:39 출발 열차는 43분이면 도착합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>오전 10시 43분부터 12시 39분 사이에는 서울역 출발 열차가 없습니다.</b> 이 시간대라면 용산역 출발 열차를 함께 살펴보세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>용산역에서 출발하는 호남선 열차도 오송역에 섭니다. 바로 이어서 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">용산역 → 오송역 KTX 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">시간대</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">용산역 출발 시각 (KTX)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">05:08, 05:48, 06:10, 06:29, 06:53, 07:10, 07:38, 08:20, 08:40, 09:19, 09:53, 10:40, 10:53</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">낮</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">12:45, 14:10, 14:38, 14:48, 15:33</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">17:44, 18:31, 19:41, 20:09, 20:33, 22:23</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">용산역에서는 하루 24편이 오송역에 서고, 약 42분~53분이 걸립니다. 운임은 18,200원으로 서울역보다 300원 쌉니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">용산역 출발 열차는 대부분 광주송정·목포·여수 방면 호남선·전라선 열차입니다. 마포·용산·영등포 쪽에 산다면 용산역이 더 가까울 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>돌아오는 길도 미리 정해 두면 마음이 편합니다. 오송역에서 서울로 올라가는 시간표입니다.</b></p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">오송역 → 서울역 상행 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">시간대</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">오송역 출발 시각 (서울역행 KTX)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">06:12, 06:52, 07:07, 07:24, 07:27, 07:46, 08:08, 08:23, 08:30, 08:39, 08:52, 09:02, 09:42, 10:29, 10:33, 10:53, 11:51</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">낮</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">13:55, 14:23, 14:37, 14:57, 15:10, 15:45, 15:54, 16:07, 16:54</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">17:11, 17:49, 18:08, 18:15, 18:22, 18:48, 19:26, 19:37, 19:55, 20:23, 20:33, 20:41, 21:04, 21:44, 22:19, 22:42, 22:53, 22:59, 23:31</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">오송역에서 서울역까지는 하루 45편이며, 출퇴근 시간대인 7~9시와 18~23시에 열차가 몰려 있습니다. 운임은 하행과 같은 18,500원입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">낮 11:51 다음 열차는 13:55입니다. 점심 무렵 올라갈 계획이라면 이 두 시간 공백을 꼭 기억해 두세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>오송역의 진짜 장점은 남쪽으로 내려갈 때 드러납니다. 부산·대구 방면부터 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">오송역 → 부산·동대구 KTX 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">목적지</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">오송역 출발 시각 (KTX)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">부산역 (20편)</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">06:57, 07:21, 07:52, 08:14, 10:27, 11:07, 11:22, 13:52, 14:12, 14:48, 15:36, 15:52, 17:46, 19:00, 19:18, 19:35, 19:52, 20:17, 20:52, 22:16</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">동대구역 (34편)</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">06:32, 06:57, 07:21, 07:52, 08:14, 09:03, 09:10, 10:10, 10:16, 10:27, 11:07, 11:22, 11:37, 13:22, 13:36, 13:52, 14:12, 14:48, 15:36, 15:52, 15:56, 17:05, 17:46, 18:20, 19:00, 19:18, 19:35, 19:52, 20:17, 20:52, 21:32, 22:16, 23:05, 23:52</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">오송역에서 부산역까지는 약 2시간 1분~2시간 31분, 동대구역까지는 약 1시간~1시간 14분이 걸립니다. 부산행 20편은 모두 동대구역에도 섭니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">부산역에서 오송역으로 올라오는 KTX는 하루 29편으로, 첫차 04:38부터 21:41까지 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>호남 방면은 열차 수가 조금 적습니다. 광주송정행 시간표도 함께 확인하세요.</b></p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">오송역 → 광주송정 KTX 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">방향</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">출발 시각 (KTX)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">오송 → 광주송정 (16편)</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">05:55, 06:40, 07:16, 08:25, 09:07, 10:06, 11:27, 13:27, 15:31, 15:40, 16:20, 18:26, 19:24, 20:28, 21:25, 23:16</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">광주송정 → 오송 (15편)</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">05:12, 05:37, 06:01, 06:10, 07:41, 08:48, 11:05, 11:34, 13:22, 14:21, 16:59, 18:41, 20:29, 20:50, 21:20</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">빠른 열차는 오송역에서 광주송정역까지 59분이면 갑니다. 다만 중간 정차역이 많은 열차는 1시간 55분까지 걸리니 예매할 때 도착 시각을 꼭 보세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">광주송정 방면 열차 중 일부는 목포역까지 이어집니다. 목포까지 간다면 같은 열차의 종착역을 확인하면 됩니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>방향별 편수를 알았으니 이제 요금을 정리해 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">오송역 KTX 요금과 소요시간</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">구간</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">일반실 기본 운임</th>
+<th style="background: #047857; color: #ffffff; padding: 10px; border: 1px solid #047857;">소요시간</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;"><b>서울역 ↔ 오송역</b></td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;"><b>18,500원</b></td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">약 42분~1시간 2분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">용산역 → 오송역</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">18,200원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">약 42분~53분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">오송역 → 동대구역</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">24,800원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">약 1시간~1시간 14분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">오송역 → 광주송정역</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">28,200원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center; background: #ecfdf5;">약 59분~1시간 55분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">오송역 → 부산역</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">42,200원</td><td style="padding: 10px; border: 1px solid #a7f3d0; text-align: center;">약 2시간 1분~2시간 31분</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">성인 1명 편도, 일반실 기본 운임 기준입니다. 서울역 왕복이면 37,000원이고, 아래 할인 제도를 쓰면 더 줄일 수 있습니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@832325cd473fdd851fde1d0238ec88fd205b1c10/tistory/upgrade/img/o_fare.png" alt="오송역 KTX 구간별 일반실 운임과 소요시간 정리 카드" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">오송역 KTX 구간별 운임과 소요시간</span></p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@7dff974f7e8517c60f06b9ebd55ad0cea3c276d3/tistory/upgrade/img/o_time.png" alt="오송역에서 목적지별 가장 빠른 KTX 소요시간 비교" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">오송역에서 목적지별 최단 소요시간</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>SRT를 타고 싶은 분도 있을 겁니다. 수서역 이용 방법을 짚어 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">오송역 SRT·수서역 이용 안내</h2>
+<p data-ke-size="size16">이 글의 시간표는 한국철도공사(코레일) 공공데이터라 <b>SRT 시간표는 들어 있지 않습니다.</b> 수서역 출발 SRT는 SR 공식 앱이나 홈페이지에서 따로 조회해야 합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">참고로 이 자료에서는 오송역에서 수서역으로 가는 KTX가 하루 2편(06:21, 12:36, 운임 16,800원) 조회되었습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">운행 여부는 날짜마다 다를 수 있으니 예매 화면에서 다시 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 19px;" data-ke-size="size18">💡 강남·송파·동탄 쪽이라면 수서역 출발 SRT가, 서울 도심·마포 쪽이라면 서울역·용산역 KTX가 대체로 편합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>차를 가지고 오송역에 간다면 주차장도 미리 알아 두어야 합니다.</b></p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">오송역 주차장 이용 팁</h2>
+<p data-ke-size="size16">오송역에는 운영사가 서로 다른 주차장이 여러 곳(A~E, K 구역) 있습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">운영사마다 요금과 할인 방식이 달라서, 2026년 11월 현재 <b>공식 요금표로 확인하지 못한 숫자는 적지 않았습니다.</b></p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>주말·명절에는 역과 가까운 주차장부터 차므로 일찍 도착하는 것이 좋습니다</li>
+<li>승차권 할인이 되는지 출차 전 정산기 안내를 확인하세요</li>
+<li>1박 이상 세워 둘 계획이면 1일 최대 요금을 미리 물어보세요</li>
+<li>문의: 철도고객센터 1544-7788</li>
+</ul>
+<p data-ke-size="size16">예전 글에 적었던 개별 주차장 연락처와 면수는 바뀌었을 수 있어 뺐습니다. 현장 안내판이나 고객센터로 확인하는 것이 가장 정확합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>표를 살 때 조금만 신경 쓰면 운임도 꽤 줄일 수 있습니다.</b></p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">KTX 요금 아끼는 코레일 할인</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>어린이(6~13세 미만)</b>: 운임 50% 할인. 6세 미만 유아는 어른 1명당 1명 무료(좌석 지정 시 할인 요금)</li>
+<li><b>경로(65세 이상)</b>: KTX 30% 할인(토·일·공휴일 제외)</li>
+<li><b>다자녀 행복</b>: 2자녀 가정 30%, 3자녀 이상 50% 할인(어른 운임)</li>
+<li><b>맘편한 코레일</b>: 임산부와 동반 1명, 일반실 40% 할인</li>
+<li><b>청년 할인</b>: 청소년 드림·힘내라 청춘 상품, 승차율에 따라 10~40% 할인</li>
+<li><b>4인 동반석</b>: 마주 보는 4좌석을 한 번에 사면 할인</li>
+</ul>
+<p data-ke-size="size16">할인은 대부분 서로 겹쳐 쓸 수 없고, 운임에만 적용됩니다. 조건과 할인율은 코레일 앱이나 홈페이지의 할인 안내에서 출발 전에 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>자주 받는 질문은 아래에 따로 모았습니다.</b></p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">오송역 KTX 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 서울에서 오송역까지 KTX는 얼마나 걸리나요?</b><br />A. 서울역 출발 기준 약 42분~1시간 2분이고, 대부분 47~55분입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 오송역 KTX 요금은 얼마인가요?</b><br />A. 서울역 출발 일반실 성인 기본 운임이 18,500원, 용산역 출발은 18,200원입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 오송역 KTX 첫차와 막차는 몇 시인가요?</b><br />A. 서울역 출발 첫차 05:38, 막차 23:28입니다. 오송역 출발 서울행은 첫차 06:12, 막차 23:31입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 오송역에서 부산까지 얼마나 걸리나요?</b><br />A. 약 2시간 1분~2시간 31분이고, 일반실 운임은 42,200원입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 오송역에도 SRT가 서나요?</b><br />A. 이 글의 자료는 코레일 공공데이터라 SRT가 빠져 있습니다. SR 공식 앱에서 출발일로 조회하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 오송역 주차 요금은 얼마인가요?</b><br />A. 주차장마다 운영사가 달라 요금이 다릅니다. 공식 요금표로 확인하지 못했으니 현장 안내판이나 철도고객센터(1544-7788)에서 확인하세요.</p>
+<h2 style="border-left: 6px solid #047857; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 오송역 KTX 핵심 요약</h2>
+<div data-polished="1" style="background: #ecfdf5; border-left: 5px solid #047857; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 서울역에서 오송역까지 KTX는 <b>하루 42편</b>, 오송역에서 서울역은 <b>하루 45편</b>입니다.<br />② 서울역 기준 일반실 운임은 <b>18,500원</b>, 소요시간은 <b>약 42분~1시간</b>입니다.<br />③ 경부·호남 분기역이라 <b>부산 20편, 광주송정 16편</b>이 오송역에서 출발합니다.</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">시간표·운임은 한국철도공사 공공데이터(2026년 11월 19일 목요일 운행 기준, 11월 18일 조회)이며, 요일·임시열차·시간표 개정에 따라 바뀔 수 있습니다. 같은 시각에 함께 출발하는 복합 열차는 한 편으로 셌습니다. SRT 시간표와 주차 요금은 이 글에 넣지 않았습니다. 승차권과 요금은 코레일·SR 공식 앱에서 출발일 기준으로 다시 확인하세요.</p>
