@@ -1,0 +1,152 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 19일</p>
+<p data-ke-size="size16"><b>SK AIGEN(아이젠)은 만 19~34세 청년 약 50명에게 2년간 매달 300만원, 1인 총 7,200만원을 지원하는 AI 인재 프로그램입니다.</b> 학위도 없고 취업 연계도 없는 대신 학력·전공 제한도 없습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">1기 모집은 2026년 11월 1일부터 15일까지 진행되어 이미 마감되었고, 12월 말 최종 선정 뒤 2027년 3월 교육이 시작됩니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">발표 내용을 바탕으로 지원 조건과 과정 구성, 다음 기수를 준비하는 방법까지 정리했습니다.</p>
+<h2 style="border-left: 6px solid #dc2626; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">SK AIGEN이란? 2년제 비학위 AI 프로그램</h2>
+<p data-ke-size="size16">SK AIGEN은 AI와 세대(Generation)를 합친 이름으로, SK가 2026년 10월 12일 발표한 <b>2년제 비학위 인재육성 프로그램</b>입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">SK그룹 인재육성 플랫폼 mySUNI(마이써니)가 운영과 선발을 맡고, 서울대학교 AI연구원이 협력합니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">교과목을 이수하는 방식이 아니라 실제 문제를 찾아 AI로 해결하는 <b>프로젝트 중심</b> 과정입니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@6ce7ad314f759b74eccd03d091f9a960b3f682ac/tistory/upgrade/img/ag_cards.png" alt="SK AIGEN 지원 대상 선발 인원 성장지원금 정리 카드" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">SK AIGEN 핵심 정보 한눈에</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>가장 눈에 띄는 것은 역시 지원금입니다.</b></p>
+<h2 style="border-left: 6px solid #dc2626; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">SK AIGEN 성장지원금 월 300만원</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #fee2e2; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">월 지원금</span><br /><b>300만원</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #fee2e2; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">기간</span><br /><b>2년</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #fee2e2; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">1인 총액</span><br /><b>7,200만원</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">참가자는 2년 동안 매달 300만원의 성장지원금을 받습니다. 1인 총액 7,200만원은 데일리안 보도에 나온 금액입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">전일제 과정이라 다른 일을 하면서 병행하기는 어렵습니다. 지원금은 학업과 프로젝트에 집중하라는 취지로 이해하면 됩니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>그렇다면 누가 지원할 수 있을까요?</b></p>
+<h2 style="border-left: 6px solid #dc2626; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">SK AIGEN 지원 자격</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>만 19세~34세 청년</li>
+<li>2년간 전일제 교육에 참여할 수 있는 사람</li>
+<li>학력·전공 제한 없음</li>
+</ul>
+<p data-ke-size="size16">선발 기준은 학력이나 전공보다 <b>문제를 해결하려는 의지와 성장 잠재력</b>입니다. 기술·연구뿐 아니라 문화예술, 공공·사회 분야에서 AI로 문제를 풀고 싶은 사람도 대상입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">서류·면접 같은 세부 전형 단계는 발표 기사에 나오지 않아 이 글에 적지 않았습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>1기 일정은 이미 상당 부분 지나갔습니다.</b></p>
+<h2 style="border-left: 6px solid #dc2626; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">SK AIGEN 1기 모집 일정 (마감)</h2>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@f8c8b3ce405f8b5f14fc52a7fe7dd49cd371b38e/tistory/upgrade/img/ag_time.png" alt="SK AIGEN 1기 발표부터 교육 시작까지 일정 타임라인" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">SK AIGEN 1기 일정</span></p>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #dc2626; color: #ffffff; padding: 10px; border: 1px solid #dc2626;">단계</th>
+<th style="background: #dc2626; color: #ffffff; padding: 10px; border: 1px solid #dc2626;">일정</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">프로그램 발표</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">2026년 10월 12일</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fecaca; text-align: center; background: #fef2f2;">설명회</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center; background: #fef2f2;">10월 28일(한국고등교육재단)</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;"><b>1기 모집</b></td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;"><b>11월 1일~15일 (마감)</b></td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fecaca; text-align: center; background: #fef2f2;">최종 선정</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center; background: #fef2f2;">12월 말</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">교육 시작</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">2027년 3월</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">이 글을 처음 올렸을 때는 모집 전이었지만, <b>2026년 11월 19일 현재 1기 접수는 끝났습니다.</b> 지원했다면 12월 말 발표를 기다리면 됩니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>선발되면 2년 동안 무엇을 할까요?</b></p>
+<h2 style="border-left: 6px solid #dc2626; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">1년차·2년차 교육 내용</h2>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@10c8468381b0426405c06338182b9f49195c7d17/tistory/upgrade/img/ag_cmp.png" alt="SK AIGEN 1년차와 2년차 과정 구성 비교" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">SK AIGEN 2년 과정 구성</span></p>
+<p data-ke-size="size16">1년차에는 개인 또는 팀으로 AI를 활용한 프로젝트를 기획하고 수행합니다. 역량 교육과 전문가 멘토링, 활동 공간이 제공됩니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">2년차에는 각자의 진로와 프로젝트 계획에 맞춰 현장 경험을 쌓고, SK가 멘토와 전문가를 연결해 줍니다. 서울대 AI연구원은 인문·사회과학 관점과 진로 설계를 돕습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>제목에 쓴 학위·취업 연계가 없다는 말은 무슨 뜻일까요?</b></p>
+<h2 style="border-left: 6px solid #dc2626; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">학위·취업 보장 없는 이유</h2>
+<p data-ke-size="size16">SK AIGEN은 <b>학위를 주지 않고, SK를 포함한 특정 기업 취업도 보장하지 않습니다.</b> 수료 뒤 따로 지켜야 할 의무 조항도 없다고 발표됐습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">즉 대학 학위나 입사 경로가 아니라, 2년 동안 지원금을 받으며 스스로 프로젝트 실력을 쌓는 프로그램입니다. 졸업장보다 결과물을 남기고 싶은 사람에게 맞습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 19px;" data-ke-size="size18">💡 취업이 목표라면 2년 동안 만든 프로젝트를 포트폴리오로 정리해 두는 것이 가장 큰 자산입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>1기를 놓쳤다면 다음 기수를 노릴 수 있습니다.</b></p>
+<h2 style="border-left: 6px solid #dc2626; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">SK AIGEN 2기 준비 방법</h2>
+<p data-ke-size="size16">SK는 <b>매년 참가자를 선발해</b> 대표 인재육성 프로그램으로 키울 계획이라고 밝혔습니다. 다만 2기 모집 시기와 조건은 아직 발표되지 않았습니다.</p>
+<ol style="line-height: 1.9;" data-ke-list-type="decimal">
+<li>AI로 풀고 싶은 문제를 한두 개 정해 기록해 두기</li>
+<li>작은 AI 프로젝트라도 직접 만들어 결과물 남기기</li>
+<li>1기 일정(10월 발표, 11월 모집)을 참고해 하반기 공지 확인하기</li>
+<li>나이 기준(만 19~34세)을 다음 모집 시점에도 맞는지 확인하기</li>
+</ol>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>비슷한 다른 청년 프로그램과는 어떻게 다를까요?</b></p>
+<h2 style="border-left: 6px solid #dc2626; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">다른 청년 AI 교육과 다른 점</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>정부 국비 교육과 달리 <b>기업이 직접 월 300만원</b>을 지급</li>
+<li>수개월 단기 과정이 아니라 <b>2년 전일제</b></li>
+<li>교과목 이수가 아니라 <b>문제 발굴·해결 프로젝트</b> 중심</li>
+<li>취업 연계 대신 <b>의무 조항 없음</b></li>
+</ul>
+<p data-ke-size="size16">기간이 길고 전일제라 휴학생이나 이직 준비생이라면 생활 계획까지 함께 세워야 합니다. 지원 전 2년을 온전히 쓸 수 있는지 먼저 따져 보세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>지원하기 전에 스스로 점검해 볼 것도 있습니다.</b></p>
+<h2 style="border-left: 6px solid #dc2626; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">SK AIGEN 지원 전 체크리스트</h2>
+<ol style="line-height: 1.9;" data-ke-list-type="decimal">
+<li>2년 동안 다른 일 없이 전일제로 참여할 수 있는가</li>
+<li>월 300만원으로 2년 생활 계획이 서는가</li>
+<li>AI로 풀고 싶은 문제가 구체적으로 있는가</li>
+<li>학위나 취업 보장이 없어도 괜찮은가</li>
+<li>모집 시점에 만 19~34세 나이 기준에 맞는가</li>
+</ol>
+<p data-ke-size="size16">다섯 가지에 모두 그렇다고 답할 수 있다면 다음 기수에 도전해 볼 만합니다. 특히 학위나 취업 연계를 기대했다면 다른 프로그램이 더 맞을 수 있으니, 목적을 먼저 분명히 하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">모집 공고와 세부 전형은 SK AIGEN 공식 안내와 SK 발표를 통해 확인하는 것이 가장 정확합니다. 커뮤니티에 도는 합격 후기나 전형 정보는 공식 확인 전까지 참고만 하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>자주 받는 질문은 아래에 정리했습니다.</b></p>
+<h2 style="border-left: 6px solid #dc2626; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">SK AIGEN 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. SK AIGEN 지원금은 얼마인가요?</b><br />A. 2년간 매달 300만원, 1인 총 7,200만원입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 누가 지원할 수 있나요?</b><br />A. 만 19~34세로 2년 전일제 교육에 참여할 수 있는 청년이며, 학력·전공 제한은 없습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 1기 모집은 언제였나요?</b><br />A. 2026년 11월 1일부터 15일까지였고 마감되었습니다. 12월 말 최종 선정, 2027년 3월 시작입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 수료하면 SK에 취업할 수 있나요?</b><br />A. 아닙니다. 학위도 주지 않고 SK를 포함한 특정 기업 취업을 보장하지 않습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 2기는 언제 모집하나요?</b><br />A. 매년 선발할 계획이라고 밝혔지만 2기 일정은 아직 발표되지 않았습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 전공이 AI와 상관없어도 되나요?</b><br />A. 네. 학력·전공 제한이 없고, 문화예술이나 공공·사회 분야에서 AI로 문제를 풀고 싶은 사람도 대상입니다. 서울대 AI연구원이 인문·사회과학 관점도 함께 지원합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 교육은 어디서 하나요?</b><br />A. 서울에서 전일제로 운영되고 프로젝트 활동 공간이 제공된다고 보도됐습니다. 구체적인 교육장 주소는 아직 공개되지 않았습니다.</p>
+<h2 style="border-left: 6px solid #dc2626; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 SK AIGEN 핵심 요약</h2>
+<div data-polished="1" style="background: #fef2f2; border-left: 5px solid #dc2626; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 만 19~34세 청년 약 50명에게 <b>2년간 월 300만원(총 7,200만원)</b>을 지원합니다.<br />② 1기 모집은 <b>11월 15일 마감</b>, 12월 말 선정 뒤 <b>2027년 3월</b> 시작합니다.<br />③ 학위·취업 보장은 없고, <b>프로젝트 중심 전일제</b> 과정입니다.</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">참고: 2026년 10월 12일 SK 발표 보도(데일리안, 코리아중앙데일리, 코리아타임스, SBS Biz). 세부 전형과 2기 일정은 SK AIGEN 공식 안내로 확인하세요.</p>
