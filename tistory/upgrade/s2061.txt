@@ -1,0 +1,192 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 19일 (2026년 11월 19일 운행 시간표 기준)</p>
+<p data-ke-size="size16"><b>청량리역에서 묵호역까지 KTX-이음은 하루 8편</b>, 묵호역에서 청량리역도 하루 8편입니다. 일반실 운임은 29,100원, 약 2시간 남짓 걸립니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">묵호역은 강원 동해시에 있는 역으로, 서울에서 동해 바다로 가는 KTX-이음과 부산·포항으로 이어지는 동해선 KTX-이음이 함께 섭니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">방향별 시간표와 요금, 주차 팁까지 2026년 11월 운행 자료로 다시 정리했습니다.</p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">묵호역 KTX-이음 시간표 한눈에 보기</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #e0f2fe; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">청량리 → 묵호</span><br /><b>하루 8편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #e0f2fe; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">묵호 → 청량리</span><br /><b>하루 8편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #e0f2fe; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">묵호 → 부전</span><br /><b>하루 3편</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">청량리역 출발 첫차는 07:05, 막차는 20:11입니다. 묵호역에서 올라가는 열차는 07:12부터 21:39까지 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">서울역에서 출발해 청량리역을 거쳐 오는 열차도 일부 있습니다. 편수가 적으니 가는 날과 오는 날 표를 함께 확인하세요.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@82d19467de9cdef3416081308640b92b9ae57dfc/tistory/upgrade/img/mh_daily.png" alt="묵호역 KTX-이음 방향별 하루 편수 막대그래프" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">묵호역 KTX-이음 방향별 하루 편수 (2026년 11월 19일 기준)</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>먼저 청량리역 출발 시간표부터 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">청량리역 → 묵호역 KTX-이음 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">시간대</th>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">청량리역 출발 시각 (KTX-이음)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">07:05, 09:37, 11:20</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">낮</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">13:03, 13:42, 15:23</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">18:41, 20:11</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">소요시간은 약 2시간 4분~2시간 16분입니다. <b>15:23 다음 열차는 18:41입니다.</b> 청량리역 출발 이 시간대에는 약 3시간 넘게 열차가 없으니 일정을 짤 때 꼭 기억하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>서울역에서 바로 출발하는 열차도 있습니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">서울역 ↔ 묵호역 KTX-이음 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">방향</th>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">출발 시각 (KTX-이음)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">서울역 → 묵호 (4편)</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">10:59, 15:01, 18:20, 19:50</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">묵호 → 서울역 (4편)</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">07:12, 14:10, 19:11, 21:39</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">서울역 출발은 약 2시간 29분~2시간 35분가 걸리고 운임은 30,700원입니다. 청량리역보다 25분쯤 더 걸리지만 서울 도심에서 바로 탈 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>돌아오는 길은 열차가 더 귀합니다. 상행 시간표입니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">묵호역 → 청량리역 상행 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">시간대</th>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">묵호역 출발 시각 (청량리행 KTX-이음)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">07:12, 10:11</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">낮</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">12:28, 14:10, 15:48, 16:52</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">19:11, 21:39</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">운임은 하행과 같은 29,100원입니다. <b>07:12 다음 열차는 10:11입니다.</b> 묵호역 출발 이 시간대에는 약 2시간 넘게 열차가 없으니 일정을 짤 때 꼭 기억하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">바다 여행 뒤 돌아오는 표는 주말 오후에 빨리 팔립니다. 왕복으로 미리 끊어 두는 편이 안전합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>묵호역에서는 부산·포항 방면으로도 내려갈 수 있습니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">묵호역 → 포항·부전(부산) 동해선 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">목적지</th>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">묵호역 출발 시각 (KTX-이음)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">포항역 (3편)</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">10:13, 15:31, 19:10</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">부전역 (3편)</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">10:13, 15:31, 19:10</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">포항역까지 약 1시간 47분~1시간 53분(24,600원), 부산 부전역까지 약 3시간 19분~3시간 23분(42,700원)가 걸립니다. 같은 열차가 포항을 거쳐 부전까지 갑니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">부전역에서 묵호역으로 오는 열차는 하루 3편(07:50, 13:58, 19:40)입니다. 하루 세 편뿐이라 놓치면 다음 열차까지 몇 시간을 기다려야 합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>가까운 강릉으로 갈 때는 다른 열차도 탈 수 있습니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">묵호역 → 강릉역 열차 안내</h2>
+<p data-ke-size="size16">묵호역에서 강릉역으로 가는 KTX-이음은 하루 3편(11:06, 17:15, 22:59)이고, 약 33분~36분 걸리며 운임은 8,400원입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">이 구간에는 무궁화호 3편과 ITX-새마을 1편도 다닙니다. 정동진을 거쳐 바다를 보며 가는 구간이라 일정에 여유가 있다면 일반열차도 괜찮습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>이제 구간별 요금을 한 번에 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">묵호역 KTX-이음 요금과 소요시간</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">구간</th>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">일반실 기본 운임</th>
+<th style="background: #0369a1; color: #ffffff; padding: 10px; border: 1px solid #0369a1;">소요시간</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;"><b>청량리역 ↔ 묵호역</b></td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;"><b>29,100원</b></td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">약 2시간 4분~2시간 16분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">서울역 ↔ 묵호역</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">30,700원</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">약 2시간 29분~2시간 35분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">묵호역 → 포항역</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">24,600원</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">약 1시간 47분~1시간 53분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">묵호역 → 부전역</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">42,700원</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center; background: #f0f9ff;">약 3시간 19분~3시간 23분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">묵호역 → 강릉역</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">8,400원</td><td style="padding: 10px; border: 1px solid #bae6fd; text-align: center;">약 33분~36분</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">성인 1명 편도, 일반실 기본 운임 기준입니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@e80f545a4ff103112ea82c3f588bded809c52095/tistory/upgrade/img/mh_fare.png" alt="묵호역 KTX-이음 구간별 운임과 소요시간 카드" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">묵호역 KTX-이음 구간별 운임과 소요시간</span></p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@6b0798ea362d9d16277e615927aa4d66acd395db/tistory/upgrade/img/mh_time.png" alt="묵호역에서 목적지별 가장 빠른 KTX-이음 소요시간" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">묵호역에서 목적지별 최단 소요시간</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>통합 이후 예매 방법도 확인해 두세요.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">묵호역 KTX·SRT 통합 후 예매 방법</h2>
+<p data-ke-size="size16"><b>2026년 9월 1일부터 SRT가 KTX로 통합 운행되고</b>, 예매도 새 앱인 <b>코레일+</b>에서 함께 할 수 있게 되었습니다. 예전처럼 KTX와 SRT 앱을 따로 깔 필요가 없습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">정부는 기존 KTX 운임을 SRT 수준으로 약 10% 낮추는 계획도 발표했습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">다만 구간별 실제 금액과 적용 시기는 예매 화면에서 확인해야 하며, 이 글의 운임은 공공데이터에 올라온 기본 운임입니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>승차권은 출발 30일 전 오전 7시부터 예매할 수 있습니다</li>
+<li>코레일+ 앱 하나로 수서역 출발 고속열차까지 함께 조회됩니다</li>
+<li>역 창구와 자동발매기에서도 살 수 있지만 주말·명절에는 앱 예매가 빠릅니다</li>
+</ul>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>차를 가지고 묵호역에 간다면 주차장도 알아 두세요.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">묵호역 주차장 이용 팁</h2>
+<p data-ke-size="size16">묵호역 주차장 요금과 면수는 2026년 11월 현재 <b>공식 요금표로 확인하지 못해 숫자를 적지 않았습니다.</b> 예전 글에 있던 요금과 연락처는 바뀌었을 수 있어 뺐습니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>주말·명절에는 역과 가까운 주차장부터 차므로 일찍 도착하세요</li>
+<li>승차권 할인이 되는지 출차 전 정산기 안내를 확인하세요</li>
+<li>1박 이상 세워 둘 계획이면 1일 최대 요금을 미리 물어보세요</li>
+<li>문의: 철도고객센터 1544-7788</li>
+<li>묵호항·논골담길은 역에서 가까운 편이라 걷거나 택시로 이동하기 좋습니다</li>
+</ul>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>표를 살 때 할인을 챙기면 운임이 더 줄어듭니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">KTX 요금 아끼는 코레일 할인</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>어린이(6~13세 미만)</b>: 운임 50% 할인. 6세 미만 유아는 어른 1명당 1명 무료(좌석 지정 시 할인 요금)</li>
+<li><b>경로(65세 이상)</b>: KTX 30% 할인(토·일·공휴일 제외)</li>
+<li><b>다자녀 행복</b>: 2자녀 가정 30%, 3자녀 이상 50% 할인(어른 운임)</li>
+<li><b>맘편한 코레일</b>: 임산부와 동반 1명, 일반실 40% 할인</li>
+<li><b>청년 할인</b>: 청소년 드림·힘내라 청춘 상품, 승차율에 따라 10~40% 할인</li>
+<li><b>4인 동반석</b>: 마주 보는 4좌석을 한 번에 사면 할인</li>
+</ul>
+<p data-ke-size="size16">할인은 대부분 서로 겹쳐 쓸 수 없고, 운임에만 적용됩니다. 조건과 할인율은 코레일+ 앱이나 홈페이지 할인 안내에서 출발 전에 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>자주 받는 질문은 아래에 따로 모았습니다.</b></p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">묵호역 KTX-이음 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 청량리에서 묵호역까지 얼마나 걸리나요?</b><br />A. KTX-이음 기준 약 2시간 4분~2시간 16분입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 묵호역 KTX 요금은 얼마인가요?</b><br />A. 청량리역 ↔ 묵호역 29,100원, 서울역 ↔ 묵호역 30,700원입니다(일반실 성인 기본 운임).</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 묵호역에서 서울로 가는 막차는 몇 시인가요?</b><br />A. 청량리행 KTX-이음 막차는 21:39입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 묵호역에서 부산까지 KTX가 있나요?</b><br />A. 네. 동해선 KTX-이음이 하루 3편 부전역까지 가며 약 3시간 19분~3시간 23분 걸립니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 묵호역 주차 요금은 얼마인가요?</b><br />A. 공식 요금표로 확인하지 못했습니다. 현장 안내판이나 철도고객센터(1544-7788)에서 확인하세요.</p>
+<h2 style="border-left: 6px solid #0369a1; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 묵호역 KTX-이음 핵심 요약</h2>
+<div data-polished="1" style="background: #f0f9ff; border-left: 5px solid #0369a1; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 청량리역 ↔ 묵호역 KTX-이음은 <b>하루 8편씩</b>, 운임은 <b>29,100원</b>입니다.<br />② 포항·부전(부산) 방면 동해선 KTX-이음은 <b>하루 3편</b>입니다.<br />③ 편수가 적으니 <b>코레일+ 앱</b>에서 왕복표를 미리 끊으세요.</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">시간표·운임은 한국철도공사 공공데이터(2026년 11월 19일 목요일 운행 기준, 11월 19일 조회)이며, 요일·임시열차·시간표 개정에 따라 바뀔 수 있습니다. 같은 시각에 함께 출발하는 복합 열차는 한 편으로 셌습니다. 2026년 9월 통합 내용은 정부 정책브리핑 보도 기준입니다. 주차 요금은 이 글에 넣지 않았습니다. 승차권과 요금은 코레일+ 앱에서 출발일 기준으로 다시 확인하세요.</p>
