@@ -1,0 +1,151 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 18일</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>고용보험에 가입한 예술인·노무제공자는 출산하면 월평균 보수의 100%를, 2026년 기준 월 최대 220만원까지 90일 동안 받을 수 있습니다.</b></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 16px;" data-ke-size="size16">프리랜서 예술인, 배달·대리기사, 보험설계사처럼 회사 직원이 아닌 분들도 받을 수 있는 출산 지원금입니다. 2026년 정부 안내를 기준으로 금액, 자격, 신청 방법을 쉽게 정리했습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="text-align: center; margin: 20px 0;"><a style="display: inline-block; background: #b91c1c; color: #ffffff; font-weight: bold; font-size: 17px; padding: 14px 26px; border-radius: 10px; text-decoration: none;" href="https://dustm.tndlrs.com/333">직장인 출산전후휴가 급여 2026 보기</a></p>
+<h2 style="border-left: 6px solid #b91c1c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">예술인·노무제공자 출산전후급여란?</h2>
+<p style="font-size: 16px;" data-ke-size="size16">출산이나 유산·사산 때문에 일을 할 수 없는 기간 동안, <b>고용보험에 가입한 예술인과 노무제공자</b>에게 소득 일부를 대신 채워 주는 제도입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 16px;" data-ke-size="size16">근로자의 출산전후휴가 급여와 비슷하지만, 회사에 고용되지 않고 계약으로 일하는 분들을 위한 제도라 이름과 기준이 조금 다릅니다. 고용노동부가 고용보험법에 따라 운영합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>먼저 내가 예술인·노무제공자에 해당하는지부터 확인해 보세요.</b></p>
+<h2 style="border-left: 6px solid #b91c1c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">예술인·노무제공자, 누가 해당하나</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>예술인</b>: 문화예술용역 계약을 맺고 직접 일하는 프리랜서 예술인</li>
+<li><b>노무제공자</b>: 보험설계사, 학습지 교사, 택배·배달·대리운전 기사처럼 계약으로 노무를 제공하는 분</li>
+<li>공통: 예술인 또는 노무제공자로 <b>고용보험에 가입</b>되어 있어야 함</li>
+</ul>
+<p style="font-size: 16px;" data-ke-size="size16">고용보험 가입은 계약 상대방(사업주)이 신고합니다. 본인이 가입되어 있는지는 고용24 마이페이지에서 직접 확인할 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 16px;" data-ke-size="size16">내가 4대보험 대상이 아니라고 생각해 그냥 넘기는 분이 많습니다. 하지만 계약을 맺은 회사가 이미 고용보험을 신고해 두었을 수 있으니, 출산 전에 가입 이력부터 한 번 살펴보세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>가입되어 있다면 이제 받을 수 있는 금액을 볼 차례입니다.</b></p>
+<h2 style="border-left: 6px solid #b91c1c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">출산전후급여 금액 2026 (상한 220만원)</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #b91c1c; color: #ffffff; padding: 10px; border: 1px solid #b91c1c;">구분</th>
+<th style="background: #b91c1c; color: #ffffff; padding: 10px; border: 1px solid #b91c1c;">예술인</th>
+<th style="background: #b91c1c; color: #ffffff; padding: 10px; border: 1px solid #b91c1c;">노무제공자</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">지급 기준</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">월평균 보수의 100%</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">월평균 보수의 100%</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fecaca; text-align: center; background: #fef2f2;">월 상한액</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center; background: #fef2f2;"><b>220만원</b></td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center; background: #fef2f2;"><b>220만원</b></td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">월 하한액</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">60만원</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">80만원</td></tr>
+</tbody>
+</table>
+<p style="font-size: 16px;" data-ke-size="size16">2026년 고시 금액입니다. 보수가 높아도 월 220만원까지만 받고, 보수가 낮았어도 하한액만큼은 받습니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@e6dc29b0286286564eb1b18b46caed65d9154c94/tistory/upgrade/img/a_amt.png" alt="2026 예술인 노무제공자 출산전후급여 상한액 하한액 지급기간 정리" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">2026 예술인·노무제공자 출산전후급여 기준</span></p>
+<p style="font-size: 19px;" data-ke-size="size18">💡 예전 글의 상한 210만원은 2025년 기준입니다. 2026년부터 220만원으로 올랐습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>그렇다면 월평균 보수는 어떻게 계산할까요?</b></p>
+<h2 style="border-left: 6px solid #b91c1c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">월평균 보수 계산 기준</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>출산일에 고용보험 자격을 <b>유지하고 있다면</b>: 출산일 직전 <b>1년</b> 동안의 월평균 보수</li>
+<li>출산일에 고용보험 자격을 <b>잃은 상태라면</b>: 출산일 직전 <b>18개월</b> 동안의 월평균 보수</li>
+</ul>
+<p style="font-size: 16px;" data-ke-size="size16">소득이 들쭉날쭉한 프리랜서는 기간 전체를 평균 내기 때문에 특정 달의 소득만 보고 판단하지 않습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 16px;" data-ke-size="size16">평균이 하한액보다 낮게 나오더라도 예술인은 월 60만원, 노무제공자는 월 80만원은 받습니다. 소득이 적었던 해에 출산했다고 해서 지원이 사라지지는 않습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>금액만큼 중요한 것이 며칠 동안 받느냐입니다.</b></p>
+<h2 style="border-left: 6px solid #b91c1c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">출산전후급여 지급 기간 (90일·120일)</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #b91c1c; color: #ffffff; padding: 10px; border: 1px solid #b91c1c;">상황</th>
+<th style="background: #b91c1c; color: #ffffff; padding: 10px; border: 1px solid #b91c1c;">지급 기간</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">출산</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;"><b>90일</b></td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fecaca; text-align: center; background: #fef2f2;">미숙아 출산</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center; background: #fef2f2;">100일</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">다태아(쌍둥이 이상) 출산</td><td style="padding: 10px; border: 1px solid #fecaca; text-align: center;">120일</td></tr>
+</tbody>
+</table>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@5112bef623d41e8bcede1e791e8c7a17fc7246ca/tistory/upgrade/img/a_days.png" alt="출산 유형별 출산전후급여 최대 지급 일수 막대그래프" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">출산 유형별 지급 기간</span></p>
+<p style="font-size: 16px;" data-ke-size="size16">유산·사산한 경우에는 임신 기간에 따라 10일(15주 이내)부터 90일(28주 이상)까지 받습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 16px;" data-ke-size="size16">미숙아 100일은 2025년 2월 23일부터 늘어난 기간입니다. 쌍둥이 이상이라면 120일이니 기간을 꼭 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>금액과 기간을 알았다면 이제 자격 조건을 하나씩 확인하세요.</b></p>
+<h2 style="border-left: 6px solid #b91c1c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">출산전후급여 신청 자격 3가지</h2>
+<ol style="line-height: 1.9;" data-ke-list-type="decimal">
+<li><b>고용보험 피보험 단위기간 3개월 이상</b>: 출산일 이전에 예술인·노무제공자로 3개월 이상(자격을 잃었다면 출산일 이전 18개월 중 3개월 이상)</li>
+<li><b>지급 기간 동안 일하지 않을 것</b>: 단, 그 기간 소득이 고시 금액보다 적으면 일하지 않은 것으로 봄</li>
+<li><b>출산일부터 12개월 안에 신청</b>할 것</li>
+</ol>
+<p style="font-size: 16px;" data-ke-size="size16">근로자나 자영업자로 가입했던 기간은 이 3개월에 들어가지 않을 수 있으니, 어떤 자격으로 가입했는지 꼭 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>자격이 된다면 서류를 미리 챙겨 두면 신청이 금방 끝납니다.</b></p>
+<h2 style="border-left: 6px solid #b91c1c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">신청 방법과 필요 서류</h2>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@e1eb297bc2a0e3e1fa12145eb7ecf097ad3cd673/tistory/upgrade/img/a_flow.png" alt="예술인 노무제공자 출산전후급여 신청 순서 네 단계" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">출산전후급여 신청 순서</span></p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>예술인·노무제공자 출산전후급여등 신청서</li>
+<li>노무 미제공 사실 확인서</li>
+<li>의료기관 출산증명서(미숙아는 진단서 추가)</li>
+<li>유산·사산이라면 임신 기간이 적힌 진단서</li>
+</ul>
+<p style="font-size: 16px;" data-ke-size="size16">신청은 <b>고용24 온라인</b>으로 하거나, 가까운 <b>고용센터에 방문하거나 우편</b>으로 보내면 됩니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>신청 전에 꼭 알아 둘 주의사항도 있습니다.</b></p>
+<h2 style="border-left: 6px solid #b91c1c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">출산전후급여 주의사항</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>⚠️ 출산일부터 <b>12개월이 지나면</b> 받을 수 없습니다</li>
+<li>⚠️ 급여 기간 중 일해서 고시 금액 이상 소득이 생기면 지급되지 않을 수 있습니다</li>
+<li>⚠️ 거짓으로 신청하면 지급 중단과 반환 대상입니다</li>
+</ul>
+<p style="font-size: 16px;" data-ke-size="size16">출산 직후는 정신이 없기 쉬우니, 출산 전에 서류 목록을 미리 확인해 두고 가족이 함께 챙기는 것이 좋습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 16px;" data-ke-size="size16">노무 미제공 사실 확인서는 급여를 받는 기간에 일하지 않았다는 것을 확인하는 서류입니다. 계약 상대방과 미리 일정을 조율해 두면 서류 준비가 한결 수월합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>50·60대 부모님이 자녀를 대신해 챙겨 줄 수 있는 부분도 있습니다.</b></p>
+<h2 style="border-left: 6px solid #b91c1c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">부모님이 함께 챙기면 좋은 점</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>딸·며느리가 프리랜서라면 고용보험 가입 여부부터 함께 확인해 주세요</li>
+<li>출산증명서는 출산한 병원에서 발급받을 수 있습니다</li>
+<li>신청 기한(12개월)을 달력에 적어 두면 놓치지 않습니다</li>
+<li>궁금한 점은 고용노동부 고객상담센터 1350으로 물어보세요</li>
+</ul>
+<p style="font-size: 16px;" data-ke-size="size16">본인이 대상인 줄 모르고 지나치는 경우가 많습니다. 가족이 한 번만 짚어 줘도 수백만 원을 챙길 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>자주 받는 질문은 아래에 모았습니다.</b></p>
+<h2 style="border-left: 6px solid #b91c1c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">예술인 출산전후급여 자주 묻는 질문</h2>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 2026년 출산전후급여는 최대 얼마인가요?</b><br />A. 월평균 보수의 100%, 월 최대 220만원입니다. 하한은 예술인 60만원, 노무제공자 80만원입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 며칠 동안 받나요?</b><br />A. 출산은 90일, 미숙아는 100일, 다태아는 120일입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 신청 기한은 언제까지인가요?</b><br />A. 출산(유산·사산)한 날부터 12개월 안에 신청해야 합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 고용보험에 얼마나 가입되어 있어야 하나요?</b><br />A. 출산일 이전에 예술인·노무제공자로 피보험 단위기간 3개월 이상이면 됩니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 16px;" data-ke-size="size16"><b>Q. 어디서 신청하나요?</b><br />A. 고용24 온라인, 가까운 고용센터 방문, 우편으로 신청할 수 있습니다.</p>
+<h2 style="border-left: 6px solid #b91c1c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 예술인 출산전후급여 핵심 요약</h2>
+<div data-polished="1" style="background: #fef2f2; border-left: 5px solid #b91c1c; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 고용보험 가입 예술인·노무제공자는 <b>월평균 보수 100%, 월 최대 220만원</b>을 받습니다.<br />② 지급 기간은 <b>90일</b>(미숙아 100일, 다태아 120일)입니다.<br />③ 가입 3개월 이상이면 대상, <b>출산일부터 12개월 안에</b> 고용24에서 신청합니다.</p>
+</div>
+<p style="text-align: center; margin: 24px 0;"><a style="display: inline-block; background: #b91c1c; color: #ffffff; font-weight: bold; font-size: 17px; padding: 14px 26px; border-radius: 10px; text-decoration: none;" href="https://www.work24.go.kr">고용24에서 출산전후급여 신청하기</a></p>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">참고: 정부24(보조금24) 예술인·노무제공자 출산전후급여등 안내(고용노동부, 2026년 고시 금액, 2026년 11월 18일 확인). 세부 요건과 지급 여부는 고용노동부 1350이나 고용센터에서 확인하세요.</p>
