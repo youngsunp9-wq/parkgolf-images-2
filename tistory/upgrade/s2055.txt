@@ -1,0 +1,186 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 19일 (2026년 11월 19일 운행 시간표 기준)</p>
+<p data-ke-size="size16"><b>서울역에서 대전역까지 KTX는 하루 87편</b>, 대전역에서 서울역은 하루 89편입니다. 일반실 운임은 23,700원, 빠른 열차는 54분이면 닿습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">대전역은 1905년 문을 연 경부선의 중심역으로, 부산·대구 방면 KTX가 대부분 섭니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">2026년 9월 KTX·SRT 통합 이후 달라진 예매 방법까지 넣어 시간표와 요금, 주차 팁을 다시 정리했습니다.</p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">대전역 KTX 시간표 한눈에 보기</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #dbeafe; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">서울역 → 대전</span><br /><b>하루 87편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #dbeafe; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">대전 → 서울역</span><br /><b>하루 89편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #dbeafe; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">대전 → 부산</span><br /><b>하루 65편</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">같은 시각에 두 열차가 붙어서 출발하는 편(복합 열차)은 한 번으로 셌습니다. 예매 화면에서는 열차 번호가 이보다 더 많이 보일 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">서울역 출발 첫차는 05:03, 막차는 23:28입니다. 대전역에서 서울로 올라가는 KTX도 05:55부터 23:40까지 있습니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@c79d14e9480b29f15d48e15dd3d2c59f4df05021/tistory/upgrade/img/dj_daily.png" alt="대전역 출발 KTX 목적지별 하루 편수 막대그래프" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">대전역 출발 KTX 목적지별 하루 편수 (2026년 11월 19일 기준)</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>편수가 많은 만큼 시간대별로 나눠 보면 고르기 쉽습니다.</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">서울역 → 대전역 KTX 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">시간대</th>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">서울역 출발 시각 (KTX)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">05:03, 05:13, 05:18, 05:27, 05:38, 05:58, 06:03, 06:33, 06:43, 06:48, 06:57, 07:27, 07:50, 07:58, 08:08, 08:12, 08:23, 08:35, 08:58, 09:04, 09:23, 09:28, 09:33, 09:58, 10:07, 10:12, 10:18, 10:28, 10:43, 10:58, 11:31, 11:58</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">낮</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">12:25, 12:39, 12:48, 12:58, 13:08, 13:18, 13:38, 13:49, 13:58, 14:15, 14:28, 14:33, 14:42, 14:58, 15:09, 15:19, 15:23, 15:45, 15:50, 15:58, 16:02, 16:18, 16:28, 16:58</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">17:13, 17:23, 17:33, 17:58, 18:03, 18:13, 18:24, 18:41, 18:53, 18:58, 19:20, 19:35, 19:44, 19:48, 19:54, 19:58, 20:13, 20:28, 20:38, 20:49, 20:58, 21:28, 21:33, 21:38, 21:58, 22:08, 22:18, 22:28, 22:49, 22:58, 23:28</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">대부분 1시간 안팎이 걸리고, 가장 빠른 편은 08:58, 15:45 출발 열차로 54분입니다. 중간 정차역이 많은 열차는 1시간 51분까지 걸립니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">예매할 때 출발 시각만 보지 말고 도착 시각을 함께 보세요. 비슷한 시각에 출발해도 정차역 수에 따라 20분 넘게 차이 나는 경우가 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>돌아오는 서울행 시간표도 미리 봐 두면 마음이 편합니다.</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">대전역 → 서울역 상행 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">시간대</th>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">대전역 출발 시각 (서울역행 KTX)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">05:55, 06:21, 06:35, 06:45, 06:49, 07:00, 07:10, 07:28, 07:44, 07:51, 08:06, 08:14, 08:21, 08:35, 08:44, 09:07, 09:24, 09:47, 09:51, 10:11, 10:16, 10:26, 10:36, 10:58, 11:13, 11:22, 11:26, 11:34, 11:53</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">낮</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">12:00, 12:09, 12:28, 13:37, 13:47, 13:57, 14:06, 14:35, 14:40, 14:48, 14:53, 15:22, 15:27, 15:36, 15:50, 16:13, 16:32, 16:36, 16:45, 16:49, 16:55</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">17:14, 17:31, 17:50, 17:57, 18:04, 18:13, 18:25, 18:30, 18:45, 18:52, 18:56, 19:19, 19:27, 19:37, 19:53, 19:59, 20:04, 20:15, 20:23, 20:37, 20:46, 21:01, 21:09, 21:14, 21:19, 21:28, 21:40, 21:56, 22:02, 22:16, 22:24, 22:36, 22:42, 23:00, 23:10, 23:13, 23:30, 23:36, 23:40</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">대전역에서 서울역까지는 하루 89편이고 운임은 하행과 같은 23,700원입니다. 서울로 가는 열차는 대부분 광명역에도 섭니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">KTX 말고도 서울행 ITX-새마을 18편, 무궁화호 10편이 있습니다. 시간은 더 걸리지만 운임이 싸서 급하지 않은 일정이라면 함께 살펴볼 만합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>대전역은 남쪽으로 내려갈 때도 열차가 많습니다. 부산·대구 방면을 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">대전역 → 부산·동대구 KTX 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">목적지</th>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">대전역 출발 (KTX)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">부산역 (65편)</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">첫차 06:14, 막차 23:48</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">동대구역 (88편)</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">첫차 00:09(심야), 아침 첫 편 06:04, 막차 23:48</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">대전역에서 부산역까지는 약 1시간 24분~2시간 14분, 동대구역까지는 약 43분~58분가 걸립니다. 부산행 열차는 대부분 동대구역에도 섭니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">부산역에서 대전역으로 올라오는 KTX는 하루 66편으로, 첫차 04:38부터 막차 22:10까지 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>편수를 알았으니 이제 요금과 소요시간을 정리해 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">대전역 KTX 요금과 소요시간</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">구간</th>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">일반실 기본 운임</th>
+<th style="background: #1d4ed8; color: #ffffff; padding: 10px; border: 1px solid #1d4ed8;">소요시간</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;"><b>서울역 ↔ 대전역</b></td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;"><b>23,700원</b></td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">약 54분~1시간 51분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">대전역 → 광명역</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">21,200원</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">약 43분~57분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">대전역 → 동대구역</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">19,700원</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">약 43분~58분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">대전역 → 부산역</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">36,200원</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center; background: #eff6ff;">약 1시간 24분~2시간 14분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">대전역 → 수원역</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">12,900원</td><td style="padding: 10px; border: 1px solid #bfdbfe; text-align: center;">약 1시간 10분~1시간 13분</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">성인 1명 편도, 일반실 기본 운임 기준입니다. 서울역 왕복이면 기본 운임만 4만원대 후반이니, 아래 할인 제도를 함께 챙기면 좋습니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@b69abaa0631bdae81e347021c4b8ba4a27c2e400/tistory/upgrade/img/dj_fare.png" alt="대전역 KTX 구간별 일반실 운임과 소요시간 정리 카드" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">대전역 KTX 구간별 운임과 소요시간</span></p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@28c3f6f5b6c346ce0d0632299d6fbdbb9f951de7/tistory/upgrade/img/dj_time.png" alt="대전역에서 목적지별 가장 빠른 KTX 소요시간 비교" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">대전역에서 목적지별 최단 소요시간</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>강남·수서 쪽으로 간다면 따로 알아 둘 점이 있습니다.</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">대전역 수서행 KTX(옛 SRT) 안내</h2>
+<p data-ke-size="size16">이 글의 공공데이터에는 대전역과 수서역 사이 KTX가 하루 2편(12:15, 12:19, 운임 22,000원)만 조회되었습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">옛 SRT로 다니던 열차는 이 자료에 모두 들어 있지 않을 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">그래서 수서역 방면 열차는 <b>코레일+ 앱에서 출발일로 직접 조회</b>하는 것이 가장 정확합니다. 통합 이후에는 같은 앱에서 서울역행과 수서역행을 한 번에 비교할 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 19px;" data-ke-size="size18">💡 강남·송파·동탄 쪽이라면 수서역행이, 서울 도심·마포 쪽이라면 서울역행이 대체로 편합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>통합 이후 예매 방법도 조금 바뀌었습니다.</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">대전역 KTX·SRT 통합 후 예매 방법</h2>
+<p data-ke-size="size16"><b>2026년 9월 1일부터 SRT가 KTX로 통합 운행되고</b>, 예매도 새 앱인 <b>코레일+</b>에서 함께 할 수 있게 되었습니다. 예전처럼 KTX와 SRT 앱을 따로 깔 필요가 없습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">정부는 기존 KTX 운임을 SRT 수준으로 약 10% 낮추는 계획도 발표했습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">다만 구간별 실제 금액과 적용 시기는 예매 화면에서 확인해야 하며, 이 글의 운임은 공공데이터에 올라온 기본 운임입니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>승차권은 출발 30일 전 오전 7시부터 예매할 수 있습니다</li>
+<li>코레일+ 앱 하나로 수서역 출발 고속열차까지 함께 조회됩니다</li>
+<li>역 창구와 자동발매기에서도 살 수 있지만 주말·명절에는 앱 예매가 빠릅니다</li>
+</ul>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>차를 가지고 대전역에 간다면 주차장도 알아 두어야 합니다.</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">대전역 주차장 이용 팁</h2>
+<p data-ke-size="size16">대전역 주차장 요금과 면수는 2026년 11월 현재 <b>공식 요금표로 확인하지 못해 숫자를 적지 않았습니다.</b> 예전 글에 있던 요금과 연락처는 바뀌었을 수 있어 뺐습니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>주말·명절에는 역과 가까운 주차장부터 차므로 일찍 도착하세요</li>
+<li>승차권 할인이 되는지 출차 전 정산기 안내를 확인하세요</li>
+<li>1박 이상 세워 둘 계획이면 1일 최대 요금을 미리 물어보세요</li>
+<li>문의: 철도고객센터 1544-7788</li>
+<li>대전역은 도시철도 1호선 대전역과 이어져 있어, 대전 시내라면 지하철로 오는 편이 주차보다 편할 수 있습니다</li>
+</ul>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>표를 살 때 조금만 신경 쓰면 운임도 꽤 줄일 수 있습니다.</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">KTX 요금 아끼는 코레일 할인</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>어린이(6~13세 미만)</b>: 운임 50% 할인. 6세 미만 유아는 어른 1명당 1명 무료(좌석 지정 시 할인 요금)</li>
+<li><b>경로(65세 이상)</b>: KTX 30% 할인(토·일·공휴일 제외)</li>
+<li><b>다자녀 행복</b>: 2자녀 가정 30%, 3자녀 이상 50% 할인(어른 운임)</li>
+<li><b>맘편한 코레일</b>: 임산부와 동반 1명, 일반실 40% 할인</li>
+<li><b>청년 할인</b>: 청소년 드림·힘내라 청춘 상품, 승차율에 따라 10~40% 할인</li>
+<li><b>4인 동반석</b>: 마주 보는 4좌석을 한 번에 사면 할인</li>
+</ul>
+<p data-ke-size="size16">할인은 대부분 서로 겹쳐 쓸 수 없고, 운임에만 적용됩니다. 조건과 할인율은 코레일+ 앱이나 홈페이지 할인 안내에서 출발 전에 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>자주 받는 질문은 아래에 따로 모았습니다.</b></p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">대전역 KTX 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 서울에서 대전역까지 KTX는 얼마나 걸리나요?</b><br />A. 서울역 출발 기준 약 54분~1시간 51분이고, 대부분 1시간 안팎입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 대전역 KTX 요금은 얼마인가요?</b><br />A. 서울역 ↔ 대전역 일반실 성인 기본 운임은 23,700원입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 대전역 KTX 첫차와 막차는 몇 시인가요?</b><br />A. 서울역 출발 첫차 05:03, 막차 23:28입니다. 대전역 출발 서울행은 첫차 05:55, 막차 23:40입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 대전역에서 부산까지 얼마나 걸리나요?</b><br />A. 약 1시간 24분~2시간 14분이고, 일반실 운임은 36,200원입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 대전역에서 SRT도 탈 수 있나요?</b><br />A. 2026년 9월부터 SRT가 KTX로 통합 운행됩니다. 수서역 방면 열차는 코레일+ 앱에서 출발일로 조회하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 대전역 주차 요금은 얼마인가요?</b><br />A. 공식 요금표로 확인하지 못했습니다. 현장 안내판이나 철도고객센터(1544-7788)에서 확인하세요.</p>
+<h2 style="border-left: 6px solid #1d4ed8; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 대전역 KTX 핵심 요약</h2>
+<div data-polished="1" style="background: #eff6ff; border-left: 5px solid #1d4ed8; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 서울역에서 대전역까지 KTX는 <b>하루 87편</b>, 대전역에서 서울역은 <b>하루 89편</b>입니다.<br />② 서울역 기준 일반실 운임은 <b>23,700원</b>, 대부분 <b>1시간 안팎</b>이 걸립니다.<br />③ 2026년 9월부터 SRT가 KTX로 통합되어 <b>코레일+ 앱</b> 하나로 예매합니다.</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">시간표·운임은 한국철도공사 공공데이터(2026년 11월 19일 목요일 운행 기준, 11월 19일 조회)이며, 요일·임시열차·시간표 개정에 따라 바뀔 수 있습니다. 같은 시각에 함께 출발하는 복합 열차는 한 편으로 셌습니다. 2026년 9월 통합 내용은 정부 정책브리핑 보도 기준입니다. 주차 요금은 이 글에 넣지 않았습니다. 승차권과 요금은 코레일+ 앱에서 출발일 기준으로 다시 확인하세요.</p>
