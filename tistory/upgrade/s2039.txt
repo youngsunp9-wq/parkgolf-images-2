@@ -1,0 +1,162 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 18일</p>
+<p data-ke-size="size16"><b>2026년 육아휴직급여는 첫 3개월 동안 통상임금 100%, 월 최대 250만원</b>입니다. 부모가 함께 쓰면 6개월째에는 월 최대 450만원까지 오릅니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">얼마를 받는지, 언제까지 신청해야 하는지, 새로 생긴 단기 육아휴직은 무엇인지 헷갈리는 분이 많습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">고용노동부 공식 안내를 기준으로 금액, 자격, 신청 방법을 처음부터 다시 정리했습니다.</p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">육아휴직급여 2026 금액 한눈에</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #fce7f3; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">1~3개월</span><br /><b>월 최대 250만원</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #fce7f3; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">4~6개월</span><br /><b>월 최대 200만원</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #fce7f3; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">7개월 이후</span><br /><b>월 최대 160만원</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">1~6개월은 <b>통상임금의 100%</b>, 7개월째부터는 <b>통상임금의 80%</b>를 받습니다. 다만 각 구간마다 위의 상한액을 넘을 수는 없습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">예전에는 급여의 25%를 떼어 두었다가 복직 6개월 뒤에 주던 사후지급금이 있었지만, 지금은 폐지되어 휴직 중에 전액을 받습니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@26fbb81309c841ba9b72fd1f9a92a9d5ccece4fb/tistory/upgrade/img/p_amt.png" alt="2026 일반 육아휴직급여 기간별 월 상한액 막대그래프" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">일반 육아휴직급여 기간별 월 상한액</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>부모가 함께 육아휴직을 쓰면 금액이 훨씬 커집니다. 바로 6+6 제도입니다.</b></p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">6+6 부모 함께 육아휴직제 금액</h2>
+<p data-ke-size="size16">자녀가 <b>생후 18개월이 되기 전</b>에 부모 모두(동시에 또는 차례로) 육아휴직을 쓰면 첫 6개월 급여 상한이 올라갑니다.</p>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #be185d; color: #ffffff; padding: 10px; border: 1px solid #be185d;">사용 개월</th>
+<th style="background: #be185d; color: #ffffff; padding: 10px; border: 1px solid #be185d;">월 상한액 (통상임금 100%)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;">1개월</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;">250만원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center; background: #fdf2f8;">2개월</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center; background: #fdf2f8;">250만원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;">3개월</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;">300만원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center; background: #fdf2f8;">4개월</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center; background: #fdf2f8;">350만원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;">5개월</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;">350만원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center; background: #fdf2f8;">6개월</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center; background: #fdf2f8;"><b>450만원</b></td></tr>
+</tbody>
+</table>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@41d834f03ccc44dadf9d2aaf62c53fa5a1344da2/tistory/upgrade/img/p_66.png" alt="6+6 부모 함께 육아휴직제 개월별 월 상한액" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">6+6 부모 함께 육아휴직제 개월별 상한액</span></p>
+<p style="font-size: 19px;" data-ke-size="size18">⚠️ 예전 글에 5개월째 400만원으로 적었던 부분은 공식 안내(350만원)에 맞춰 바로잡았습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>한부모 가정은 첫 3개월 상한이 따로 정해져 있습니다.</b></p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">한부모 육아휴직급여 특례</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #be185d; color: #ffffff; padding: 10px; border: 1px solid #be185d;">기간</th>
+<th style="background: #be185d; color: #ffffff; padding: 10px; border: 1px solid #be185d;">지급률</th>
+<th style="background: #be185d; color: #ffffff; padding: 10px; border: 1px solid #be185d;">월 상한액</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;">1~3개월</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;">통상임금 100%</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;"><b>300만원</b></td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center; background: #fdf2f8;">4~6개월</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center; background: #fdf2f8;">통상임금 100%</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center; background: #fdf2f8;">200만원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;">7개월 이후</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;">통상임금 80%</td><td style="padding: 10px; border: 1px solid #fbcfe8; text-align: center;">160만원</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">한부모 근로자는 첫 3개월 상한이 일반보다 50만원 높은 300만원입니다. 4개월째부터는 일반 육아휴직과 같습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">한부모이거나 중증장애아동의 부모라면 육아휴직 기간도 최대 1년 6개월까지 쓸 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>그럼 육아휴직은 최대 얼마나, 누가 쓸 수 있을까요?</b></p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">육아휴직 대상과 기간 (최대 1년 6개월)</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>만 8세 이하 또는 초등학교 2학년 이하</b> 자녀(입양 자녀 포함)를 둔 남녀 근로자</li>
+<li>임신 중인 여성 근로자</li>
+<li>2026년 9월 18일부터는 임신 중인 배우자에게 유산·조산 위험이 있는 남성 근로자도 사용 가능</li>
+</ul>
+<p data-ke-size="size16">기간은 자녀 1명당 부모 각각 1년이 기본이고, <b>부모 모두 3개월 이상 쓰면 각각 최대 1년 6개월</b>까지 늘어납니다. 최대 4번(분할 3회)에 나눠 쓸 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">회사에서 계속 일한 기간이 6개월이 안 된 근로자는 회사가 육아휴직을 거부할 수 있으니 입사 시기도 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>휴직을 쓸 수 있다고 해서 급여가 자동으로 나오는 것은 아닙니다. 급여 조건이 따로 있습니다.</b></p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">육아휴직급여 받는 조건</h2>
+<ol style="line-height: 1.9;" data-ke-list-type="decimal">
+<li>육아휴직을 <b>30일 이상</b> 부여받을 것(출산전후휴가와 겹치는 기간은 제외)</li>
+<li>육아휴직 시작일 이전에 고용보험 <b>피보험 단위기간이 통산 180일 이상</b>일 것</li>
+<li>정해진 기간 안에 신청할 것</li>
+</ol>
+<p data-ke-size="size16">180일은 달력 날짜가 아니라 보수를 받은 날을 기준으로 셉니다. 이직이 잦았다면 고용24 마이페이지에서 피보험 이력을 먼저 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>조건을 갖췄다면 이제 신청 순서입니다. 회사가 먼저 해야 할 일이 있습니다.</b></p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">고용24 육아휴직급여 신청 방법</h2>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@915613396dd0945bdbd6c0a5167b3d9fc7c9f09e/tistory/upgrade/img/p_flow.png" alt="육아휴직급여 신청 순서 네 단계" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">육아휴직급여 신청 순서</span></p>
+<ol style="line-height: 1.9;" data-ke-list-type="decimal">
+<li><b>회사에 육아휴직 신청</b>: 휴직 시작 예정일 30일 전까지 신청서 제출</li>
+<li><b>회사가 육아휴직 확인서 제출</b>: 최초 1회, 고용센터에 제출</li>
+<li><b>근로자가 급여 신청</b>: 고용24 온라인 또는 거주지·사업장 관할 고용센터</li>
+<li><b>매월 신청·지급</b>: 해당 월분은 다음 달 말일까지 신청</li>
+</ol>
+<p data-ke-size="size16">제출 서류는 육아휴직 급여 신청서, 육아휴직 확인서(최초 1회), 통상임금을 확인할 자료(임금대장·근로계약서 등), 휴직 중 회사에서 받은 돈이 있다면 그 자료입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>신청 기한을 놓치면 받을 수 있는 돈도 사라집니다. 기한을 정확히 알아 두세요.</b></p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">육아휴직급여 신청 기한 주의</h2>
+<p data-ke-size="size16">육아휴직급여는 <b>육아휴직을 시작한 날 이후 1개월부터, 육아휴직이 끝난 날 이후 12개월 안에</b> 신청해야 합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">또한 급여는 매월 단위로 신청하는 것이 원칙이라, 해당 월에 쓴 육아휴직분은 다음 달 말일까지 신청하도록 되어 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 19px;" data-ke-size="size18">💡 휴직이 시작되면 매달 초에 고용24에 들어가 지난달 분을 신청하는 습관을 들이면 놓칠 일이 없습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>2026년에는 짧게 쓰는 육아휴직도 새로 생겼습니다.</b></p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">2026 단기 육아휴직 (1주·2주)</h2>
+<p data-ke-size="size16"><b>단기 육아휴직</b>은 휴원·휴교, 방학, 자녀 입원, 감염병 격리처럼 갑자기 돌봄 공백이 생길 때 <b>1주 또는 2주</b>만 쓰는 육아휴직입니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>대상: 만 8세 이하 또는 초등학교 2학년 이하 자녀를 둔 근로자(임신 중 태아는 대상 아님)</li>
+<li>자녀 1명당 연 1회, 1주 단위로 최대 2주</li>
+<li>전체 육아휴직 기간에서 빠지지만 분할 횟수에는 넣지 않음</li>
+<li>급여는 일반 육아휴직 기준으로 쓴 날짜만큼 나눠 계산</li>
+</ul>
+<p data-ke-size="size16">긴급한 사유라면 휴직 시작 예정일까지만 회사에 신청하면 됩니다. 급여 신청 때는 방학·휴원 알림장, 입원 확인서 같은 증빙을 함께 냅니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>마지막으로 급여가 줄거나 끊기는 경우를 꼭 확인하세요.</b></p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">육아휴직급여 감액·지급 제한</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>⚠️ 휴직 중 <b>주 15시간 이상</b> 일하거나, 일해서 받은 돈·자영업 소득이 <b>월 150만원 이상</b>이면 그 기간은 지급하지 않음</li>
+<li>⚠️ 휴직 중 회사를 그만두면 그때부터 지급하지 않음</li>
+<li>⚠️ 회사에서 받은 돈과 급여를 합해 통상임금을 넘으면 넘는 만큼 깎음</li>
+<li>⚠️ 거짓으로 신청하면 지급 중단과 반환 대상</li>
+</ul>
+<p data-ke-size="size16">휴직 중 부업이나 아르바이트를 했다면 반드시 신고해야 합니다. 신고하지 않으면 나중에 부정수급으로 문제가 될 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>자주 받는 질문은 아래에 모았습니다.</b></p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">육아휴직급여 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 2026년 육아휴직급여는 최대 얼마인가요?</b><br />A. 일반 육아휴직은 첫 3개월 월 최대 250만원입니다. 한부모는 300만원, 6+6 제도는 6개월째 450만원까지입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 사후지급금은 아직 있나요?</b><br />A. 없습니다. 폐지되어 휴직 중에 급여 전액을 받습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 육아휴직급여 신청 기한은 언제까지인가요?</b><br />A. 휴직 시작 1개월 뒤부터 휴직이 끝난 날 이후 12개월 안에 신청해야 합니다. 매월 분은 다음 달 말일까지 신청하는 것이 원칙입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 고용보험 가입 기간은 얼마나 필요한가요?</b><br />A. 육아휴직 시작일 이전에 피보험 단위기간이 통산 180일 이상이어야 합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 단기 육아휴직도 급여가 나오나요?</b><br />A. 네. 일반 육아휴직 기준 금액을 쓴 날짜만큼 나눠 지급합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 어디에 물어보면 되나요?</b><br />A. 고용노동부 고객상담센터(국번 없이 1350)나 가까운 고용센터에 문의하세요.</p>
+<h2 style="border-left: 6px solid #be185d; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 육아휴직급여 핵심 요약</h2>
+<div data-polished="1" style="background: #fdf2f8; border-left: 5px solid #be185d; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 일반 육아휴직급여는 <b>첫 3개월 월 최대 250만원</b>, 4~6개월 200만원, 이후 160만원입니다.<br />② 부모가 함께 쓰는 <b>6+6 제도</b>는 6개월째 월 최대 <b>450만원</b>, 한부모는 첫 3개월 300만원입니다.<br />③ 휴직이 끝난 뒤 <b>12개월 안에</b> 고용24에서 신청해야 하며, 사후지급금은 없습니다.</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">참고: 고용노동부 일생활균형 누리집 육아휴직 및 급여, 단기 육아휴직 안내(2026년 11월 18일 확인). 실제 지급액은 통상임금과 고용보험 이력에 따라 달라지며, 세부 요건은 고용노동부 1350이나 고용센터에서 확인하세요.</p>
