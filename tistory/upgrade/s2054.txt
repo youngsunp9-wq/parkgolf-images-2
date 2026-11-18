@@ -1,0 +1,196 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 19일 (2026년 11월 19일 운행 시간표 기준)</p>
+<p data-ke-size="size16"><b>청량리역에서 단양역까지 KTX-이음은 하루 6편</b>, 단양역에서 청량리역도 하루 6편입니다. 일반실 운임은 18,600원, 약 1시간 20분대면 도착합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">단양역은 2021년 1월부터 중앙선 KTX-이음이 서는 역으로, 도담삼봉·만천하스카이워크 같은 단양 관광지로 가는 관문입니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">열차 수가 적은 역이라 시간표를 미리 알아 두는 것이 특히 중요합니다.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">단양역 KTX-이음 시간표 한눈에 보기</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #ccfbf1; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">청량리 → 단양</span><br /><b>하루 6편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #ccfbf1; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">단양 → 청량리</span><br /><b>하루 6편</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #ccfbf1; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">서울역 → 단양</span><br /><b>하루 3편</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">청량리역 출발 첫차는 05:40, 막차는 19:00입니다. 단양역에서 올라가는 마지막 KTX-이음은 19:52이니 당일치기라면 이 시각을 꼭 기억하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">서울역에서 출발하는 KTX-이음도 일부 있어, 서울역 근처에 산다면 청량리역까지 가지 않아도 됩니다.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@281f0d97c1245bfdc268f1ee0bd948441ac8fea8/tistory/upgrade/img/dy_daily.png" alt="단양역 KTX-이음 방향별 하루 편수 막대그래프" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">단양역 KTX-이음 방향별 하루 편수 (2026년 11월 19일 기준)</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>하루 몇 편 안 되니 시간대별로 정확히 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">청량리역 → 단양역 KTX-이음 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">시간대</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">청량리역 출발 시각 (KTX-이음)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">05:40, 06:27, 11:20</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">낮</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">13:16, 16:32</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">19:00</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">소요시간은 약 1시간 21분~1시간 31분입니다. <b>06:27 다음 열차는 11:20입니다.</b> 청량리역 출발 이 시간대에는 약 4시간 넘게 열차가 없으니 일정을 짤 때 꼭 기억하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">KTX-이음 말고도 청량리역에서 단양역으로 가는 ITX-새마을이 하루 6편(14,900원), 무궁화호가 1편 있습니다. 시간은 더 걸리지만 운임이 쌉니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>돌아오는 열차가 더 중요합니다. 상행 시간표를 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">단양역 → 청량리역 상행 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">시간대</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">단양역 출발 시각 (청량리행 KTX-이음)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">새벽·오전</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">06:35, 08:27</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">낮</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">12:38, 14:39</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">저녁·밤</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">17:15, 19:52</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">운임은 하행과 같은 18,600원입니다. <b>08:27 다음 열차는 12:38입니다.</b> 단양역 출발 이 시간대에는 약 4시간 넘게 열차가 없으니 일정을 짤 때 꼭 기억하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">관광 뒤 돌아오는 표는 주말에 빨리 팔립니다. 단양에 도착하자마자가 아니라, 갈 때 왕복으로 함께 끊어 두는 편이 안전합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>서울역에서 바로 타고 싶다면 서울역 출발 열차를 보세요.</b></p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">서울역 ↔ 단양역 KTX-이음 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">방향</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">출발 시각 (KTX-이음)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">서울역 → 단양 (3편)</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">10:59, 12:55, 16:11</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">단양 → 서울역 (4편)</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">06:35, 08:27, 12:38, 17:15</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">서울역 출발 열차는 청량리역을 거쳐 가서 약 1시간 46분~1시간 52분가 걸리고, 운임은 20,200원입니다. 편수가 적어 시간이 맞지 않으면 청량리역 출발 열차를 고르세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>단양역에서는 남쪽 안동·부산 방면으로도 갈 수 있습니다.</b></p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">단양역 → 안동·부전(부산) 시간표</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">목적지</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">단양역 출발 시각 (KTX-이음)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">안동역 (6편)</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">07:02, 07:55, 12:50, 14:41, 18:03, 20:21</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">부전역 (6편)</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">07:02, 07:55, 12:50, 14:41, 18:03, 20:21</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">안동역까지는 약 30분~36분(9,100원), 부산 부전역까지는 약 2시간 19분~2시간 39분(36,900원)가 걸립니다. 부전행 열차가 안동역에도 섭니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">부전역에서 단양역으로 올라오는 KTX-이음은 하루 5편(05:54, 10:02, 12:07, 14:43, 17:27)입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>이제 구간별 요금을 한 번에 정리해 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">단양역 KTX-이음 요금과 소요시간</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">구간</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">일반실 기본 운임</th>
+<th style="background: #0f766e; color: #ffffff; padding: 10px; border: 1px solid #0f766e;">소요시간</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;"><b>청량리역 ↔ 단양역</b></td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;"><b>18,600원</b></td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">약 1시간 21분~1시간 31분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">서울역 ↔ 단양역</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">20,200원</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">약 1시간 46분~1시간 52분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">단양역 → 안동역</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">9,100원</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center;">약 30분~36분</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">단양역 → 부전역</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">36,900원</td><td style="padding: 10px; border: 1px solid #99f6e4; text-align: center; background: #f0fdfa;">약 2시간 19분~2시간 39분</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">성인 1명 편도, 일반실 기본 운임 기준입니다. 가족 여행이라면 아래 다자녀·경로 할인을 꼭 확인하세요.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@4dcb6d85034082d685938811e6de12e5d646168e/tistory/upgrade/img/dy_fare.png" alt="단양역 KTX-이음 구간별 운임과 소요시간 카드" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">단양역 KTX-이음 구간별 운임과 소요시간</span></p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@defe065b69da03f6cc6065f96d8d0fd06ed9d233/tistory/upgrade/img/dy_time.png" alt="단양역에서 목적지별 가장 빠른 KTX-이음 소요시간" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">단양역에서 목적지별 최단 소요시간</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>단양역에 내렸다면 어디부터 가면 좋을까요?</b></p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">단양역 주변 관광지와 이동 팁</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>도담삼봉, 석문 같은 단양팔경</li>
+<li>만천하스카이워크, 단양강 잔도</li>
+<li>고수동굴, 단양다누리아쿠아리움</li>
+<li>소백산, 온달관광지</li>
+</ul>
+<p data-ke-size="size16">단양역은 단양 읍내와 조금 떨어져 있어 관광지까지는 버스나 택시로 갈아타야 합니다. 열차 도착 시각에 맞춰 군내버스 시간표를 미리 확인하면 기다리는 시간을 줄일 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>통합 이후 예매 방법도 짚고 넘어가겠습니다.</b></p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">단양역 KTX·SRT 통합 후 예매 방법</h2>
+<p data-ke-size="size16"><b>2026년 9월 1일부터 SRT가 KTX로 통합 운행되고</b>, 예매도 새 앱인 <b>코레일+</b>에서 함께 할 수 있게 되었습니다. 예전처럼 KTX와 SRT 앱을 따로 깔 필요가 없습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">정부는 기존 KTX 운임을 SRT 수준으로 약 10% 낮추는 계획도 발표했습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">다만 구간별 실제 금액과 적용 시기는 예매 화면에서 확인해야 하며, 이 글의 운임은 공공데이터에 올라온 기본 운임입니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>승차권은 출발 30일 전 오전 7시부터 예매할 수 있습니다</li>
+<li>코레일+ 앱 하나로 수서역 출발 고속열차까지 함께 조회됩니다</li>
+<li>역 창구와 자동발매기에서도 살 수 있지만 주말·명절에는 앱 예매가 빠릅니다</li>
+</ul>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>차를 가지고 단양역에 간다면 주차장도 알아 두세요.</b></p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">단양역 주차장 이용 팁</h2>
+<p data-ke-size="size16">단양역 주차장 요금과 면수는 2026년 11월 현재 <b>공식 요금표로 확인하지 못해 숫자를 적지 않았습니다.</b> 예전 글에 있던 요금과 연락처는 바뀌었을 수 있어 뺐습니다.</p>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>주말·명절에는 역과 가까운 주차장부터 차므로 일찍 도착하세요</li>
+<li>승차권 할인이 되는지 출차 전 정산기 안내를 확인하세요</li>
+<li>1박 이상 세워 둘 계획이면 1일 최대 요금을 미리 물어보세요</li>
+<li>문의: 철도고객센터 1544-7788</li>
+</ul>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>표를 살 때 조금만 신경 쓰면 운임도 줄일 수 있습니다.</b></p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">KTX 요금 아끼는 코레일 할인</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li><b>어린이(6~13세 미만)</b>: 운임 50% 할인. 6세 미만 유아는 어른 1명당 1명 무료(좌석 지정 시 할인 요금)</li>
+<li><b>경로(65세 이상)</b>: KTX 30% 할인(토·일·공휴일 제외)</li>
+<li><b>다자녀 행복</b>: 2자녀 가정 30%, 3자녀 이상 50% 할인(어른 운임)</li>
+<li><b>맘편한 코레일</b>: 임산부와 동반 1명, 일반실 40% 할인</li>
+<li><b>청년 할인</b>: 청소년 드림·힘내라 청춘 상품, 승차율에 따라 10~40% 할인</li>
+<li><b>4인 동반석</b>: 마주 보는 4좌석을 한 번에 사면 할인</li>
+</ul>
+<p data-ke-size="size16">할인은 대부분 서로 겹쳐 쓸 수 없고, 운임에만 적용됩니다. 조건과 할인율은 코레일+ 앱이나 홈페이지 할인 안내에서 출발 전에 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>자주 받는 질문은 아래에 따로 모았습니다.</b></p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">단양역 KTX-이음 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 청량리에서 단양역까지 얼마나 걸리나요?</b><br />A. KTX-이음 기준 약 1시간 21분~1시간 31분입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 단양역 KTX-이음 요금은 얼마인가요?</b><br />A. 청량리역 ↔ 단양역 일반실 성인 기본 운임은 18,600원, 서울역 출발은 20,200원입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 단양역 KTX-이음은 하루 몇 편인가요?</b><br />A. 청량리역 → 단양역 6편, 단양역 → 청량리역 6편입니다(2026년 11월 19일 기준).</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 단양역에서 서울로 가는 막차는 몇 시인가요?</b><br />A. 청량리행 KTX-이음 막차는 19:52입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 단양역 주차 요금은 얼마인가요?</b><br />A. 공식 요금표로 확인하지 못했습니다. 현장 안내판이나 철도고객센터(1544-7788)에서 확인하세요.</p>
+<h2 style="border-left: 6px solid #0f766e; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 단양역 KTX-이음 핵심 요약</h2>
+<div data-polished="1" style="background: #f0fdfa; border-left: 5px solid #0f766e; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 청량리역 ↔ 단양역 KTX-이음은 <b>하루 6편씩</b>, 운임은 <b>18,600원</b>입니다.<br />② 단양역 출발 청량리행 막차는 <b>19:52</b>, 낮 시간대에는 공백이 깁니다.<br />③ 2026년 9월부터 <b>코레일+ 앱</b> 하나로 예매합니다. 왕복표는 미리 끊으세요.</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">시간표·운임은 한국철도공사 공공데이터(2026년 11월 19일 목요일 운행 기준, 11월 19일 조회)이며, 요일·임시열차·시간표 개정에 따라 바뀔 수 있습니다. 같은 시각에 함께 출발하는 복합 열차는 한 편으로 셌습니다. 2026년 9월 통합 내용은 정부 정책브리핑 보도 기준입니다. 주차 요금은 이 글에 넣지 않았습니다. 승차권과 요금은 코레일+ 앱에서 출발일 기준으로 다시 확인하세요.</p>
