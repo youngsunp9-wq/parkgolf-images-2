@@ -1,0 +1,172 @@
+<p>__THUMB__</p>
+<p style="font-size: 13px; color: #888; margin: 0 0 16px 0;" data-ke-size="size16">최종 업데이트: 2026년 11월 23일</p>
+<p data-ke-size="size16"><b>우체국 우편·소포 창구는 평일 오전 9시부터 오후 6시까지, 방문접수 택배는 신청은 24시간 되지만 집배원 방문은 평일에만 합니다.</b> 토요일과 공휴일에는 방문접수가 없습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">예약만 해 두고 안심했다가 다음 날까지 수거가 안 되는 일이 흔한 이유도 여기에 있습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">인터넷우체국 공식 안내를 다시 확인해 창구 시간, 방문접수 규칙, 요금과 크기 제한, 당일 마감까지 한 번에 정리했습니다.</p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">우체국 영업시간 2026 (창구 평일 9~18시)</h2>
+<p data-ke-size="size16">일반 우체국의 <b>우편·소포 창구는 평일 09:00~18:00</b>가 기본입니다. 은행 창구보다 늦게까지 열어 퇴근 전 잠깐 들르기 좋습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">다만 <b>금융 창구는 평일 09:00~16:30</b>이 기본이라 우편 창구보다 먼저 닫습니다. 예금·송금 업무가 있다면 오후 늦게 가면 안 됩니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">토요일·일요일·공휴일에는 일반 우체국 창구가 쉽니다. 지역 거점 우체국 등은 운영 시간이 다를 수 있으니 처음 가는 곳은 미리 전화로 확인하세요.</p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@efdda3a15e32dd76c9d508860e58bb8e8d0e024c/tistory/upgrade/img/po_hours.png" alt="우체국 우편 창구 금융 창구 방문접수 시간 정리 카드" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">우체국 시간 한눈에 보기</span></p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>창구가 열려 있어도 그날 출발하지 않는 경우가 있습니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">우체국 당일 접수 마감시간</h2>
+<p data-ke-size="size16">창구가 6시까지 열려 있어도 <b>오늘 출발하는 우편물 접수 마감</b>은 그보다 이른 경우가 많습니다. 운송 차량이 떠나는 시각이 우체국마다 다르기 때문입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">우정사업본부도 오늘출발 접수 마감시간은 우체국마다 다를 수 있다고 안내합니다. 마감 뒤에 맡기면 다음 날 접수로 계산되어 도착도 하루 늦어집니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 19px;" data-ke-size="size18">💡 꼭 오늘 보내야 한다면 오전이나 이른 오후에 가고, 창구 안내판의 마감 시각을 먼저 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>창구에 갈 시간이 없다면 방문접수가 답입니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">우체국 방문접수 택배란?</h2>
+<p data-ke-size="size16">방문접수는 우체국 앱이나 인터넷우체국에서 예약하면 <b>집배원이 집이나 회사로 와서 소포를 가져가는</b> 서비스입니다.</p>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">구분</th>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">예약 신청</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;"><b>24시간 연중무휴</b></td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">집배원 방문</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">평일 09:00~18:00 (우체국별 다름)</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">토요일·공휴일</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;"><b>방문 없음</b></td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">방문 시간 지정</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">날짜만 선택, 시간 지정 불가</td></tr>
+</tbody>
+</table>
+<p data-ke-size="size16">방문 담당 집배원은 배달 업무를 같이 하기 때문에 정해진 순서대로 움직입니다. 그래서 몇 시에 온다고 약속할 수 없다는 것이 공식 안내입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>예약했는데 안 가져가는 이유도 여기서 나옵니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">방문접수 예약했는데 안 가져갈 때</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>금요일 오후나 토요일에 예약하면 수거는 다음 평일로 넘어갑니다</li>
+<li>명절 같은 성수기나 눈·비가 많이 올 때는 희망일보다 늦어질 수 있습니다</li>
+<li>신청이 몰리는 지역은 희망일보다 하루 밀리기도 합니다</li>
+</ul>
+<p data-ke-size="size16">이럴 때는 <b>우편고객만족센터 1588-1300</b>이나 관할 우체국에 전화하면 방문 예정을 확인해 줍니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">예약 취소는 인터넷우체국 <b>예약조회/취소</b>에서 할 수 있습니다. 다만 이미 우체국에서 수거 준비에 들어갔다면 온라인 취소가 안 되고 전화로 해야 합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>방문접수를 하는 순서를 그림으로 보겠습니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">우체국 방문접수 신청 방법</h2>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@bfb7913252de26230f5ef307797efaacf4a29b83/tistory/upgrade/img/po_flow.png" alt="우체국 방문접수 예약부터 배달까지 순서" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">우체국 방문접수 순서</span></p>
+<ol style="line-height: 1.9;" data-ke-list-type="decimal">
+<li>우체국 앱 또는 인터넷우체국에서 <b>방문접수소포 예약</b> 선택</li>
+<li>보내는 사람·받는 사람 주소와 물품 정보 입력</li>
+<li>물건을 둘 장소(현관 앞, 경비실 등)와 결제 카드 입력</li>
+<li>상자에 받는 사람 이름·전화번호를 적어 정한 곳에 두기</li>
+<li>집배원이 수거하면 운송장 번호로 조회</li>
+</ol>
+<p style="font-size: 19px;" data-ke-size="size18">💡 이렇게 비대면으로 맡기면 <b>소포 1개당 500원 할인</b>을 받을 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>그럼 요금은 얼마일까요?</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">우체국 방문접수 요금 (5kg 5,000원)</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 8px 0 20px 0; font-size: 15px;" data-ke-align="alignLeft">
+<thead>
+<tr>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">무게</th>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">익일배달</th>
+<th style="background: #c2410c; color: #ffffff; padding: 10px; border: 1px solid #c2410c;">제주 → 육지(익일)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">5kg까지</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;"><b>5,000원</b></td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">7,500원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">10kg까지</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">8,000원</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">10,500원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">20kg까지</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">10,000원</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center;">12,500원</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">30kg까지</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">12,000원</td><td style="padding: 10px; border: 1px solid #fed7aa; text-align: center; background: #fff7ed;">14,500원</td></tr>
+</tbody>
+</table>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@d9393714bd26f348ef604cddbf1c846e740692eb/tistory/upgrade/img/po_fee.png" alt="우체국 방문접수 소포 무게별 요금 막대그래프" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #888;">방문접수 소포 무게별 요금</span></p>
+<p data-ke-size="size16">요금은 부가세가 포함된 금액입니다. 창구에 직접 가져가면 3kg·80cm 이하 기준 4,000원부터 시작해 방문접수보다 싸게 보낼 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>보내기 전에 크기 제한도 꼭 확인하세요.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">우체국 소포 크기·무게 제한</h2>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 8px 0 20px 0;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td style="width: 33%; padding: 16px 8px; background: #ffedd5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">최대 무게</span><br /><b>30kg</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #ffedd5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">세 변 합</span><br /><b>160cm 이하</b></td>
+<td style="width: 33%; padding: 16px 8px; background: #ffedd5; border: 4px solid #ffffff;"><span style="font-size: 13px; color: #555;">한 변</span><br /><b>100cm 이하</b></td>
+</tr>
+</tbody>
+</table>
+<p data-ke-size="size16">가로·세로·높이를 더해 160cm를 넘거나, 한 변이 100cm를 넘으면 방문접수가 되지 않습니다. 큰 물건은 나눠 포장하는 편이 낫습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">오늘 수거된 소포는 공휴일을 빼고 <b>대부분 다음 날 배달</b>됩니다. 도서·산간 지역은 1~2일 더 걸릴 수 있습니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 19px;" data-ke-size="size18">⚠️ 등기가 아닌 일반 소포는 기록이 남지 않아 잃어버려도 손해배상을 받기 어렵습니다. 중요한 물건은 등기소포로 보내세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>창구에 가더라도 줄을 줄이는 방법이 있습니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">창구 대기 줄이는 간편사전접수</h2>
+<p data-ke-size="size16"><b>간편사전접수</b>는 인터넷우체국이나 우체국 앱에서 받는 사람 정보를 미리 입력해 두고, 창구에서 휴대폰 번호만 보여 주면 바로 접수되는 방식입니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">운송장을 손으로 쓸 필요가 없어 대기 시간이 줄고, 도입 당시 안내 기준으로 <b>요금 3% 할인</b>도 있었습니다. 현재 할인율은 접수 화면에서 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">등기소포는 분실·훼손 때 최대 50만원 범위에서 실제 손해액을 배상받을 수 있습니다. 비싼 물건은 안심소포를 함께 고려하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>우체국에 못 갔다면 편의점도 방법입니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">CU 편의점 우체국택배 접수</h2>
+<p data-ke-size="size16">우정사업본부와 BGF리테일 협약으로 <b>CU 편의점에 우체국 소포를 맡길 수 있습니다.</b> 집배원이 매장을 찾아 수거한 뒤 우체국 접수 절차를 거쳐 배달합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">최대 30kg, 세 변 합 160cm 이하까지 맡길 수 있습니다. 창구 운영시간을 놓쳤거나 주말에 맡겨 두고 싶을 때 쓸 만합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 19px;" data-ke-size="size18">📌 편의점에 맡겨도 실제 수거는 집배원이 오는 날 이뤄지므로 도착일은 하루 정도 여유 있게 잡으세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>마지막으로 명절과 공휴일 주의점입니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">명절·공휴일 우체국 택배 주의점</h2>
+<ul style="line-height: 1.9;" data-ke-list-type="disc">
+<li>우체국은 공휴일에 창구와 방문접수를 쉽니다</li>
+<li>명절 앞에는 물량이 몰려 접수 마감이 평소보다 앞당겨지는 경우가 많습니다</li>
+<li>민간 택배사와 쉬는 날이 다를 수 있어 판매처 공지도 함께 확인해야 합니다</li>
+</ul>
+<p data-ke-size="size16">명절 선물은 날짜를 넉넉히 잡아 미리 보내는 것이 가장 안전합니다. 정확한 명절 접수 마감일은 그때그때 우정사업본부 공지로 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>자주 받는 질문은 아래에 모았습니다.</b></p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">우체국 택배 자주 묻는 질문</h2>
+<p data-ke-size="size16"><b>Q. 우체국은 점심시간에도 문을 여나요?</b><br />A. 일반 우체국 창구는 직원이 교대로 식사해 대부분 운영합니다. 직원이 적은 작은 우체국은 다를 수 있으니 전화로 확인하세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 토요일에도 방문접수가 되나요?</b><br />A. 아닙니다. 토요일과 공휴일에는 방문접수가 없습니다. 신청은 24시간 할 수 있지만 수거는 다음 평일에 합니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 방문 시간을 정할 수 있나요?</b><br />A. 날짜만 고를 수 있고 시간은 지정할 수 없습니다. 방문 예정은 1588-1300이나 관할 우체국에 물어보세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 방문접수 요금은 얼마인가요?</b><br />A. 익일배달 기준 5kg까지 5,000원, 10kg 8,000원, 20kg 10,000원, 30kg 12,000원입니다. 비대면 접수는 500원 할인됩니다.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 예약했는데 택배 조회가 안 돼요.</b><br />A. 집배원이 수거해야 운송장이 등록됩니다. 접수 직후에는 몇 시간 뒤 다시 조회해 보세요.</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><b>Q. 예약을 취소하려면 어떻게 하나요?</b><br />A. 인터넷우체국 예약조회/취소에서 하면 됩니다. 이미 수거 준비 중이면 우체국이나 1588-1300으로 연락해야 합니다.</p>
+<h2 style="border-left: 6px solid #c2410c; padding: 4px 0 4px 12px; margin: 36px 0 16px 0;" data-ke-size="size26">📌 우체국 택배 핵심 요약</h2>
+<div data-polished="1" style="background: #fff7ed; border-left: 5px solid #c2410c; border-radius: 8px; padding: 18px 20px; margin: 0 0 24px 0;">
+<p style="margin: 0; line-height: 1.9;" data-ke-size="size16">① 우편·소포 창구는 <b>평일 09:00~18:00</b>, 금융 창구는 16:30까지가 기본입니다.<br />② 방문접수는 <b>신청 24시간</b>, 집배원 방문은 <b>평일만</b>(토·공휴일 없음)입니다.<br />③ 요금은 <b>5kg 5,000원부터</b>, 최대 30kg·세 변 합 160cm까지 보낼 수 있습니다.</p>
+</div>
+<p style="font-size: 13px; color: #888;" data-ke-size="size16">참고: 인터넷우체국 방문접수소포 예약 안내·자주하는질문, 우정사업본부 안내(2026년 11월 23일 확인), 우정사업본부·BGF리테일 협약 보도. 운영시간과 당일 마감은 우체국마다 다르니 방문 전 확인하세요.</p>
