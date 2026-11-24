@@ -1,0 +1,212 @@
+<div data-polished="1" style="font-size: 18px; line-height: 1.85; color: #222;">
+
+<div style="background: #f1f5ff; border-left: 6px solid #2f5bea; padding: 16px 18px; margin: 0 0 20px; border-radius: 8px;">
+<b>이 글 핵심 3줄</b><br>
+· AI 데이터센터의 진짜 병목은 칩이 아니라 <b>전기</b>라는 말이 나옵니다<br>
+· CES 2027 공식 일정에 전력·에너지 세션 4개, 한국 배터리 2사는 혁신상 수상<br>
+· 관련주는 전력망 기기, 비상 전원 배터리, 발전 설비 세 갈래로 나눠 보면 쉽습니다
+</div>
+
+<p>__THUMB__</p>
+
+<p>AI 이야기를 하다 보면 결국 같은 질문으로 돌아옵니다. "그 많은 칩을 돌릴 전기는 어디서 오나?"</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p>데이터센터 한 곳이 작은 도시만큼 전기를 쓰는 시대가 되면서, 전기는 AI 산업의 가장 현실적인 숙제가 됐습니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p>그래서인지 가전과 IT 기기의 축제였던 CES도 올해는 전력 이야기를 비중 있게 다룹니다. CES 2027에서 전력이 왜 중요해졌는지, 한국 기업은 어디에 서 있는지 쉽게 풀어 보겠습니다.</p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">CES 2027이 전력을 말하는 이유</h2>
+
+<p>CES 2027의 큰 주제는 "AI로 실제 돈을 벌어 와라"입니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p>주최 측인 미국소비자기술협회(CTA)는 그 안의 핵심 흐름으로 에이전틱 AI, 로봇, AI 칩과 함께 <b>AI 전력</b>을 꼽았습니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p>이유는 단순합니다. 칩을 아무리 많이 사도 데이터센터에 전기를 넣지 못하면 칩은 그냥 비싼 돌덩이입니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p>실제로 미국에서는 데이터센터를 다 지어 놓고도 전력망 연결을 기다리는 사례가 이어지고 있습니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>그럼 데이터센터에 전기가 들어가기까지는 어떤 단계를 거칠까요?</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">AI 데이터센터에 전기가 들어가는 길</h2>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@4d13d320703a992391a55dd04f209861c28b7f9f/sunnyonul/img2/t06_path.png" alt="AI 데이터센터 전력 공급 단계 발전 송전 배전 비상 전원" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #777;">AI 데이터센터 전력 공급 단계 · 자료: 업계 설명 정리 · 파인더스 경제인사이트 작성</span></p>
+
+
+<table style="width: 100%; border-collapse: collapse; font-size: 16px; margin: 12px 0 20px;">
+<tbody>
+<tr><td style="padding: 10px; border: 1px solid #dbe3f5; background: #f1f5ff; width: 32%;"><b>발전</b></td><td style="padding: 10px; border: 1px solid #dbe3f5;">가스터빈, 원전, 소형모듈원전(SMR), 태양광 등에서 전기를 만듦</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #dbe3f5; background: #f1f5ff;"><b>송전·변전</b></td><td style="padding: 10px; border: 1px solid #dbe3f5;">초고압 변압기와 차단기로 먼 거리까지 전기를 보내고 전압을 바꿈</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #dbe3f5; background: #f1f5ff;"><b>배전</b></td><td style="padding: 10px; border: 1px solid #dbe3f5;">데이터센터 안에서 배전반이 서버 랙마다 전기를 나눠 줌</td></tr>
+<tr><td style="padding: 10px; border: 1px solid #dbe3f5; background: #f1f5ff;"><b>비상 전원</b></td><td style="padding: 10px; border: 1px solid #dbe3f5;">정전이나 전력 급증 때 무정전전원장치(UPS)와 배터리가 서버를 지킴</td></tr>
+</tbody>
+</table>
+
+<p>비유하자면 발전소는 정수장, 변압기는 굵은 수도관, 배전반은 집집마다 이어진 수도꼭지, UPS는 비상 물탱크입니다. 어느 한 곳만 막혀도 물이 나오지 않습니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>이 길 가운데 요즘 가장 귀해진 부품은 무엇일까요?</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">변압기가 AI 시대의 귀한 몸이 된 이유</h2>
+
+<p>초고압 변압기는 주문을 받고 나서 만들어 납품하기까지 시간이 오래 걸리는 제품입니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p>미국은 낡은 전력망 교체 수요에 데이터센터 수요까지 한꺼번에 몰리면서 변압기를 구하기 어려운 상황이 이어졌습니다.</p>
+
+<ul>
+<li><b>만들기 오래 걸린다</b>: 대형 변압기는 주문부터 납품까지 수년이 걸리기도 함</li>
+<li><b>공장이 부족하다</b>: 미국 안 생산 능력만으로는 수요를 다 채우기 어려움</li>
+<li><b>수요는 겹친다</b>: 노후 설비 교체, 재생에너지 연결, AI 데이터센터가 동시에 몰림</li>
+</ul>
+
+<p>이 틈을 파고든 것이 한국 전력기기 회사들입니다. 미국 현지 공장을 늘리고 수주 잔고를 쌓으면서 최근 몇 년 사이 증시에서 큰 주목을 받았습니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>그렇다면 CES 2027 일정표에는 전력 이야기가 실제로 얼마나 올라와 있을까요?</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">CES 2027 전력·에너지 세션 일정</h2>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@51744d2db742fd835a89afb6f91688d3e711e3c3/sunnyonul/img2/t06_sessions.png" alt="CES 2027 전력 에너지 세션 일정 한국 시간" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #777;">CES 2027 전력·에너지 세션 · 자료: CES 공식 일정표 · 파인더스 경제인사이트 작성</span></p>
+
+
+<p>CES 공식 일정표에서 확인한 전력 관련 세션은 네 개입니다. 시간은 모두 라스베이거스 현지 기준이며, 한국은 17시간 빠릅니다.</p>
+
+<ul>
+<li><b>1월 6일 오후 3시 10분</b>: Powering AI, 에너지 투자가 경제와 산업을 어떻게 바꾸나 (한국 7일 오전)</li>
+<li><b>1월 7일 오전 9시</b>: The Future Energy Grid, 더 깨끗하고 똑똑한 전력망 (한국 8일 새벽)</li>
+<li><b>1월 7일 오전 11시</b>: AI and the Smarter Grid, AI가 배전을 바꾸는 방법 (한국 8일 새벽)</li>
+<li><b>1월 7일 오후 3시 40분</b>: Abundant Energy for Tech Leadership, 데이터센터와 전력망의 기존 용량 활용 (한국 8일 오전)</li>
+</ul>
+
+<p>11월 말 기준으로 연사 이름은 아직 공개되지 않았습니다. 원자력만 따로 다루는 세션도 일정표에서는 찾지 못했습니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>무대가 마련됐다면, 이미 상을 받은 한국 기업도 있을까요?</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">혁신상 받은 한국 배터리 기술 두 가지</h2>
+
+<ul>
+<li><b>삼성SDI</b>: AI 데이터센터 UPS용 배터리 'U8A3-UPS'로 엔터프라이즈 테크 부문 혁신상. 기존 제품보다 공간 효율을 33% 높였고, CES 혁신상은 3년 연속입니다</li>
+<li><b>LG에너지솔루션</b>: 사용 후 배터리 진단 소프트웨어 '리.펄스'로 첨단 모빌리티 부문 혁신상. 7시간 넘게 걸리던 진단을 10분 안으로 줄였습니다</li>
+</ul>
+
+<p>특히 삼성SDI 수상작은 이번 주제와 바로 맞닿아 있습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p>AI 연산 중 전력 사용이 갑자기 치솟을 때 보조 전력을 대고, 정전이 나면 서버가 멈추지 않도록 버텨 주는 장치이기 때문입니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>반대로 지난 CES에서 전력 기술을 뽐냈다가 이번에는 빠지는 곳도 있습니다.</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">두산은 불참, 전력기기 회사들은?</h2>
+
+<p>두산그룹은 CES 2026에서 가스터빈과 소형모듈원전을 앞세웠지만, CES 2027에는 참가하지 않는다고 알려졌습니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p>HD현대일렉트릭, 효성중공업, LS ELECTRIC 같은 전력기기 회사들의 CES 2027 단독 전시 계획도 11월 말 기준으로 확인되지 않았습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p>이들은 원래 가전 전시회보다 전력 산업 전시회에 주로 나서는 회사들입니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p>그래서 이 회사들은 "CES에서 무엇을 내놓나"보다 <b>CES 무대에서 빅테크가 전력 수요를 어떻게 말하나</b>에 더 민감하게 움직이는 편입니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>실제로 이번 주 전력주를 흔든 건 CES가 아니라 엔비디아 소식이었습니다.</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">젠슨 황 복귀와 전력주 급반등</h2>
+
+<p>11월 12일(현지) 물러났던 젠슨 황이 11일 만인 11월 23일 엔비디아 CEO로 돌아왔습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p>이사회 만장일치 결정이었고, 임시 CEO를 맡았던 콜레트 크레스는 최고재무책임자로 복귀했습니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p>바로 다음 날 국내 증시는 크게 반등했고, 전력기기와 배터리 종목이 특히 강했습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p>엔비디아 경영 불안이 AI 데이터센터 투자 둔화 걱정으로 번졌다가, 복귀로 그 걱정이 줄었다는 해석이 나왔습니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p>다만 불과 며칠 전에는 같은 종목들이 함께 크게 빠졌습니다. 외국 정보기관 접근 의혹에 대한 조사도 아직 진행 중입니다. 하루 만에 분위기가 뒤집힐 수 있는 장이라는 뜻입니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>그럼 이 흐름에서 자주 거론되는 한국 관련주를 갈래별로 묶어 보겠습니다.</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">CES 2027 AI 전력 관련주 지도</h2>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/youngsunp9-wq/parkgolf-images-2@9503992554b1b11f9c6cdee9bf4606b4918f9a47/sunnyonul/img2/t06_map.png" alt="AI 전력 관련주 전력망 배전 비상 전원 발전 분류" style="max-width: 100%; height: auto; border-radius: 10px;" /><br /><span style="font-size: 13px; color: #777;">AI 전력 관련주 분류 (투자 권유 아님) · 파인더스 경제인사이트 작성</span></p>
+
+
+<ul>
+<li><b>전력망 기기</b>: HD현대일렉트릭, 효성중공업 (초고압 변압기·차단기)</li>
+<li><b>배전·자동화</b>: LS ELECTRIC (배전반·전력 자동화)</li>
+<li><b>비상 전원·저장</b>: 삼성SDI (UPS 배터리), LG에너지솔루션 (ESS)</li>
+<li><b>발전 설비</b>: 두산에너빌리티 (가스터빈·SMR 기자재)</li>
+</ul>
+
+<p>같은 'AI 전력 관련주'라도 증권가 시선은 엇갈립니다. 전력기기 대형주는 수주 잔고가 크게 늘었는데도 10월 말부터 목표주가를 낮추는 리포트가 이어졌습니다. 종목별 종가와 등락률, 목표주가 변화는 아래 글에 정리해 두었습니다.<br>
+👉 <a href="https://assetparking.tndlrs.com/2026/11/ces-2027-ai-power-stocks-1125.html" target="_blank" rel="noopener">CES 2027 관련주 AI 전력 6종목 점검</a></p>
+
+<div style="background: #fff7ed; border-left: 6px solid #f97316; padding: 16px 18px; margin: 20px 0; border-radius: 8px;">
+⚠️ 이 글은 공개된 발표와 보도를 정리한 정보이며 특정 종목의 매수·매도를 권하지 않습니다. 투자 판단과 책임은 본인에게 있습니다.
+</div>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>관련주 지도를 봤다면, 투자 전에 꼭 짚어야 할 점도 함께 봐야 합니다.</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">AI 전력 관련주, 투자 전 체크포인트</h2>
+
+<ol>
+<li><b>뉴스 한 줄에 크게 흔들립니다</b>: 이번 주처럼 며칠 사이 큰 폭으로 빠졌다가 하루 만에 급반등하는 일이 반복됩니다. 그 사이 기업 실적이 바뀐 것은 아닙니다</li>
+<li><b>목표주가가 내려오는 중입니다</b>: 주가가 낮아진 만큼 저평가라는 시각과, 기대가 너무 높았다는 시각이 함께 나옵니다</li>
+<li><b>CES 전후 변동성</b>: 개막 전 기대감으로 오르고 행사 뒤 차익 매물이 나오는 흐름이 자주 거론됩니다</li>
+<li><b>확인은 공시로</b>: 수주는 전자공시(DART), 전시와 세션 내용은 CES 공식 일정표로 확인하는 것이 안전합니다</li>
+</ol>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p style="font-size: 20px; line-height: 1.7; color: #2f5bea; margin: 0;" data-ke-size="size18"><b>끝으로 자주 받는 질문을 모았습니다.</b></p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">CES 2027 AI 전력 자주 묻는 질문</h2>
+
+<p><b>Q. AI 데이터센터는 왜 그렇게 전기를 많이 쓰나요?</b><br>
+A. AI 칩은 일반 서버 칩보다 훨씬 많은 전력을 쓰고, 열을 식히는 냉각 설비도 전기를 씁니다. 칩을 촘촘히 모을수록 한 곳에서 쓰는 전기가 커집니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p><b>Q. UPS는 무엇인가요?</b><br>
+A. 무정전전원장치입니다. 정전이나 전압이 흔들릴 때 배터리로 잠깐 전기를 대 주어 서버가 꺼지지 않게 하는 장치입니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p><b>Q. CES 2027 전력 세션은 누구나 볼 수 있나요?</b><br>
+A. CES는 업계 관계자 전용 행사라 현장 참관은 등록이 필요합니다. 세션 내용은 행사 뒤 언론 보도로 확인할 수 있습니다.</p>
+
+
+<p data-ke-size="size16">&nbsp;</p>
+<p><b>Q. 전력기기 회사가 CES에 안 나가면 관련주가 아닌가요?</b><br>
+A. 직접 전시하지 않아도 CES 무대에서 나오는 빅테크의 전력 수요 발언에 주가가 반응하곤 합니다. 다만 그만큼 기대만으로 움직이는 변동성도 큽니다.</p>
+
+<h2 style="font-size: 24px; border-bottom: 2px solid #2f5bea; padding-bottom: 6px; margin-top: 40px;">📌 CES 2027 AI 전력 핵심 요약</h2>
+
+<div style="background: #f1f5ff; border-left: 6px solid #2f5bea; padding: 16px 18px; margin: 20px 0; border-radius: 8px;">
+· AI의 다음 병목은 칩이 아니라 <b>전기</b><br>
+· CES 2027 공식 일정에 전력·에너지 세션 4개 (1월 6~7일)<br>
+· 혁신상: 삼성SDI 데이터센터 UPS 배터리, LG에너지솔루션 배터리 진단<br>
+· 두산은 CES 2027 불참, 전력기기 회사들은 참가 계획 미확인<br>
+· 관련주는 전력망 기기, 배전, 비상 전원, 발전 설비로 나눠 보면 쉬움
+</div>
+
+<p style="font-size: 14px; color: #777; margin-top: 30px;">※ CES 공식 일정표와 CTA 발표, 2026년 11월 25일까지의 국내 언론 보도 기준입니다. 기업별 전시 계획은 바뀔 수 있습니다.</p>
+
+</div>
